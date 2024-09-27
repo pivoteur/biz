@@ -57,3 +57,28 @@ even close.
 The _ratio_ of BTC/ETH is the blue line on the chart here.
 
 ![BTC/ETH ratio](imgs/btc-eth-ratio.png)
+
+Notice in the above ratio (the blue line) there are peaks and valleys.
+
+* on the peaks, $BTC's price is high, relative to $ETH, so you swap $BTC to
+$ETH
+* on the valleys, $BTC's price is low, relative to $ETH, so you swap $ETH to
+$BTC
+
+A _pivot_ *has* a principal asset, say, for example, $BTC, and a pivot asset,
+which would be $ETH in this case.
+
+A _pivot_ *is* two trades, the opening trade (say on 2024-06-28), where we 
+trade the principal asset ($BTC, in this case) for $ETH, and the closing 
+trade (say on 2024-08-09), where we trade the exact same amount of $ETH for 
+$BTC.
+
+More $BTC.
+
+... much more $BTC.
+
+As you recall, traditional arbitrage expects gains of 0.10% to 0.25% ROI.
+
+Pivot arbitrage, on the other hand, sees gains between 10% to 40% ROI.
+
+
