@@ -98,29 +98,29 @@ $BTC is 'cheap,' ... relative to $ETH, that is.
 
 ![Open ETH pivot](imgs/02a-open-eth-pivot.png)
 
-2. On 2024-07-27, close the $ETH-pivot by swapping the 0.022 $BTC back, but now
-we get 0.5 $ETH.
+2. On 2024-03-19, close the $ETH-pivot by swapping the 0.08 $BTC back, but now
+we get 1.53 $ETH.
 
 ![Close ETH pivot](imgs/02b-close-eth-pivot.png)
 
-So, with a swap, then, later, a swap back, we've made 0.1 $ETH.
+So, with a swap, then, later, a swap back, we've made 0.17 $ETH.
 
-From 1 $BTC and 18.5 $ETH on 2024-06-23, we now have 1 $BTC and 18.61 $ETH on
-2024-07-27.
+From 1 $BTC and 18.5 $ETH on 2024-03-04, we now have 1 $BTC and 18.67 $ETH on
+2024-03-19.
 
 Now, let's do a $BTC-pivot.
 
-1. On 2024-08-08, we open a $BTC-pivot by swapping 0.071 $BTC for 1.86 $ETH.
+1. On 2024-04-13, we open a $BTC-pivot by swapping 0.09 $BTC for 1.87 $ETH.
 
 ![Open BTC pivot](imgs/02c-open-btc-pivot.png)
 
-2. On 2024-09-23, we close the $BTC-pivot by swapping back the 1.86 $ETH, but
-for 0.078 $BTC now.
+2. On 2024-04-29, we close the $BTC-pivot by swapping back the 1.87 $ETH, but
+for 0.094 $BTC now.
 
 ![Close BTC pivot](imgs/02d-close-btc-pivot.png)
 
-After two pivots, our initial positions of 1 $BTC and 18.5 $ETH are now 1.01
-$BTC and 18.6 $ETH.
+After two pivots, our initial positions of 1 $BTC and 18.5 $ETH are now 1.094
+$BTC and 18.67 $ETH.
 
 That is to say, by using pivot-arbitrage, we have grown _both_ our $BTC and
 $ETH positions, _monotonically increasing, safely_ both sides of the 
