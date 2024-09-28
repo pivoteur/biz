@@ -2,7 +2,8 @@
 
 Welcome.
 
-1. What is pivot arbitrage? How does it differ from traditional arbitrage?
+1. What is pivot arbitrage? How does it differ from traditional arbitrage and
+from liquidity pools (LPs)?
 2. What is the pivot protocol ecosystem?
 3. How do I do this thing?
 
@@ -125,3 +126,11 @@ $BTC and 18.67 $ETH.
 That is to say, by using pivot-arbitrage, we have grown _both_ our $BTC and
 $ETH positions, _monotonically increasing, safely_ both sides of the 
 pivot-pool.
+
+### Pivot arbitrage vs Liquidity Pools (LPs)
+
+We've covered how pivot arbitrage is fundamentally different from traditional
+arbitrage, both in practice and in pacing. How, then, does pivot arbitrage
+differ from supplying liquidity to LPs? After all, you're supplying both
+$BTC and $ETH liquidity to the pivot arbitrage pool, just like you supply
+the same liquidity to the ETH/BTC LP.
