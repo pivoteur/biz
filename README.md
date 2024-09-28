@@ -90,11 +90,11 @@ the technologies used, in this whitepaper.
 
 On y va.
 
-### Scenario: Pivot arbitrage on 1 $BTC and 18.5 $ETH starting 2024-06-23
+### Scenario: Pivot arbitrage on 1 $BTC and 18.5 $ETH starting 2024-03-04
 
-1. On 2024-06-28, open an $ETH-pivot by swapping 0.39 $ETH for 0.022 $BTC. 
-Why? Because the BTC/ETH ratio is _above_ the EMA-20-line, indicating that 
-$BTC is 'cheap,' relative to $ETH, that is.
+1. On 2024-03-07, open an $ETH-pivot by swapping 1.36 $ETH for 0.08 $BTC. 
+Why? Because the BTC/ETH ratio is _below_ the EMA-20-line, indicating that 
+$BTC is 'cheap,' ... relative to $ETH, that is.
 
 ![Open ETH pivot](imgs/02a-open-eth-pivot.png)
 
