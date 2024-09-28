@@ -81,4 +81,47 @@ As you recall, traditional arbitrage expects gains of 0.10% to 0.25% ROI.
 
 Pivot arbitrage, on the other hand, sees gains between 10% to 40% ROI.
 
+Let's prove this out – shall we? – by using the example from above. We're going
+to walk through 2 pivots, one on $ETH as the principal asset, and one on $BTC
+as the principal asset. We'll do the pivots using my technology, unexplained
+for now, show that it works, and how it works via the opening and closing
+pivot trades, then explain what's going on, mathematically, as we develop
+the technologies used, in this whitepaper.
 
+On y va.
+
+### Scenario: Pivot arbitrage on 1 $BTC and 18.5 $ETH starting 2024-06-23
+
+1. On 2024-06-28, open an $ETH-pivot by swapping 0.39 $ETH for 0.022 $BTC. 
+Why? Because the BTC/ETH ratio is _above_ the EMA-20-line, indicating that 
+$BTC is 'cheap,' relative to $ETH, that is.
+
+![Open ETH pivot](imgs/02a-open-eth-pivot.png)
+
+2. On 2024-07-27, close the $ETH-pivot by swapping the 0.022 $BTC back, but now
+we get 0.5 $ETH.
+
+![Close ETH pivot](imgs/02b-close-eth-pivot.png)
+
+So, with a swap, then, later, a swap back, we've made 0.1 $ETH.
+
+From 1 $BTC and 18.5 $ETH on 2024-06-23, we now have 1 $BTC and 18.61 $ETH on
+2024-07-27.
+
+Now, let's do a $BTC-pivot.
+
+1. On 2024-08-08, we open a $BTC-pivot by swapping 0.071 $BTC for 1.86 $ETH.
+
+![Open BTC pivot](imgs/02c-open-btc-pivot.png)
+
+2. On 2024-09-23, we close the $BTC-pivot by swapping back the 1.86 $ETH, but
+for 0.078 $BTC now.
+
+![Close BTC pivot](imgs/02d-close-btc-pivot.png)
+
+After two pivots, our initial positions of 1 $BTC and 18.5 $ETH are now 1.01
+$BTC and 18.6 $ETH.
+
+That is to say, by using pivot-arbitrage, we have grown _both_ our $BTC and
+$ETH positions, _monotonically increasing, safely_ both sides of the 
+pivot-pool.
