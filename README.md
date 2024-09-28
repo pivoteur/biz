@@ -56,7 +56,7 @@ even close.
 
 The _ratio_ of BTC/ETH is the blue line on the chart here.
 
-![BTC/ETH ratio](imgs/btc-eth-ratio.png)
+![BTC/ETH ratio](imgs/01-btc-eth-ratio.png)
 
 Notice in the above ratio (the blue line) there are peaks and valleys.
 
