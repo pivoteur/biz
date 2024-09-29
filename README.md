@@ -163,7 +163,7 @@ sooner if they're being printed to provide incentives.
 That's one issue with LPs: they usually have artifical incentives to invest
 into them.
 
-The other problem for you, the investor into LPs, is their very structure:
+The other problem for you, the investor, into LPs, is their very structure:
 
 > xy = k
 
@@ -208,12 +208,12 @@ difference is that the $ETH and $BTC provided are _additive_ to the pivot
 pool, not _multiplicative_ as they are in the Liquidity pool. This means for
 you, the investor that as the pivot pool grows over time (from P<sub>0</sub> to
 P<sub>1</sub> to P<sub>2</sub> and so on), _either_ your $ETH is growing _or_
-your $BTC is grown, independent of each other, _or both_ are growing as the
+your $BTC is growing, independent of each other, _or both_ are growing as the
 pivot pool grows.
 
 That's a significant difference from liquidity pools.
 
-* In liquidity pools, x and y are _dependent_ variables where one asset
+* In liquidity pools, x and y are _dependent_ variables where one asset's growth
 inversely affects the other asset.
 * In pivot pools, x and y are _independent_ so the growth of one does not
 inversely impact the growth of the other asset at all, and, in fact, both
@@ -227,19 +227,20 @@ But.
 
 But, by investing in an xy = k LP, you are, in effect, betting one asset
 against the other in the LP. If both assets are assets of value and you want
-to see the growth of both, LPs are betther for both assets for you, pivot
-pools are.
+to see the growth of both, LPs are not the most effective, and, in fact, are
+always less efficient than if you simply hold both assets separately. It is
+better for both assets for you to invest into the pivot protocol.
 
 So, that is also why it's necessary for pivot pools only to have assets of
 value in their pools. The success of these pools depend upon this.
 
 How so?
 
-If you have a pivot pool with, say, $LUNA (in the original Terra)  and say, 
-$PSI, which was a down-only asset, then the EMA-20 curve will show $LUNA is
-'overpriced' as compared to $PSI. All the $LUNA eventually is drained to 
-the down-only $PSI: you're left with all $PSI in a downward spiral as $LUNA
-rose from $5 to $120.
+If you have a pivot pool with, say, $LUNA (in the original Terra) and say, 
+$PSI, which turned out to be a down-only asset, then the EMA-20 curve will 
+show $LUNA is 'overpriced' as compared to $PSI. All the $LUNA eventually is 
+drained to the down-only $PSI: you're left with all $PSI in a downward spiral 
+as $LUNA rose from $5 to $120.
 
 How do I know this? Because LPs have the same weakness: as $LUNA rose in
 price, the LP rebalanced to less $LUNA to more $PSI. All my $LUNA was drained
