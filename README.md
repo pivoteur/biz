@@ -252,3 +252,6 @@ similar-value. Therefore you have an $ETH+$BTC pivot pool. Why? Because both
 $ETH and $BTC go up and down, but they have a history of recovering from
 crashes multiple times: they've proved their resiliency.
 
+## Pivot protocol ecosystem
+
+
