@@ -1,6 +1,6 @@
 # Pivot Technologies, LLC.
 
-Welcome.
+[HWÆT](https://en.wiktionary.org/wiki/hw%C3%A6t)!
 
 1. What is pivot arbitrage? How does it differ from traditional arbitrage and
 from liquidity pools (LPs)?
@@ -254,4 +254,15 @@ crashes multiple times: they've proved their resiliency.
 
 ## Pivot protocol ecosystem
 
+### Components
 
+![pivot protocol components](imgs/components/01-components.png)
+
+The pivot protocol is composed of the following components:
+
+1. The pivot pools
+2. The echo pools
+3. The treasury
+4. The you, the investor
+
+We well go over each component in turn.
