@@ -285,6 +285,13 @@ is to use the protocol asset, which, for the pivot protocol is the
 ... which is due in thanks to a generous grant from 
 [Wagyu games](https://www.wagyu.io/).
 
+The pivot pools pay-out pivot arbitrage-gains to the investor (the you), its 
+corresponding echo pool, to the treasury, and back to itself.
+
+With each pivot, the pivot pool grows the protocol. All of it.
+
+The pivot pool starts empty.
+
 ### 2. The Echo Pools
 
 ![The BTC+ETH echo pool](imgs/components/01b-echo-pool.png)
@@ -305,6 +312,84 @@ increases the protocol asset.
 
 As the protocol asset is the only way to invest into protocol, even for 
 investments from the protocol, itself, the echo pool serves to grow the 
-protocol's depth and strength.
+protocol's depth and strength by growing the protocol asset via pivot arbitrage.
 
+The echo pools pay out to the investor (the you) and to the treasury.
 
+The echo pool starts empty.
+
+### 3. The Treasury ([_Norge_](https://en.wikipedia.org/wiki/Norway))
+
+![The Treasury](imgs/components/01c1-treasury-norge.png)
+
+The treasury is the 'safe zone' for assets created and invested into the
+protocol. No trading activity occurs in the treasury, but, instead, the
+investor (the you) may invest into the treasury to receive pay-outs from the
+treasury in two ways:
+
+1. For each gain received from the pivot pools (1.) and echo pools (2.), a
+percentage is paid-out to the investors.
+2. Like for Norway's Oil Fund (officially named the
+[Government Pension Fund of Norway](https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway))
+a small annual percentage of the treasury is disbursed to investors.
+
+The aim of the treasury, like the Norway Oil Fund, is to grow so large that
+this 'small annual percentage disbursement' grows to be quite large over time,
+and this is effected in two ways.
+
+1. The small annual percentage disbursement, so that the liquidity grows large
+without interruption from sticky fingers of people who want money now.
+2. Investments into promising opportunities.
+
+The latter will occur only under two conditions,.
+
+1. A maximum of 10% of treasury funds is to be used for ventures at any time.
+2. So that means that the treasury has to be large enough at the point for
+investment opportunities to be considered.
+
+Just as Wagyu Games saw an opportunity in the pivot protocol to make an
+investment, incubating this protocol, the pivot protocol may invest into
+promising new developments that push advancements in cryptocurrency and its use.
+
+The treasury starts empty.
+
+### 4. The investor (the you)
+
+![The Investor (the you)](imgs/components/01d-investor.png)
+
+Hi, you! This is what makes the protocol work. 100% of the liquidity comes from 
+the you, the investor.
+
+How does this work?
+
+#### Investing into the pivot pool
+
+![Investing into pivot pools](imgs/components/02a-invest-pivot-pool.png)
+
+Let's say you invest 10,000 $UNDEAD tokens into the BTC+ETH pivot pool (1.,
+above). The pivot protocol takes that exact amount of $UNDEAD tokens, 10,000
+tokens, and swap those tokens, over time, to the pivot and principal assets
+of the pivot pool (so, I would swap 10,000 $UNDEAD to $ETH and $BTC tokens)
+and deposit those tokens into the pool. Say you are the first and only investor
+during the first few pivots, you would then receive 100% of the gains allocated
+to investors into to the pool.
+
+Those gains you receive as yields: are they $UNDEAD tokens, like the yields
+are protocol tokens for other protocols?
+
+No, my dear investor. No, they are not.
+
+The yields from your invested $UNDEAD liquidity are paid out in the pivot pool
+gains. That means that the gains on a $BTC-pivot, say, are paid out in $BTC,
+
+Not paid in $UNDEAD. $BTC gains are paid in $BTC.
+
+Correspondingly, the gains on an $ETH-pivot are paid on your $UNDEAD investment
+in $ETH.
+
+Not paid in $UNDEAD. $ETH gains are paid in $ETH.
+
+Let that sink in.
+
+![Let that sink in](imgs/03-let-that-sink-in.jpg)
+So, thank you.
