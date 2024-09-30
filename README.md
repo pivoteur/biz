@@ -524,3 +524,8 @@ and strengthening its pivots.
 
 4. 40% of the gain (again, 0.08 $BTC) goes to the Treasury.
 
+* 0.02 $BTC (investors) + 0.02 $BTC (echo) + 0.08 $BTC (reinvest) + 0.08 $BTC (treasury) = 0.2 $BTC
+
+Q.E.D.
+
+
