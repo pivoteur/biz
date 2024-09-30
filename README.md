@@ -266,3 +266,45 @@ The pivot protocol is composed of the following components:
 4. The you, the investor
 
 We well go over each component in turn.
+
+### 1. The Pivot Pools
+
+![The BTC+ETH pivot pool](imgs/components/01a-pivot-pool.png)
+
+The pivot pools repose the pivot asset and the principal asset (shown here is
+the BTC+ETH pivot pool). Here is where the magic happens, that is to say: where
+opening and closing pivot transactions occur with the pivot and principal
+assets, growing one, the other, or both assets.
+
+The only way the investor (the you) can invest into any part of the protocol
+is to use the protocol asset, which, for the pivot protocol is the 
+[$UNDEAD token](https://www.undeadblocks.com/token-address), 
+
+![The $UNDEAD token](imgs/components/currency/undead.png)
+
+... which is due in thanks to a generous grant from 
+[Wagyu games](https://www.wagyu.io/).
+
+### 2. The Echo Pools
+
+![The BTC+ETH echo pool](imgs/components/01b-echo-pool.png)
+
+While pivot arbitrage is occuring in the pivot pools (1., above), at the same
+time, there is pivot arbitrage occuring focused on protocol-growth in the
+echo pools (here we have the BTC+ETH echo pool, which also includes the protocol
+token, $UNDEAD).
+
+In the echo pool, pivot arbitrage occures between the pivot and principal assets
+(as 1., above), but pivots are also occuring between the protocol asset and the
+pivot and principal assets.
+
+Why?
+
+This not only increases the principal and pivot assets in the pool, but also
+increases the protocol asset.
+
+As the protocol asset is the only way to invest into protocol, even for 
+investments from the protocol, itself, the echo pool serves to grow the 
+protocol's depth and strength.
+
+
