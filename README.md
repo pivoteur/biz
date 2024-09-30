@@ -528,4 +528,21 @@ and strengthening its pivots.
 
 Q.E.D.
 
+### Echo pools
+
+![Echo pool liquidity flow](imgs/flows/02-echo-pools.png)
+
+Again, please refer to this above diagram for the discussion of echo pool
+liquidity flow.
+
+1. 20% of echo pool pivot arbitrage gains goes to the investor (remember,
+the echo pool is populated from its pivot pool at 10% of gains, so the echo
+pool is much smaller: you're not making more tokens by investing in the echo
+pool, generally-speaking).
+
+2. 40% of the echo pool pivot arbitrage gains goes to the treasury.
+
+3. 40% of the echo pool pivot arbitrage gains remain in the echo pool, 
+strengthening its pivot arbitrage trades.
+
 
