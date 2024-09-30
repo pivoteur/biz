@@ -480,3 +480,22 @@ are lower than investments into any specific pivot or echo pool.
 Also, investing into the treasury could be characterized as 'boring' by some
 investors, as all the Treasury does is just sit there, receiving then disbursing
 profit from the active pivot pools.
+
+### Investment summary
+
+You, as the investor, may invest in
+
+* none of the above types
+* one of the above types – pivot pools, echo pools, or the treasurey
+* some of the above types
+* all of the above types of investment vehicles.
+
+Your investment approach depends on your investment goals and tolerance to risk.
+
+## Protocol Liquidity Flow
+
+How does liquidity flow within the Pivot Protocol and why?
+
+### Pivot pools
+
+![Pivot pool liquidity flow](imgs/flows/01-pivot-pools.png)
