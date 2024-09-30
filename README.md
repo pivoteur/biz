@@ -545,4 +545,6 @@ pool, generally-speaking).
 3. 40% of the echo pool pivot arbitrage gains remain in the echo pool, 
 strengthening its pivot arbitrage trades.
 
+### Treasury
 
+![The Treasury liquidity flow](imgs/flows/03-treasury.png)
