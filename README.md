@@ -499,3 +499,28 @@ How does liquidity flow within the Pivot Protocol and why?
 ### Pivot pools
 
 ![Pivot pool liquidity flow](imgs/flows/01-pivot-pools.png)
+
+When a pivot pool completes pivot arbitrage (that is: opens a pivot with a swap
+of the principal asset to the pivot asset _then_ closes that pivot with a swap
+back), there's a gain of the principal asset, let's say, for example, the 
+following pivot occurs:
+
+1. 202a-bb-cc, open pivot: swap 1 $BTC for 18.5 $ETH
+2. 202x-yy-zz, close pivot: swap 18.5 $ETH for 1.2 $BTC
+
+The _gain_ from this pivot is 0.2 $BTC. This gain is distributed throughout the
+protocol in the following manner (please refer to the diagram, above, for the
+distribution-flow).
+
+1. 10% of the gain (in this example, 0.02 $BTC), _in total_, is distributed to
+_all_ investors. So, if your investment comprised 10% of the pool, your yield
+would be 0.002 $BTC.
+
+2. 10% of the gain (again, 0.02 $BTC) would go into the BTC+ETH echo pool for
+pivot arbitrage there to grow the protocol.
+
+3. 40% (e.g.: 0.08 $BTC) _remains_ in the BTC+ETH pivot pool, growing the pool 
+and strengthening its pivots.
+
+4. 40% of the gain (again, 0.08 $BTC) goes to the Treasury.
+
