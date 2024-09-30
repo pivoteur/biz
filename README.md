@@ -330,7 +330,7 @@ treasury in two ways:
 1. For each gain received from the pivot pools (1.) and echo pools (2.), a
 percentage is paid-out to the investors.
 2. Like for Norway's Oil Fund (officially named the
-[Government Pension Fund of Norway](https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway))
+[Government Pension Fund of Norway](https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway)),
 a small annual percentage of the treasury is disbursed to investors.
 
 The aim of the treasury, like the Norway Oil Fund, is to grow so large that
@@ -339,7 +339,14 @@ and this is effected in two ways.
 
 1. The small annual percentage disbursement, so that the liquidity grows large
 without interruption from sticky fingers of people who want money now.
-2. Investments into promising opportunities.
+2. Investments into promising opportunities, both 
+* _internally_ into new pivot pools, renewed pivot pools (like, say, if BTC+ETH 
+becomes so popular that it hits its market cap and there is demand for more of 
+the same), and new kinds of pivot, or other kinds of, pools, as technology 
+develops; and,
+* _externally_ if a bright-eyed, promising, energetic founder has the next 
+killer idea (with a year's worth of transactions as a track-record to prove 
+their pitch).
 
 The latter will occur only under two conditions,.
 
@@ -362,20 +369,31 @@ the you, the investor.
 
 How does this work?
 
-#### Investing into the pivot pool
+## Investing into the Pivot Protocol
 
-![Investing into pivot pools](imgs/components/02a-invest-pivot-pool.png)
+You, the investor, can invest your liquidity into the protocol in three ways:
+
+1. Investing into the pivot pools
+2. Investing into the echo pools
+3. Investing into the treasury
+
+Let's discuss each investment-approach in turn.
+
+### Investing into the pivot pool
+
+![Investing into pivot pools](imgs/investing/01-invest-pivot-pool.png)
 
 Let's say you invest 10,000 $UNDEAD tokens into the BTC+ETH pivot pool (1.,
 above). The pivot protocol takes that exact amount of $UNDEAD tokens, 10,000
-tokens, and swap those tokens, over time, to the pivot and principal assets
-of the pivot pool (so, I would swap 10,000 $UNDEAD to $ETH and $BTC tokens)
-and deposit those tokens into the pool. Say you are the first and only investor
-during the first few pivots, you would then receive 100% of the gains allocated
-to investors into to the pool.
+tokens, – _not_ from the treasury, but from its own reserves – and swaps those 
+tokens, over time, to the pivot and principal assets of the pivot pool (so, the
+protocol would swap 10,000 $UNDEAD to $ETH and $BTC tokens) and deposit those 
+tokens into the pool. Say you are the first and only investor during the first 
+few pivots, you would then receive 100% of the gains allocated to investors 
+into to the pool.
 
 Those gains you receive as yields: are they $UNDEAD tokens, like the yields
-are protocol tokens for other protocols?
+are paid in protocol tokens, as they are for other protocols?
 
 No, my dear investor. No, they are not.
 
@@ -392,4 +410,73 @@ Not paid in $UNDEAD. $ETH gains are paid in $ETH.
 Let that sink in.
 
 ![Let that sink in](imgs/03-let-that-sink-in.jpg)
-So, thank you.
+
+Cool.
+
+### Investing into the echo pool
+
+![Investing into the echo pool](imgs/investing/02-invest-echo-pool.png)
+
+Investing into an echo pool is the same as investing into a pivot pool, as an
+echo pool is a pivot pool.
+
+However, the aim of the echo pool is quite different. The aim for the pivot
+pool is to grow the principal and pivot assets. The aim, however, for the
+echo pool is to grow the protocol asset, so this kind of pool must be deemed
+as _high risk_ as the returns and value depend heavily upon the protocol
+token's value.
+
+That said: this is a good investment for you, the investor, if your aim is to
+grow your protocol token bag.
+
+As before, you, the investor, invest $UNDEAD liquidity into the echo pool. The
+protocol takes an equal number of $UNDEAD tokens, placing (e.g.): $ETH, $BTC, 
+and $UNDEAD tokens (using the BTC+ETH echo pool for this example). The Pivot
+Protocol then executes pivot arbitrage with these tokens, and for yields you get
+in return (less) principal assets, (less) pivot assets, and (more) protocol
+assets.
+
+### Investing into the Treasury
+
+![Investing into the Treasury](imgs/investing/03-invest-treasury.png)
+
+Like with investing into the pivot pools and echo pools, you, the investor,
+invest $UNDEAD tokens into the treasury. As the treasury grows from profits 
+from pivots occuring in the pivot pools and echo pools, it disburses a 
+percentage of this growth to the investors.
+
+It also disburses an annualized percentage of the treasury's entire value to
+investors. 
+
+So, for example, if the treasury is composed of, say:
+
+* 156 $BTC
+* 1560 $ETH and
+* 1,560,000 $UNDEAD
+
+and it disbursed weekly, the a disbursement, _in total to all investors_, would
+be:
+
+* 0.09 $BTC
+* 0.9 $ETH and
+* 900 $UNDEAD
+
+And so, if you had invested $UNDEAD comprising 10% of the treasury's 
+investments, for example, then you would receive:
+
+* 0.009 $BTC
+* 0.09 $ETH and
+* 90 $UNDEAD
+
+as your disbursment.
+
+Since the Treasury receives a percentage of all pivot arbitrage profits, the
+yields from the Treasury you would receive would be comprised of a percentage
+of all pivot and echo pool profits.
+
+However, it must be said that your returns on your investment into the Treasury
+are lower than investments into any specific pivot or echo pool.
+
+Also, investing into the treasury could be characterized as 'boring' by some
+investors, as all the Treasury does is just sit there, receiving then disbursing
+profit from the active pivot pools.
