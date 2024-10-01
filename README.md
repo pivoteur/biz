@@ -1,6 +1,6 @@
 #  Pivot Technologies, LLC.
 
-[HWÆT](https://en.wiktionary.org/wiki/hw%C3%A6t)!
+[HWÆT](https://blogs.bl.uk/digitisedmanuscripts/2013/02/beowulf-online.html)
 
 ![HWÆT](imgs/00-HWÆT.jpg)
 
