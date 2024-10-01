@@ -2,6 +2,8 @@
 
 [HWÆT](https://en.wiktionary.org/wiki/hw%C3%A6t)!
 
+![HWÆT](imgs/00-HWÆT.jpg)
+
 1. What is pivot arbitrage? How does it differ from traditional arbitrage and
 from liquidity pools (LPs)?
 2. What is the pivot protocol ecosystem?
@@ -598,3 +600,37 @@ put a strain on the day-to-day operations of the Pivot Protocol, itself, so:
 no investment nor research will be allowed to take more than 10% of the 
 Treasury's assets.
 
+## Wat do???
+
+So, how do you invest into the Pivot Protocol? 
+
+1. First, you need $UNDEAD liquidity, so you need to obtain $UNDEAD tokens 
+from whichever DEX or CEX provides them. Currently, Uniswap has a fair 
+ETH/UNDEAD swap.
+
+2. Choose the pool that suites your investment-aims and tolerance to risk.
+
+3. If you want to profit from pivot arbitrage across all pivot pools, consider
+investing into the Treasury.
+
+4. Invest for great joy.
+
+Pivot-trades occurs at most once per day per pool, so you don't need to 
+machinegun refresh your browser. Check the protocol once per day, invest
+where you will, harvest your _real_ yields, then spend the rest of your day,
+living your life, ...
+
+... as you do.
+
+![Ride that pivot-curve!](imgs/01-btc-eth-ratio.png)
+
+_fin._
+
+[Cwædon þæt he wære
+> wyruldcyning,
+manna mildust
+> 7 monðwærust,
+leodum liðost,
+> 7 lofgeornost.](https://www.hieronymus.us.com/latinweb/Mediaevum/Beowulf.htm#X43)
+
+![Cwædon þæt he wære wyruldcyning](zz-Cwædon.png)
