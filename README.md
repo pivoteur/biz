@@ -486,7 +486,7 @@ profit from the active pivot pools.
 You, as the investor, may invest in
 
 * none of the above types
-* one of the above types – pivot pools, echo pools, or the treasurey
+* one of the above types – pivot pools, echo pools, or the treasury
 * some of the above types
 * all of the above types of investment vehicles.
 
@@ -548,3 +548,50 @@ strengthening its pivot arbitrage trades.
 ### Treasury
 
 ![The Treasury liquidity flow](imgs/flows/03-treasury.png)
+
+The Treasury is the repository of the protocol's assets, building liquidity
+depth. It serves two functions:
+
+1. Building the wealth of the protocol to be deployed to new pools and new
+projects as the protocol sees fit.
+2. Disbursing protocol-assets to invests from a safe (read: 'slow' or 'boring')
+repository.
+
+Liquidity flows into the Treasury from investors and from the protocol pivot-
+and echo-pools. Liquidity flows from the Treasury in the following ways (please
+refer to the above diagram):
+
+1. When the Treasury receives gains from any pivot, say, e.g.: $BTC, 10% of
+that gain are distributed to all investors.
+2. On a regular cadence, say, e.g.: weekly, an annualized 3% of the protocol's
+assets are distributed to all investors.
+
+Two notes on 2. above. 
+
+* _Assets_ are distinct from _investments_ in the Treasury. The $UNDEAD tokens 
+you, the investor, invest into the Treasury are not disbursed in 2., but, 
+instead, are kept in reserve by the protocol.
+* '3% annualized' means just that. So, if disbursements are weekly, a 3%
+annualized disbursement would be factored for the weekly release, meaning that
+1/52nd of that 3% annualized disbursement would be distributed to all investors,
+_not_, to be clear here, 3% of the Treasury on a weekly basis, as that would
+drain the Treasury's assets quite quickly. The point of the Treasury is to 
+build wealth, not to disburse it.
+
+3. As the protocol grows in success, showing the efficacy of the pivot and echo
+pools, there will be demand for new pivot pools, both for, say more BTC+ETH 
+pivot pools or for pools with other tokens of value, e.g.: $PAXG. An
+apportionment of the Treasury will be used to explore new internal income
+streams.
+
+4. Pivot arbitrage isn't the last new idea in the Blockaverse. Somebody will
+come up with a new approach to investing that uses liquidity in novel ways,
+generating new ways to invest. The Treasury will incubate new, promising,
+proven ideas in crypto finance.
+
+The latter two (3. and 4.) will come after the Pivot Protocol, itself, has
+proven its own resiliency. Also, funding new pivot pools or protocols will not
+put a strain on the day-to-day operations of the Pivot Protocol, itself, so:
+no investment nor research will be allowed to take more than 10% of the 
+Treasury's assets.
+
