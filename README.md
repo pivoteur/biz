@@ -633,4 +633,4 @@ manna mildust
 leodum liðost,
 > 7 lofgeornost.](https://www.hieronymus.us.com/latinweb/Mediaevum/Beowulf.htm#X43)
 
-![Cwædon þæt he wære wyruldcyning](zz-Cwædon.png)
+![Cwædon þæt he wære wyruldcyning](imgs/zz-Cwædon.png)
