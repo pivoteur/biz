@@ -626,11 +626,16 @@ living your life, ...
 
 _fin._
 
-[Cwædon þæt he wære
+[Cwædon þæt he wære](https://www.hieronymus.us.com/latinweb/Mediaevum/Beowulf.htm#X43)
+
 > wyruldcyning,
+
 manna mildust
+
 > 7 monðwærust,
+
 leodum liðost,
-> 7 lofgeornost.](https://www.hieronymus.us.com/latinweb/Mediaevum/Beowulf.htm#X43)
+
+> 7 lofgeornost.
 
 ![Cwædon þæt he wære wyruldcyning](imgs/zz-Cwædon.png)
