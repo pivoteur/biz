@@ -1,4 +1,4 @@
-# Pivot Technologies, LLC.
+#  Pivot Technologies, LLC.
 
 [HWÆT](https://en.wiktionary.org/wiki/hw%C3%A6t)!
 
@@ -290,7 +290,8 @@ corresponding echo pool, to the treasury, and back to itself.
 
 With each pivot, the pivot pool grows the protocol. All of it.
 
-The pivot pool starts empty.
+Each pivot pool is incubated with 50% of its total market capitalization from
+investments of liquidity from both Wagyu Games and the Pivot Protocol.
 
 ### 2. The Echo Pools
 
@@ -316,7 +317,8 @@ protocol's depth and strength by growing the protocol asset via pivot arbitrage.
 
 The echo pools pay out to the investor (the you) and to the treasury.
 
-The echo pool starts empty.
+Each echo pool is funded with 50% of its market capitalization from liquidity
+provided by Wagyu Games and the Pivot Protocol.
 
 ### 3. The Treasury ([_Norge_](https://en.wikipedia.org/wiki/Norway))
 
@@ -358,7 +360,8 @@ Just as Wagyu Games saw an opportunity in the pivot protocol to make an
 investment, incubating this protocol, the pivot protocol may invest into
 promising new developments that push advancements in cryptocurrency and its use.
 
-The treasury starts empty.
+The treasury is initially funded by liquidity from both Wagyu Games and the
+Pivot Protocol.
 
 ### 4. The investor (the you)
 
