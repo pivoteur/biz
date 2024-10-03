@@ -4,4 +4,4 @@
 
 ... chart-verified.
 
-![BTC/ETH chart)(imgs/02-btc-eth-chart.png)
+![BTC/ETH chart](imgs/02-btc-eth-chart.png)
