@@ -51,3 +51,19 @@ How do I get this right? Experience and measures.
 Experience, because when I started I was making $10 trades every day, just to get this thing GOING! Then later, trading much less frequently showed much bigger gains.
 
 Being busy for its own sake is counterproductive.
+
+There are more-experienced traders out there who have killer success but are now broke. They hit, but they miss. Why?
+
+Measures.
+
+Measure and improve. Lather, rinse, repeat.
+
+By measuring results, you know what trades work and which don't, then you can build experience: informed.
+
+SO!
+
+WHEREAS the ROI on the close $ETH pivot is 0.1%, I'll hold off for a better ratio later.
+
+WHEREAS I have 5 open $BTC pivots, I won't open another one at only 22.07% δ-confidence.
+
+The. End.
