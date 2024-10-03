@@ -1,7 +1,7 @@
 2024-10-01: ./dawn recommends an ETH-swap on the ETH/BTC pivot pool. The swap now includes a confidence measure (δ).
 
 ![BTC/ETH chart](imgs/01-btc-eth-chart.png)
-![./dawn recommendation](imgs/02-dawn-rec.png)
+![./dawn recommendation](imgs/02-dawn-rec.jpg)
 
 If you've been following along ./dawn's recommendations (https://x.com/pivocateur/status/1840533290089857111), you may ask: "geophf, why is this trade an 'open ETH'-pivot as opposed to a 'close BTC'-pivot?"
 
@@ -39,6 +39,6 @@ At each close-pivot, you see our overall portfolio-value has grown, and grown in
 
 Now, how do we measure, accurately, the apportionment of each token in a pivot-portfolio, independent of token-price or of number of tokens? That is done by calculating each token's γ (apportionment factor), ...
 
-![Portfolio apportionment](imgs/04-pivot-results.png)
+![Portfolio apportionment](imgs/04-pivot-results.jpg)
 
 ... but that is a conversation for another day. 😎
