@@ -3,7 +3,7 @@
 ![BTC/ETH chart](imgs/01-btc-eth-chart.png)
 ![./dawn recommendation](imgs/02-dawn-rec.jpg)
 
-If you've been following along ./dawn's recommendations (https://x.com/pivocateur/status/1840533290089857111), you may ask: "geophf, why is this trade an 'open ETH'-pivot as opposed to a 'close BTC'-pivot?"
+If you've been following along [./dawn's recommendations](../../09/29), you may ask: "geophf, why is this trade an 'open ETH'-pivot as opposed to a 'close BTC'-pivot?"
 
 That's a good and fair question.
 
