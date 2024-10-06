@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-05](2024/10/05): Rebalance PAXG pivot pool
 * [2024-10-04](2024/10/04): Under 10% ROI; no swap
 * [2024-10-03](2024/10/03): need `./dusk` to make closing-calls.
 * [2024-10-02](2024/10/02): trading too often vs trading not often enough
