@@ -1,7 +1,7 @@
 2024-10-05: ./dawn BTC -> ETH swap called. 
 
 ![./dawn recommendation](imgs/01-dawn-rec.png)
-![BTC/ETH chart](imgs/03-btc-eth.png)
+![BTC/ETH chart](imgs/03-btc-eth-chart.png)
 
 Also, rebalanced the experimental $PAXG pool to be $BTC + $PAXG + $BNB. $BNB replaces $ETH, as $ETH does not oscillate well against $PAXG ($BNB does). 
 
