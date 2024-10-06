@@ -9,9 +9,8 @@ You'll also note the SELL recommendation (BTC -> ETH), which, with the context o
 
 So,
 
-```CSV
-item,work,status,level of effort
-1,./dawn state output,in progress,modification
-2,./dusk,planned,new dApp
-3,./dawn configure min δ for a swap,modification
-```
+|item|work|status|level of effort|
+|----|----|------|---------------|
+|1.|./dawn state output|in progress|modification|
+|2.|./dusk|planned|new dApp|
+|3.|./dawn configure min δ for a swap|planned|modification|
