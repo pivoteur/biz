@@ -14,3 +14,21 @@ BTC + PAXG + BNB pivot pool established with γ-apportionments calculated for ea
 ![PAXG pivot pool apportionment](imgs/03-paxg-pivot-pool-apportionment.png)
 
 Calculating the γ-factor is layered, so I'm writing an article about that. 
+
+Back to ./dawn, specifically the $PAXG pivot pool. First trade recommended is to open a $BNB pivot (pivot against $BTC).
+
+![BNB pivot on BTC](imgs/04-bnb-pivot-on-btc.png)
+
+./dawn also recommends opening a $BNB pivot against $PAXG 
+
+![BNB pivot on PAXG](imgs/05-bnb-pivot-on-paxg.png)
+
+* hm, side note: a two-token pivot pool what your principal asset and what your pivot asset are obvious with the statement "open BNB" but in a three-asset pivot pool, the pivot asset has to be specified "open BNB pivot on PAXG"
+
+Handling 3-token pivot pools manually, I'd just look up the previous trades manually to determine the pivot asset, but that now needs to be explicated on the open pivot trade and handled programmatically on the close pivot trade.
+
+I make both open BNB pivot trades, which affects amounts of BTC, PAXG, and BNB in the PAXG pivot pool. The γ-factors are frozen when calculated (i.e.: they are frozen on the establishment of the pool). The new token-amounts, factored by their γs, give us the new PAXG pool apportionment.
+
+![PAXG pivot pool after open pivots](imgs/06-paxg-pivot-pool-after-trades.png)
+
+The. End. ... for today.
