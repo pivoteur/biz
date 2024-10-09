@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-08](2024/10/08): BTC -> ETH and PAXG
 * [2024-10-07](2024/10/07): BTC -> ETH
 * [2024-10-06](2024/10/06): Controlling calls on δ as well as `min_swap_price`
 * [2024-10-05](2024/10/05): Rebalance PAXG pivot pool
