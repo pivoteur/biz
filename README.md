@@ -1,5 +1,7 @@
 #  Pivot Technologies, LLC.
 
+## Pivot Protocol whitepaper
+
 [HWÆT](https://blogs.bl.uk/digitisedmanuscripts/2013/02/beowulf-online.html)
 
 ![HWÆT](imgs/00-HWÆT.jpg)
