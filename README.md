@@ -510,7 +510,7 @@ and that value is used thereafter as a constant.
 As the γ-factor is frozen, but the number of tokens varies, we now have a way
 to measure disparate tokens in a pivot pool uniformly.
 
-![PAXG pivot pool after a trade](blog/2024-10-09/imgs/06-paxg-pivot-pool-after-trades.png)
+![PAXG pivot pool after a trade](blog/2024/10/09/imgs/06-paxg-pivot-pool-after-trades.png)
 
 ### 5. The investor (the you)
 
