@@ -391,7 +391,7 @@ of the individual tokens, or was that due to the pivot arbitrage?
 
 Well, if $USD-value of the portfolio is not a measure of pivot arbitrage 
 success (and, this is not a spoiler at all: it is not), then is number of
-tokens the measure of success.
+tokens the measure of success?
 
 ... no. I mean, not precisely. And let's do another thought experiment to
 illustrate why.
@@ -423,7 +423,7 @@ of pivot arbitrage by starting with a set-amount of the assets, and then,
 when one of the assets returned to the started amount, did I have more of the
 other? (Yes, I did) And when the *other* asset resettled to the starting amount
 did I have more of the first? (Yes, I did) And when I had more of both, I used
-that as a locus to restart my measures, proving pivot arbitrage when from more
+that as a locus to restart my measures, proving pivot arbitrage went from more
 to even more of the pivoted assets.
 
 That's great, and that's reassuring, ... but it's not precise.
@@ -443,7 +443,7 @@ The γ-factor is different for each token *in* each pivot pool. That is to say:
 * γBTC in the BTC+ETH pivot pool differs from γBTC in the BTC+PAXG+BNB pool.
 
 Or: the γBTC-factor value applies *only* to the pivot pool for which it was
-caluclated, so, in fact, I could write γBTC<sub>ETH</sub> for the γBTC factor
+calculated, so, in fact, I could write γBTC<sub>ETH</sub> for the γBTC factor
 value in the BTC+ETH pivot pool and γBTC<sub>PAXG+BNB</sub> for the
 BTC+PAXG+BNB pivot pool, but I prefer the brevity of γBTC and allow the pivot
 pool for which it is being used to provide that context.
@@ -479,8 +479,38 @@ Let's start with the incept of the BTC+PAXG+BNB pivot pool.
 Here we see the γ-factors already calculated, so let's calculate them, 
 step-by-step, and arrive at the solutions show here.
 
-1. 
+1. At a pivot pool's incept, record the number of tokens for each token-type
+and the token-prices.
 
+2. Compute total $USD amount of each token and the total $USD value of the pool.
+These are the `BTC $`, `PAXG $`, `BNB $`, and `Total $` amounts.
+
+> e.g.: BTC $ = BTC (amount) * BTC quote
+
+Do that for each token-type of the pivot pool.
+
+3. From these values you can now compute the percentages of pivot pool for each
+token.
+
+> e.g.: BTC % = BTC $ / Total $
+
+The token percentages should sum to 100%
+
+4. Now that we have percentages using $USD, we can now compute the γ-factor
+
+> γ-factor = token % / token amount * 100
+
+This γ-factor, computed on pivot pool incept, is frozen. It's computed once
+and that value is used thereafter as a constant.
+
+5. The γ-apportionment of a token is now:
+
+> e.g. γBTC = γBTC factor * BTC amount
+
+As the γ-factor is frozen, but the number of tokens varies, we now have a way
+to measure disparate tokens in a pivot pool uniformly.
+
+![PAXG pivot pool after a trade](blog/2024-10-09/imgs/06-paxg-pivot-pool-after-trades.png)
 
 ### 5. The investor (the you)
 
