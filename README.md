@@ -265,7 +265,8 @@ The pivot protocol is composed of the following components:
 1. The pivot pools
 2. The echo pools
 3. The treasury
-4. The you, the investor
+4. Measuring performance / Calculating apportionment
+5. The you, the investor
 
 We well go over each component in turn.
 
@@ -365,7 +366,123 @@ promising new developments that push advancements in cryptocurrency and its use.
 The treasury is initially funded by liquidity from both Wagyu Games and the
 Pivot Protocol.
 
-### 4. The investor (the you)
+### 4. Asset apportionment / Measuring performance of pivot arbitrage
+
+#### The problem, or: why 'just doing math' is problematic.
+
+How do we know pivot arbitrage works?
+
+Measure, of course.
+
+Measure what? That we have more tokens? Yes, again: of course.
+
+But when pivot arbitrage relies on at least two tokens, of *very* different
+characteristics (price, say), then measuring the performance becomes more 
+tricky than it appears at face value.
+
+What do I mean by this? Let's construct a thought-experiment. Say you have a 
+$BTC + $ETH pivot pool that starts out at $500,000. Some pivot arbitrage occurs
+then the pivot pool is worth $600,000.
+
+Was the pivot arbitrage successful? Sure! you say, but hold on there, pardner!
+
+The price has gone up, and that's great, but was that due to the price-movement
+of the individual tokens, or was that due to the pivot arbitrage?
+
+Well, if $USD-value of the portfolio is not a measure of pivot arbitrage 
+success (and, this is not a spoiler at all: it is not), then is number of
+tokens the measure of success.
+
+... no. I mean, not precisely. And let's do another thought experiment to
+illustrate why.
+
+Say you started your $500,000-portfolio with 4.1 $BTC and 104 $ETH. Then you
+do some pivot arbitrage and now you have 5.2 $BTC and 110 $ETH, but the 
+portfolio $USD value is now $485,000. Was pivot arbitrage successful?
+
+Yes. Yes, it was.
+
+HOW successful was it, *exactly?* And, by *exactly,* I mean what is each
+pivot's ROI? ... what is each pivot's APR? ... what is the pool's APR? What
+was the original apportionment of $BTC in the pivot pool? (Hint: it was 50%)
+What was the original apportionment of $ETH in the pivot pool? (Same hint)
+
+But the trickier question is: what is the apportionment of $BTC and $ETH in the
+current pool, and what percentage gain of each asset occured from the original
+pivot pool?
+
+Now you can do math and get the answers to the above questions, but that 
+requires you have the context of what the $BTC and $ETH prices *were* to compute
+their original apportionment (of course), but also to compare the the results
+you have, pivot to pivot, to get to the pools current value and apportionment.
+
+#### The Solution: γ-factor
+
+I do have experience in this domain. Originally, I had tracked the success
+of pivot arbitrage by starting with a set-amount of the assets, and then,
+when one of the assets returned to the started amount, did I have more of the
+other? (Yes, I did) And when the *other* asset resettled to the starting amount
+did I have more of the first? (Yes, I did) And when I had more of both, I used
+that as a locus to restart my measures, proving pivot arbitrage when from more
+to even more of the pivoted assets.
+
+That's great, and that's reassuring, ... but it's not precise.
+
+What this approach *did* give me, even though it *didn't* give me precision, was
+that it *did* give me the insight that I needed to calculate 
+token-apportionment, independent of price, and a way that, say, $BTC's growth
+could be compared, apples-to-apples, to say, $ETH's growth.
+
+Enter the γ-factor.
+
+#### What is the γ-factor?
+
+The γ-factor is different for each token *in* each pivot pool. That is to say:
+
+* γBTC differs from γETH, but also 
+* γBTC in the BTC+ETH pivot pool differs from γBTC in the BTC+PAXG+BNB pool.
+
+Or: the γBTC-factor value applies *only* to the pivot pool for which it was
+caluclated, so, in fact, I could write γBTC<sub>ETH</sub> for the γBTC factor
+value in the BTC+ETH pivot pool and γBTC<sub>PAXG+BNB</sub> for the
+BTC+PAXG+BNB pivot pool, but I prefer the brevity of γBTC and allow the pivot
+pool for which it is being used to provide that context.
+
+But, still: what is the γ-factor, or, more precisely, how is it used?
+
+The γ-factor of a token is a factor applied to the token-amount to provide
+the apportionment of that token in the pivot pool.
+
+> #btc tokens * γBTC-factor = γBTC
+
+Or: 
+
+> "The number of $BTC tokens multiplied by the γBTC-factor is the $BTC
+apportionment of the pivot pool."
+
+What is the 'token-apportionments' in a pool?
+
+Again, a simple-sounding question that actually has a rather complex answer.
+
+The token-apportionments sum to 100.0 on the incept of a pivot pool, but 
+thereafter the token-apportionments change. Its value can go up or down, due 
+to pivot arbitrage, but after all open pivots are closed, the token 
+apportionments will be monotonically greater than the last time the pivot pool
+had no open pivots.
+
+#### Calculating the γ-factors of a pivot pool
+
+Let's start with the incept of the BTC+PAXG+BNB pivot pool.
+
+![BTC+PAXG+BNB pivot pool incept](blog/2024/10/09/imgs/03-paxg-pivot-pool-apportionment.png)
+
+Here we see the γ-factors already calculated, so let's calculate them, 
+step-by-step, and arrive at the solutions show here.
+
+1. 
+
+
+### 5. The investor (the you)
 
 ![The Investor (the you)](imgs/components/01d-investor.png)
 
