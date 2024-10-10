@@ -11,7 +11,7 @@ For PAXG pivot pool, first, ./dawn recommends BNB -> BTC swap, so I open a secon
 
 ![BTC/BNB chart](imgs/03-btc-bnb.png)
 
-second, ./dawn recommends PAXG -> BTC swap, so I open the first open PAXG pivot on BTC position.
+Second, ./dawn recommends PAXG -> BTC swap, so I open the first open PAXG pivot on BTC position.
 
 ![BTC/PAXG chart](imgs/04-btc-paxg.png)
 
@@ -19,4 +19,4 @@ The $PAXG pivot pool at the conclusion of these trades.
 
 ![PAXG pivot pool after trades](imgs/05-paxg-pivot-pool.png)
 
-You see we're still really balanced betwen the three assets, but we've only just started.
+You see we're still really balanced between the three assets, but we've only just started.
