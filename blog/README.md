@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-13](2024/10/13): no swaps – "When not to pivot?"
 * [2024-10-12](2024/10/12): no swaps
 * [2024-10-11](2024/10/11): no swap on BTC/ETH pool; 2 swaps on PAXG pool
 * [2024-10-10](2024/10/10): no swap on BTC/ETH pool; 2 swaps on PAXG pool
