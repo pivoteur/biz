@@ -38,6 +38,6 @@ Second, ./dawn recommends BTC -> PAXG. This is interesting. For a close pivot (t
 No pivots were closed on 2024-10-16, so that just leaves the reports, ...
 
 ![PAXG pivot pool](imgs/07a-paxg-pivot-pool.png)
-![70% APR gain on pivot trades](imgs/07b-pivot-gains)
+![70% APR gain on pivot trades](imgs/07b-pivot-gains.png)
 
 and HOLY PROFIT! BATMAN! if we had been trading for realz, yo we would be UP A NET $3,000! That's an ROI: 1.5% and a 70% APR that we gained from pivots on the PAXG pool, folks! 😱
