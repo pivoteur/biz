@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-15](2024/10/15): PAXG pivot close; distributions; reports.
 * [2024-10-14](2024/10/14): BTC/ETH and PAXG swaps – the anatomy of a swap
 * [2024-10-13](2024/10/13): no swaps – "When not to pivot?"
 * [2024-10-12](2024/10/12): no swaps
