@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-17](2024/10/17): BTC and PAXG open pivots
 * [2024-10-16](2024/10/16): BTC and PAXG open pivots; 70% APR pivot gains
 * [2024-10-15](2024/10/15): PAXG pivot close; distributions; reports.
 * [2024-10-14](2024/10/14): BTC/ETH and PAXG swaps – the anatomy of a swap
