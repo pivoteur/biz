@@ -47,4 +47,4 @@ Done. ✅ I've modified ./dawn's min_swap to default to $1000.00, no longer reco
 As there are no close-pivots, we simply run the reports. PAXG pivot pool still doing swimmingly. BTC+ETH pivot pool unchanged. 
 
 ![PAXG pivot pool](imgs/08a-paxg-pivot-pool.png)
-![Pivot gains for PAXG pivot pool](08b-pivot-gains.png)
+![Pivot gains for PAXG pivot pool](imgs/08b-pivot-gains.png)
