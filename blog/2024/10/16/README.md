@@ -41,3 +41,13 @@ No pivots were closed on 2024-10-16, so that just leaves the reports, ...
 ![70% APR gain on pivot trades](imgs/07b-pivot-gains.png)
 
 and HOLY PROFIT! BATMAN! if we had been trading for realz, yo we would be UP A NET $3,000! That's an ROI: 1.5% and a 70% APR that we gained from pivots on the PAXG pool, folks! 😱
+
+The BTC+ETH pool's results aren't as rosey, with a net -$1,300 so far. But that is easily explanable with the SIX open BTC pivots.
+
+![BTC+ETH pivot pool](imgs/08a-btc-eth-pivot-pool.png)
+![transactions](imgs/08b-btc-eth-transactions.png)
+![BTC run](imgs/08c-btc-run.png)
+
+The last ninety days has seen a very favorable $BTC run vis-à-vis $ETH. When the curve flips, this pool will close pivots and become profitable again.
+
+Overall, with both the BTC+ETH and the PAXG pivot pools, we are net up $1,700, and that's a very nice net up to be.
