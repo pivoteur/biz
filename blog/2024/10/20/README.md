@@ -19,6 +19,6 @@ Second, ./dawn recommends BTC -> PAXG. No good close pivot (good = ROI > 10%), s
 No close pivots, so we run the reports.For the PAXG pivot pool, you see a bias now against γBTC (as BTC is 'expensive' vs BNB and PAXG), ...
 
 ![PAXG pivot pool](imgs/04a-paxg-pivot-pool.png)
-![Effects of trades on pivot pool](imgs/04v-pivot-trades.png)
+![Effects of trades on pivot pool](imgs/04b-pivot-trades.png)
 
 ... and also quite a gain in the pool, using pivots vs not trading at all.
