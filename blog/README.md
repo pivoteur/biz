@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-20](2024/10/20): PAXG recommendations
 * [2024-10-19](2024/10/19): BTC -> BNB open pivot
 * [2024-10-18](2024/10/18): BTC and PAXG open pivots
 * [2024-10-17](2024/10/17): BTC and PAXG open pivots
