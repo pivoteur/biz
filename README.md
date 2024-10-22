@@ -666,7 +666,7 @@ Each pool is actually 3 wallets:
 
 Why? Let me explain. 
 
-![Investment liquidity flow](imgs/02b-dsa-relations.png)
+![Investment liquidity flow](imgs/components/02b-dsa-relations.png)
 
 1. When the investor invests, their investment goes into the investor stake wallet
 
@@ -680,7 +680,7 @@ Every day, ./otto checks the pool-reserve and converts the $UNDEAD to the pool-a
 
 What does this pool-as-three-wallets give us? Complication? No: simplification.
 
-1. The investors $UNDEAD is safe. They can withdraw at any time.
+1. The investors' $UNDEAD is safe. They can withdraw at any time.
 
 2. The reserve is entirely separate from the pool. We're not commingling assets. This is especially important for the echo-pools and for pivot performance calculations.
 
