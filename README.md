@@ -684,12 +684,6 @@ What does this pool-as-three-wallets give us? Complication? No: simplification.
 
 2. The reserve is entirely separate from the pool. We're not commingling assets. This is especially important for the echo-pools and for pivot performance calculations.
 
-What does this pool-as-three-wallets give us? Complication? No: simplification.
-
-1. The investors $UNDEAD is safe. They can withdraw at any time.
-
-2. The reserve is entirely separate from the pool. We're not commingling assets. This is especially important for the echo-pools and for pivot performance calculations.
-
 #### Example
 
 Let's walk through an example, using the BTC+ETH echo pool.
