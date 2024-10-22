@@ -666,7 +666,7 @@ Each pool is actually 3 wallets:
 
 Why? Let me explain. 
 
-![Investment liquidity flow](imgs/components/02b-dsa-relations.png)
+![Investment liquidity flow](imgs/components/02b-dca-relations.png)
 
 1. When the investor invests, their investment goes into the investor stake wallet
 
