@@ -269,6 +269,7 @@ The pivot protocol is composed of the following components:
 3. The treasury
 4. Measuring performance / Calculating apportionment
 5. The you, the investor
+6. Investing liquidity
 
 We well go over each component in turn.
 
@@ -645,6 +646,63 @@ You, as the investor, may invest in
 * all of the above types of investment vehicles.
 
 Your investment approach depends on your investment goals and tolerance to risk.
+
+### 6. Investing liquidity
+
+Let's look at how we translate invested liquidity into pivot assets. Recall our pivot pool and echo pool components. 
+
+![Pivot Pools](imgs/components/01a-pivot-pool.png)
+![Echo Pools](imgs/componennts/01b-echo-pool.png)
+
+Is this an accurate representation of the pools? Yes, at the component-level, but there's more going on. Let's zoom into the components to get to the details of how the DCA-r, ./otto, works. 
+
+Each pool is actually 3 wallets: 
+
+![Pool wallets](imgs/components/02a-pool-wallets.png)
+
+1. the investor stake, 
+2. the pool, itself,
+3. the reserve
+
+Why? Let me explain. 
+
+![Investment liquidity flow](imgs/02b-dsa-relations.png)
+
+1. When the investor invests, their investment goes into the investor stake wallet
+
+2. The Pivot protocol immediately matches that investment, moving the same amount of $UNDEAD into the pool's reserve from the protocol's reserve (not the treasury; the reserve).
+
+Okay, we have $UNDEAD in two places (three if this were an echo-pool). So what? That's where ./otto comes in.
+
+![./otto reserve swaps](imgs/components/02c-otto.png)
+
+Every day, ./otto checks the pool-reserve and converts the $UNDEAD to the pool-assets, at, importantly: the `min_swap`-value (say: $1k).
+
+What does this pool-as-three-wallets give us? Complication? No: simplification.
+
+1. The investors $UNDEAD is safe. They can withdraw at any time.
+
+2. The reserve is entirely separate from the pool. We're not commingling assets. This is especially important for the echo-pools and for pivot performance calculations.
+
+What does this pool-as-three-wallets give us? Complication? No: simplification.
+
+1. The investors $UNDEAD is safe. They can withdraw at any time.
+
+2. The reserve is entirely separate from the pool. We're not commingling assets. This is especially important for the echo-pools and for pivot performance calculations.
+
+#### Example
+
+Let's walk through an example, using the BTC+ETH echo pool.
+
+1. ./otto sees $UNDEAD in the reserves
+2. ./otto swaps `min_swap` $UNDEAD to $BTC
+3. ./otto swaps `min_swap` $UNDEAD to $ETH
+4. ./otto 'swaps' `min_swap` $UNDEAD to $UNDEAD
+5. ./otto transfers all swapped assets to the pool wallet.
+
+The above swaps will be greatly facilitated by established $UNDEAD LPs. In the event of no $UNDEAD LP, uniswap currently has a fair swap for UNDEAD/ETH at `min_swap` value, so all swaps would start with $UNDEAD -> $ETH, then $ETH -> target asset.
+
+Why DCA at all? Why not just swap all the $UNDEAD to the target assets? A large swap will affect a low liquidity asset's price, such as $UNDEAD, and, if we wait to time the market, we lose out on (much) more profitable pivot-opportunities with the bluechip pivot assets.
 
 ## Protocol Liquidity Flow
 
