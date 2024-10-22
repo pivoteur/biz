@@ -652,7 +652,7 @@ Your investment approach depends on your investment goals and tolerance to risk.
 Let's look at how we translate invested liquidity into pivot assets. Recall our pivot pool and echo pool components. 
 
 ![Pivot Pools](imgs/components/01a-pivot-pool.png)
-![Echo Pools](imgs/componennts/01b-echo-pool.png)
+![Echo Pools](imgs/components/01b-echo-pool.png)
 
 Is this an accurate representation of the pools? Yes, at the component-level, but there's more going on. Let's zoom into the components to get to the details of how the DCA-r, ./otto, works. 
 
