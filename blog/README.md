@@ -4,6 +4,7 @@
 
 ### October
 
+* [2024-10-23](2024/10/23): ./dawn recommendations (WIP)
 * [2024-10-22](2024/10/22): ./dawn recommends no swaps
 * [2024-10-21](2024/10/21): BTC and PAXG recommendations; distributions
 * [2024-10-20](2024/10/20): PAXG recommendations
