@@ -2,6 +2,7 @@
 
 ## October, 2024 entries
 
+* [2024-10-25](25): BTC and PAXG pivot trades; $AMP?
 * [2024-10-24](24): BTC and PAXG pivot trades; `./otto` swaps
 * [2024-10-23](23): ./dawn recommendations
 * [2024-10-22](22): ./dawn recommends no swaps
