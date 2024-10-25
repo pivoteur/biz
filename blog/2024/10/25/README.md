@@ -9,6 +9,9 @@ For the BTC+ETH pivot pool, ./dawn recommends a 0.0227 BTC -> ETH swap. The char
 
 ./dusk rejects the close-pivot as it's "only" 111% APR gain (7% ROI) (pink), so it opens a new BTC-on-ETH pivot (cyan). Note that uniswap's swap is favorable to us, giving us MORE ETH than calculated (green cell). 
 
+![No close pivot](imgs/02a-no-close-pivot.png)
+![Open BTC-on-ETH pivot](imgs/02b-open-btc-pivot.png)
+
 BTC+ETH pivot pool after open-pivot trade.
 
 ![BTC+ETH pivot pool](imgs/03a-btc-eth-pivot-pool.png)
