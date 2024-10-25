@@ -13,7 +13,7 @@ For the BTC+ETH pivot pool, ./dawn recommends BTC -> ETH. The charts bear this o
 
 For the PAXG pivot pool, ./dawn has two recommendations. Let's take each in turn.
 
-![./dawn PAXG recommendations](imgs/02-dawn-paxg-recs)
+![./dawn PAXG recommendations](imgs/02-dawn-paxg-recs.png)
 
 ## BTC -> BNB
 
