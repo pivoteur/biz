@@ -1,6 +1,6 @@
 # Attracting and Keeping liquidity
 
-## Staking/locking vs. amping
+## Locking vs. Amping staked liquidity
 
 <blockquote>
 Synopsis: the problem that protocols face is
@@ -37,7 +37,7 @@ requiring the protocol to liquidate its own assets to cover the withdrawal.
 
 This has sunk more than a few ships on the Blockaverse sea.
 
-So, how do protocols imbue invested liquidity with stability.
+So, how do protocols imbue invested liquidity with stability?
 
 # The Standard Model &trade;
 
@@ -153,7 +153,7 @@ tokens are added to the investment.
 Now, the investor's investment *ALWAYS* get 5% of the pivot pool's gains, but
 their investment is now calculated thusly:
 
-* # $UNDEAD tokens + # $AMP tokens = # invested tokens
+* number of $UNDEAD tokens + number of $AMP tokens = number of invested tokens
 
 In this way, after 6 weeks, an investor is now making the full 10% of the gains
 from pivots because of the $AMP tokens multiplying the returns for that 
