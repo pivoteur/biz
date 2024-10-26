@@ -19,7 +19,7 @@ How would I start?
 * We've demonstrated success with BTC+PAXG+BNB, ... I wish there were a perfect blockchain that has liquidity for all three (Ethereum is weak with both PAXG and BNB, and Binance doesn't even have PAXG) ... osmosis?
 * BNB+LTC+LINK on binance
 
-That's three pivot pools with good intra-oscillatory characteristics, funded at 1.5M $UNDEAD each, or 4.5M $UNDEAD total, DCA'd on the daily with `./otto`.
+Those're three pivot pools with good intra-oscillatory characteristics, funded at 1.5M $UNDEAD each, or 4.5M $UNDEAD total, DCA'd on the daily with `./otto`.
 
 Next, each pivot pool needs an echo pool funded with 1/10 the $UNDEAD of the corresponding pivot pool, 150K $UNDEAD each, or 450K $UNDEAD total
 
