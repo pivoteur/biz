@@ -2,7 +2,10 @@
 
 ## October, 2024 entries
 
-* [2024-10-25](25): BTC and PAXG pivot trades
+* [2024-10-26](26): BTC and PAXG pivot trades;
+[setting up Pivot protocol](../../../articles/pool-setup.md)
+* [2024-10-25](25): BTC and PAXG pivot trades; 
+[amp vs locking article](../../../articles/staking.md)
 * [2024-10-24](24): BTC and PAXG pivot trades; `./otto` swaps
 * [2024-10-23](23): ./dawn recommendations
 * [2024-10-22](22): ./dawn recommends no swaps
