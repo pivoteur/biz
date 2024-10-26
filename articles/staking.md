@@ -25,7 +25,7 @@ because they see that when they stake with you, it puts their earnings to work,
 generating yields from the liquidity they supply.
 
 If you've seen protocols launch, or been the protocol that launches, you 
-invariably see some stakers intent on gaming they system, by staking just
+invariably see some stakers intent on gaming the system, by staking just
 before a vote on governance, or staking just before an airdrop, then destaking
 right away.
 
@@ -87,7 +87,7 @@ exchange for tokens staked. The prime mover here has been Lido Finance, with
 Stader and Eris protocol being notable contributors to this field.
 
 2. *AMP / 'Amplifying tokens'* where amp-tokens are accumulated alongside
-the staked tokens. AMP tokens, generally, are both valuless and virtual or '
+the staked tokens. AMP tokens, generally, are both valuless and virtual or
 synthetic (A notable exception *was* the $sbfGMX amp-tokens of the GMX protocol:
 they were valuless, but were actually fungeable tokens on the blockchain),
 providing a liquidity-multiplier to staked tokens.
@@ -99,7 +99,7 @@ and straightforward need.
 
 So let's examine the latter.
 
-$AMP was made fameous on the Prism protocol. 
+$AMP was made famous on the Prism protocol. 
 
 ![Amp duration](imgs/staking/01a-amp-vault.png)
 ![AMPS available](imgs/staking/01b-amps-available.png)
@@ -129,7 +129,7 @@ The problem with locking is that long locks (rightly) scare away investors.
 The benefit of locks is that the liquidity is locked: there for the protocol.
 
 I propose we lock the liquidity for 1 week / 7 days: the lock is not too
-painful to scare away investors and also provides the needed stability
+painful as to scare away investors and also provides the needed stability
 to commit to investing the liquidity, as that can be done on the same day, or
 on the next day, of when the liquidity is staked.
 
@@ -194,7 +194,7 @@ assured stability to protocol, like locking does.
 
 By combining both with a reasonable approach, a short lock and amping staked
 assets incentivize investors to keep their assets in the protocol without
-penalizing them too harshly with the too far oft-promised awards that fail
+penalizing them too harshly with the too far oft promised awards that fail
 to materialize due to emerging situations that investors have seen far too
 many times.
 
