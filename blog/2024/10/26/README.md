@@ -2,4 +2,4 @@
 
 # BTC+ETH pivot pool
 
-![./dawn BTC recommendation](imgs/01-dawn-btc-eth.png)
+![./dawn BTC recommendation](imgs/01-dawn-btc-rec.png)
