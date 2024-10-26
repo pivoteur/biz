@@ -480,7 +480,7 @@ Let's start with the incept of the BTC+PAXG+BNB pivot pool.
 ![BTC+PAXG+BNB pivot pool incept](blog/2024/10/09/imgs/03-paxg-pivot-pool-apportionment.png)
 
 Here we see the γ-factors already calculated, so let's calculate them, 
-step-by-step, and arrive at the solutions show here.
+step-by-step, and arrive at the solutions shown here.
 
 1. At a pivot pool's incept, record the number of tokens for each token-type
 and the token-prices.
@@ -511,7 +511,8 @@ and that value is used thereafter as a constant.
 > e.g. γBTC = γBTC factor * BTC amount
 
 As the γ-factor is frozen, but the number of tokens varies, we now have a way
-to measure disparate tokens in a pivot pool uniformly.
+to measure disparate tokens in a pivot pool uniformly, thus achieving our
+apples-to-apples comparison for all tokens in the pivot pool.
 
 ![PAXG pivot pool after a trade](blog/2024/10/09/imgs/06-paxg-pivot-pool-after-trades.png)
 
@@ -686,12 +687,11 @@ What does this pool-as-three-wallets give us? Complication? No: simplification.
 
 #### Example
 
-Let's walk through an example, using the BTC+ETH echo pool.
+Let's walk through an example, using the BTC+ETH pivot pool.
 
 1. ./otto sees $UNDEAD in the reserves
 2. ./otto swaps `min_swap` $UNDEAD to $BTC
 3. ./otto swaps `min_swap` $UNDEAD to $ETH
-4. ./otto 'swaps' `min_swap` $UNDEAD to $UNDEAD
 5. ./otto transfers all swapped assets to the pool wallet.
 
 The above swaps will be greatly facilitated by established $UNDEAD LPs. In the event of no $UNDEAD LP, uniswap currently has a fair swap for UNDEAD/ETH at `min_swap` value, so all swaps would start with $UNDEAD -> $ETH, then $ETH -> target asset.
@@ -760,7 +760,7 @@ depth. It serves two functions:
 
 1. Building the wealth of the protocol to be deployed to new pools and new
 projects as the protocol sees fit.
-2. Disbursing protocol-assets to invests from a safe (read: 'slow' or 'boring')
+2. Disbursing protocol-assets to investors from a safe (read: 'slow' or 'boring')
 repository.
 
 Liquidity flows into the Treasury from investors and from the protocol pivot-
