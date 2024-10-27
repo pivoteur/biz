@@ -2,6 +2,7 @@
 
 ## October, 2024 entries
 
+* [2024-10-27](27): BTC and PAXG pivot trades
 * [2024-10-26](26): BTC and PAXG pivot trades;
 [setting up Pivot protocol](../../../articles/pool-setup.md)
 * [2024-10-25](25): BTC and PAXG pivot trades; 
