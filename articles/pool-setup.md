@@ -2,12 +2,10 @@
 
 ## Allocating assets and configuring dApps
 
-<blockquote>
-*Synopsis*: setting up the Pivot protocol is as easy as Lotus 1-2-3!
-
-... most of you are too young to have seen Lotus 1-2-3 in action, or to have 
+> *Synopsis*: setting up the Pivot protocol is as easy as Lotus 1-2-3!
+>
+> ... most of you are too young to have seen Lotus 1-2-3 in action, or to have 
 used it yourselves, ... aren't you.
-</blockquote>
 
 # Selecting and funding the Treasury, pivot-pools, and echo-pools
 
