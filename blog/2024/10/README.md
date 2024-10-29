@@ -2,6 +2,7 @@
 
 ## October, 2024 entries
 
+* [2024-10-29](29): BTC and PAXG pivot trades
 * [2024-10-28](28): BTC and PAXG pivot trades
 * [2024-10-27](27): BTC and PAXG pivot trades
 * [2024-10-26](26): BTC and PAXG pivot trades;
