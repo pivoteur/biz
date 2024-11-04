@@ -1,3 +1,5 @@
+# Technical
+
 2024-11-03: set up 4 wallets, or: 2 pairs of wallets on Ethereum mainnet.
 
 * treasury, and treasury-inv
@@ -11,7 +13,7 @@ The structure of wallets are in the [whitepaper](https://github.com/pivoteur/biz
 
 The treasury and echo pool purposes are described in [subsections 2 and 3](https://github.com/pivoteur/biz/tree/main?tab=readme-ov-file#2-the-echo-pools).
 
----
+# Business
 
 It's time for me to activate (manually) pivots on the echo pool, that will create volume and start to move the price of $UNDEAD.
 
