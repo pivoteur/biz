@@ -1,3 +1,3 @@
-# Meeting minutes, 2024
+# November, 2024 Meeting minutes
 
-* [November, 2024](11)
+* [2024-11-03](03)
