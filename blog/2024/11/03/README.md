@@ -35,3 +35,14 @@ I've began tracking $UNDEAD place, price, market cap and 24-hour volume independ
 We'll see how my pivot-trades start to affect this market. Please remember there'll be a ramp up period for the protocol.
 
 For example, today's volume is $175k, and my trades are going to start at $200, ... that's not even 1% of total daily volume.
+
+---
+
+So, my opening shot is to open up an UNDEAD-on-ETH pivot with 30k $UNDEAD (~$425). 
+
+![Uniswap UNDEAD to ETH swap](imgs/03a-uniswap.png)
+![Open UNDEAD-on-ETH pivot](imgs/03b-open-pivot.png)
+
+I plan on trading, every day, both ways, to build both $ETH and $UNDEAD liquidity and, eventually, strengthen $UNDEAD's price. 
+
+This is the first real, albeit manual, open pivot trade of the pivot protocol. We are operational and engaged in the marketplace. 🥳
