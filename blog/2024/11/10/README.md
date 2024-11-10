@@ -6,3 +6,14 @@ The last two days there were no good close pivots (ETH -> UNDEAD), so today I op
 Note that the computed swap os 50k $UNDEAD -> 0.207 $ETH, but I actually got 0.22 $ETH from the swap, which is a slip to my advantage.
 
 I'll take that slip ;) 
+
+---
+
+In the meanwhile, I've been busy on two fronts:
+
+1. I'm working on a 'Donor HOWTO'-youtube that will show people how to donate. To that end, I have a donor-wallet (already), and I've created an ETH-BTC pool wallet and an ETH-BTC inv wallet.
+2. When people donate, they get an equivalent amount of $UNDEAD which they can invest. Where to invest, though? To that end, I'm creating a site that shows the pivot pools (so far only ETH-BTC), the echo pool, and the treasury: their compositions and wallet address to where they can invest their $UNDEAD. I'm doing all this in AWS. 
+
+I'll also need to create, I just now realized, an ETH-BTC reserve wallet to manage $UNDEAD that's invested which needs to be (slowly/daily) converted to $ETH and $BTC (instead of $UNDEAD from donated $ETH or $BTC). ... update: done. ✅
+
+And that's what I'm working on.
