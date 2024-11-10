@@ -35,3 +35,9 @@ Both pivot pools and $UNDEAD, then, will become more in demand as this realizati
 Some j-random investor [donated 1 ETH to the donor addy](https://etherscan.io/tx/0x82e5ef04ecb2ac4be117ffc6f2310a1eeb714fdf0ae1bb84bca756e25f0d0532), which I moved to the ETH-BTC pivot pool. 🎉
 
 No telling who this person could possibly be (...it me). I am sending an equivalent amount of $UNDEAD to this investor. LET'S SEE IF THEY STAKE THE UNDEAD INTO THE PIVOT POOL! (hint: 'they' will.)
+
+---
+
+# 💥ANNOUNCEMENT! 💥
+
+We have our first investor (the same wallet as the donor), staking $UNDEAD into the [ETH-BTC pivot pool](https://etherscan.io/tx/0x0fa812412c1c04027400d403377cffcad35879645b7157990790083fe6f2d8dd), the [Echo pool](https://etherscan.io/tx/0xe859c75f33772fd93de58357cb42a14daa092b7e71e0f56f1eae1bd23264ac3a), and the [Treasury](https://etherscan.io/tx/0x68fc732b4e95726a3f5d4b71a0649ca348f85a9db85fa91a53b0f2f52dbfacbf). YAY! 

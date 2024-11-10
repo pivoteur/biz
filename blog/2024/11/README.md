@@ -1,6 +1,6 @@
 # November, 2024
 
-* [2024-11-10](10): Open pivot; start pool page design; start donor HOWTO vid; new article [HOWTO fund new pivot pools](../../../articles/funding-pools.md); our first donation.
+* [2024-11-10](10): Open pivot; start pool page design; start donor HOWTO vid; new article [HOWTO fund new pivot pools](../../../articles/funding-pools.md); our first donation; our first `$UNDEAD` investor!
 * 2024-11-09: no entry
 * [2024-11-08](08): UNDEAD status, upped the opening echo pivot
 * [2024-11-06](06): first live echo pivot closed!
