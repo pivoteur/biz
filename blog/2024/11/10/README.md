@@ -27,3 +27,11 @@ The unsaid part of this article, or the business-impact, is this: a very small p
 With 500M $UNDEAD in total, that means demand for $UNDEAD will go up with each pivot pool created, ... when investors get the value of investing into these pivot pools.
 
 Both pivot pools and $UNDEAD, then, will become more in demand as this realization hits.
+
+---
+
+# ANNOUNCEMENT!
+
+Some j-random investor [donated 1 ETH to the donor addy](https://etherscan.io/tx/0x82e5ef04ecb2ac4be117ffc6f2310a1eeb714fdf0ae1bb84bca756e25f0d0532), which I moved to the ETH-BTC pivot pool. 🎉
+
+No telling who this person could possibly be (...it me). I am sending an equivalent amount of $UNDEAD to this investor. LET'S SEE IF THEY STAKE THE UNDEAD INTO THE PIVOT POOL! (hint: 'they' will.)
