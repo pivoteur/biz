@@ -1,5 +1,7 @@
 # November, 2024
 
+* [2024-11-10](10): Open pivot; start pool page design; start donor HOWTO vid
+* 2024-11-09: no entry
 * [2024-11-08](08): UNDEAD status, upped the opening echo pivot
 * [2024-11-06](06): first live echo pivot closed!
 * [2024-11-05](05): gas fees too high to close pivot during the day
