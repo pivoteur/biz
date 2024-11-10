@@ -20,7 +20,7 @@ And that's what I'm working on.
 
 # Business
 
-New article up: [HOWTO fund new pivot pools](../../../articles/funding-pools.md)
+New article up: [HOWTO fund new pivot pools](../../../../articles/funding-pools.md)
 
 The unsaid part of this article, or the business-impact, is this: a very small pivot-pool (market cap of $10,000) will have 1.4M $UNDEAD TVL when fully vested.
 
