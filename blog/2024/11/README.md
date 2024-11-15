@@ -1,5 +1,6 @@
 # November, 2024
 
+* [2024-11-14](14): Third Echo pivot; recomputing γ-factors
 * [2024-11-13](13): $81 swap gas fees, and people wonder why I *LOVE* Ethereum?
 * 2024-11-12: no entry
 * 2024-11-11: no entry
