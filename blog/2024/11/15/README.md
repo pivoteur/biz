@@ -42,4 +42,6 @@ Okay, so we've closed an $UNDEAD pivot --^, let's open a new one, and, now that 
 ![Open UNDEAD pivot](imgs/03b-open-undead-pivot.png)
 ![Open ETH pivot](imgs/03c-open-eth-pivot.png)
 
+# Donor
 
+We have a new donor! My daughter is saving for a car, so, on her behalf (and for the purpose of making a 'donate'-video), I donated $300 worth of $ETH to the Pivot Protocol.
