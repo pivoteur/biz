@@ -46,5 +46,6 @@ attendees: Doug Auclair, Founder, Diane Auclair, co-founder
 2. Write recomputing γ-factors article
 3. Launch BTC+ETH, BTC+DOGE, BNB+BTC, BNB+LTC+LINK, AVAX+QI pools; put on site with stake info
 4. put treasury on site with stake info
+5. put echo pool on site with stake info
 
 completed 1:07 pm
