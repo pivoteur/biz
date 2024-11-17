@@ -1,5 +1,6 @@
 # November, 2024
 
+* [2024-11-17](17): A swap a day ...
 * [2024-11-16](16): Pivot site is now data-driven
 * [2024-11-15](15): Fourth Echo pivot; UX/UI back-end improvements
 * [2024-11-14](14): Third Echo pivot; recomputing γ-factors
