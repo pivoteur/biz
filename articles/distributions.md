@@ -60,7 +60,7 @@ Let's try again, just doing distributions naïvely and d-mn the gas costs.
 1. as before, but for realz, yo, this time.
 2. The `distributor`-app looks up the distributions outbound, based upon the distribution source, ... *trans:* The `distributor` looks up the Echo pool distributions:
 
-![Distribution table](imgs/dist/02-distributions.png)
+![Distribution table](imgs/dist/02-echo-distributions.png)
 
 3. The `distributor` app apportions the gains and distributes, i.e.: 40% back to the echo pool, 40% to the treasury, and 20% to the stakers pool/app.
 
@@ -131,7 +131,7 @@ That means
 
 stays on the Echo pool, saving us 3 transactions right there.
 
-That also means we have out of the original gains 1445 $UNDEAD and 0.005 $ETH to distribute.
+That also means we have out of the original gains 1,445 $UNDEAD and 0.005 $ETH to distribute.
 
 From that, we need to compute what goes to the treasury and what goes to stakers. Let's compute the treasury like we computed the rebate to the echo pool (above) and from those amounts, we'll determine how much goes to stakers.
 
