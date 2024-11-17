@@ -33,3 +33,18 @@ for a total of 0.0077 $ETH (~$23) distributed.
 ![Gains distributed](imgs/03-distributions.png)
 
 Distributions: DONE! ✅
+
+# Meeting
+
+commenced: 11:51 am; Five Guys
+
+attendees: Doug Auclair, Founder, Diane Auclair, co-founder
+
+# TODOs
+
+1. Write δs article
+2. Write recomputing γ-factors article
+3. Launch BTC+ETH, BTC+DOGE, BNB+BTC, BNB+LTC+LINK, AVAX+QI pools; put on site with stake info
+4. put treasury on site with stake info
+
+completed 1:07 pm
