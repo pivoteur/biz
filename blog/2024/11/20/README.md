@@ -11,3 +11,16 @@ I open a new echo pivot and record that pivot.
 Here is the echo pool's status.
 
 ![Echo pool status](imgs/02c-echo-pool.png)
+
+# Pivot pool activations
+
+* The BTC+BNB pivot pool is now activated ... with 0.1 BNB. So I'm looking forward to Donors coming forward to fund this pool! YAY!
+
+![BTC+BNB pivot pool activated](imgs/03-btc-bnb-pool-activated.png)
+
+I bridged ~1 $ETH to Binance to activate the BTC+ETH pivot pool. I swapped 0.5 $ETH (half) for 0.017 $BTC ... our first bit o' $BTC!
+
+![Bridge ETH to Binance](imgs/04a-bridge-eth-to-binance.png)
+![Swap ETH to BTC](imgs/04b-swap-eth-to-btc.png)
+
+... I'll update the stats on the protocol this morning.
