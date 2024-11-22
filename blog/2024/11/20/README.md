@@ -24,3 +24,5 @@ I bridged ~1 $ETH to Binance to activate the BTC+ETH pivot pool. I swapped 0.5 $
 ![Swap ETH to BTC](imgs/04b-swap-eth-to-btc.png)
 
 ... I'll update the stats on the protocol this morning.
+
+(... none too soon, apparently! 😅)
