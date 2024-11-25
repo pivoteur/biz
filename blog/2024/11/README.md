@@ -1,6 +1,6 @@
 # November, 2024
 
-* 2024-11-24: no entry
+* [2024-11-24](24): Templatizing pool-management on Pivot protocol site
 * [2024-11-23](23): Echo pool pivot; otto conversion
 * [2024-11-22](22): Echo pool pivot; opened new pools
 * [2024-11-21](21): Echo pool pivot; Starting new pools; transferring $UNDEAD
