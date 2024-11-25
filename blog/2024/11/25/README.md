@@ -48,3 +48,15 @@ BTC+ETH Pivot pool established on BSC with first two open pivots done on Pancake
 ![Compute initial apportionments](imgs/04d-initial-apportionments.png)
 
 Now to do the remaining pivot pools! YAY! 🎉
+
+# Establishing Pivot Pools
+
+Establishing pivot pools on (e.g.:) Binance entails:
+
+1. transferring liquidity ($ETH) to the pool-wallet
+2. bridging that liquidity to BSC
+3. swapping the $ETH to the pool-assets (i.e.: $BTC and $BNB for the BTC+BNB pivot pool)
+4. opening the first pivots for each asset
+5. computing γ-apportionments for the pool
+
+But first: A NAP! AHA! 😎
