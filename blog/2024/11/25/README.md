@@ -39,3 +39,12 @@ Lots to be done:
 8. represent triple-pivot-pools, e.g.: BNB-LTC-LINK Æsthetically.
 
 Hm. Maybe I can look at 7, in the BTC+ETH pivot pool right now...? Yes, I'll open a pivot for each asset right now.
+
+BTC+ETH Pivot pool established on BSC with first two open pivots done on Pancake swap, which gets better returns than Uniswap.
+
+![Open ETH pivot...](imgs/04a-open-eth-pivot.png)
+![...on pancakeswap](imgs/04b-pancake-swap.png)
+![Open BTC pivot](imgs/04c-open-btc-pivot.png)
+![Compute initial apportionments](imgs/04d-initial-apportionments.png)
+
+Now to do the remaining pivot pools! YAY! 🎉
