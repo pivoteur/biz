@@ -1,5 +1,6 @@
 # November, 2024
 
+* [2024-11-27](27): Transfer liquidity off Mainnet
 * [2024-11-26](26): $100+ slippage
 * [2024-11-25](25): Echo pool pivot; otto conversion
 * [2024-11-24](24): Templatizing pool-management on Pivot protocol site
