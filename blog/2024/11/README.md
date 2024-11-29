@@ -1,5 +1,7 @@
 # November, 2024
 
+* [2024-11-29](29): Transfer liquidity; Echo pool pivot
+* 2024-11-28: Happy Thanksgiving in the USA! (no entry)
 * [2024-11-27](27): Transfer liquidity off Mainnet
 * [2024-11-26](26): $100+ slippage
 * [2024-11-25](25): Echo pool pivot; otto conversion
