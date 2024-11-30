@@ -1,5 +1,6 @@
 # November, 2024
 
+* [2024-11-30](30): No $UNDEAD swap on [Uniswap](https://app.uniswap.org/swap?chain=mainnet&inputCurrency=0x310c8f00b9de3c31ab95ea68feb6c877538f7947&outputCurrency=NATIVE&value=14000&field=input)
 * [2024-11-29](29): Transfer liquidity; Echo pool pivot
 * 2024-11-28: Happy Thanksgiving in the USA! (no entry)
 * [2024-11-27](27): Transfer liquidity off Mainnet
