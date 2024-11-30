@@ -68,3 +68,13 @@ I take the $ETH-liquidity transferred from @ethereum to @avax and swap it to $AV
 ![Swap $ETH to $AVAX](imgs/08a-eth-avax.png)
 ![Swap $ETH to $QI](imgs/08b-eth-qi.png)
 
+With the $AVAX and $QI I open their respective pivots in the pool. The pool apportionment settles thusly.
+
+![Open $AVAX pivot](imgs/09a-avax-qi.png)
+![Open $QI pivot](imgs/09b-qi-avax.png)
+![AVAX+QI open pivots recorded](imgs/09c-avax-qi-composition.png)
+![AVAX+QI apportionment](imgs/09d-avax-qi-apportionment.png)
+
+We now have 5 active pivot pools.
+
+TODO: a data-driven summary page for these pivot pools.
