@@ -1,5 +1,25 @@
 # November, 2024
 
+## month-end report
+
+November, 2024:
+
+* Total $UNDEAD sold: 819447
+* USD-value: $4,648.76
+
+![Echo pivot gains](imgs/01-echo-pool-gains.png)
+
+* Echo pool profit: $1,062.89
+
+other pools haven't pivoted yet, so no profits to record there yet.
+
+Total protocol allocations on pivoteur.github.io and shown here: 
+
+![Protocol allocations](imgs/02a-protocol-allocations.png)
+![Protocol TVL](imgs/02b-protocol-tvl.png)
+
+## daily reports
+
 * [2024-11-30](30): No $UNDEAD swap on [Uniswap](https://app.uniswap.org/swap?chain=mainnet&inputCurrency=0x310c8f00b9de3c31ab95ea68feb6c877538f7947&outputCurrency=NATIVE&value=14000&field=input)
 * [2024-11-29](29): Transfer liquidity; Echo pool pivot
 * 2024-11-28: Happy Thanksgiving in the USA! (no entry)

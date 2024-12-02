@@ -2,6 +2,7 @@
 
 ## 2024 entries
 
-* [November](11)
-* [October](10)
-* [September](09)
+* [December, 2024](12)
+* [November, 2024](11)
+* [October, 2024](10)
+* [September, 2024](09)
