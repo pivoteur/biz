@@ -113,7 +113,7 @@ Yes.
 * Distributions that are not precomputed are 9 in total.
 * precomputed distributions: 3 (and precompution, which is free after encodification)
 
-That's why i answered, simply, 'yes' before.
+That's why I answered, simply, 'yes' before.
 
 Recall the amounts gained:
 
