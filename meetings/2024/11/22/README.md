@@ -9,7 +9,7 @@
 
 ## Locations
 
-* Cafe V
+* Café V
 * Shilla Bakery
 
 ## Minutes
