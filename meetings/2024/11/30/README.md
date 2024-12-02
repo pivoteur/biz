@@ -10,7 +10,7 @@
 
 ## agenda
 
-This meeting was to triage the issue that [$UNDEAD is not tradeable on Uniswap anymore](../../../blog/2024/11/30).
+This meeting was to triage the issue that [$UNDEAD is not tradeable on Uniswap anymore](../../../../blog/2024/11/30).
 
 I brought up that I can bring in private assets that I gain from personal pivots then trade $UNDEAD for these assets OTC ('over the counter'). Kyle tasked Flu to look into setting up LPs on DEX outside of Uniswap (also outside the Ethereum blockchain). Flu pointed that we need to bridge assets to do that. Kyle replied that bridging is now going to 50 blockchains via Owl Protocol.
 
