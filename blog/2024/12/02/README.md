@@ -35,3 +35,19 @@ And, same: after closing this pivot, I open a new $BNB-on-$LTC pivot and a new $
 ![New min BNB/LTC δ](imgs/02d-new-min-bnb-ltc-δ.png)
 
 Pivots: they just work, fam. 
+
+## Gains, Composition, Apportionment
+
+After closing the pivots, and opening new ones, the gains and apportionment of the BNB+LTC+LINK pivot pool are as shown below.
+
+![BNB+LTC+LINK gains](imgs/03a-gains.png)
+![BNB+LTC+LINK composition](imgs/03b-composition.png)
+![BNB+LTC+LINK apportionment](imgs/03c-apportionment.png)
+
+Now let's distribute the gains. 
+
+## Distribution
+
+Distributing the token-gains is per [this article](https://github.com/pivoteur/biz/blob/main/articles/distributions.md). I have a spreadsheet that computes the distributions. 
+
+![Distributions computer](imgs/04-token-distribution.png)
