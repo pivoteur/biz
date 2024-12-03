@@ -47,3 +47,5 @@ There are no other pivots on @binance, and the gains are below distribution leve
 ![Record gains-in-reserve](imgs/04-record-reserves.png)
 
 I'll distribute gains when they exceed $40-per-token-distributed. 
+
+* TODOne: data updated on website. ✅
