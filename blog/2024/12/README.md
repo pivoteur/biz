@@ -1,5 +1,7 @@
 # December, 2024
 
+* [2024-12-08](08)
+* 2024-12-07: no entry
 * [2024-12-06](06)
 * [2024-12-05](05)
 * [2024-12-04](04) ... you see no comments here, so ... 'well-oiled machine'?
