@@ -1,5 +1,7 @@
 # December, 2024
 
+* [2024-12-13](13)
+* 2024-12-12: no entry. Worked on establishing experimental/alt pools
 * [2024-12-11](11)
 * 2024-12-10: no entry
 * 2024-12-09: no entry
