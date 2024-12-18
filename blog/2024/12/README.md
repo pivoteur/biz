@@ -1,5 +1,9 @@
 # December, 2024
 
+* [2024-12-17](17)
+* 2024-12-15 - 2024-12-16: worked on improving website. AVAX+QI now data-driven,
+showing radar and history-views. But this is covered in 
+[meeting minutes](../../../meetings/2024/12/15).
 * [2024-12-14](14)
 * [2024-12-13](13)
 * 2024-12-12: no entry. Worked on establishing experimental/alt pools
