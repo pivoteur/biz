@@ -1,5 +1,7 @@
 # December, 2024
 
+* [2024-12-19](19)
+* 2024-12-18: no entry
 * [2024-12-17](17)
 * 2024-12-15 - 2024-12-16: worked on improving website. AVAX+QI now data-driven,
 showing radar and history-views. But this is covered in 
