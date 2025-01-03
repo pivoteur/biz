@@ -16,8 +16,8 @@
 
 ## UNDEAD 2024 
 
-* UNDEAD sold: 
-* UNDEAD bought 
+* UNDEAD sold: 824038
+* UNDEAD bought: 824002
 
 ## Per-pool gains/(losses) for 2024 
 
