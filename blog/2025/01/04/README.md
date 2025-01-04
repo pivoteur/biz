@@ -29,7 +29,7 @@ So, I
 
 * swap that to $DOGE in order to 
 
-![Open DOGE-on-BTC pivot](imgs/02d-open-doge-pivot,png)
+![Open DOGE-on-BTC pivot](imgs/02d-open-doge-pivot.png)
 
 * open a new DOGE-on-BTC pivot, which I do.
 
