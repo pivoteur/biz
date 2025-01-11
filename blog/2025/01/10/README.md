@@ -38,7 +38,7 @@ Now, do I open a new BTC+ETH pivot here?
 No. Why? The δ is meh, and we have pivots in both directions around this band. 
 
 ![Meh δ](imgs/03a-meh-δ.png)
-![Open BTC+ETH pivots](imgs/03b-open-btc-eht-pivots.png)
+![Open BTC+ETH pivots](imgs/03b-open-btc-eth-pivots.png)
 
 ## BTC+DOGE
 
