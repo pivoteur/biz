@@ -1,5 +1,6 @@
 # January, 2025
 
+* [2025-01-22](22): pivoting
 * [2025-01-20](20): Pool-indexing automation coded; going for stake automation
 * [2025-01-17](17): BTC pools automated; working on automating BNB pools
 * [2025-01-15](15): Reading pool names as set from data
