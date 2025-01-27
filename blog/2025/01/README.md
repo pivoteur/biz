@@ -1,5 +1,6 @@
 # January, 2025
 
+* [2025-01-26](26): TVL data and code rework
 * [2025-01-23](23): pivoting
 * [2025-01-22](22): pivoting
 * [2025-01-20](20): Pool-indexing automation coded; going for stake automation
