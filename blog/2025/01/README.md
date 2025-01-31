@@ -1,5 +1,6 @@
 # January, 2025
 
+* [2025-01-31](31): Janus / Gemini
 * [2025-01-30](30): Templatizing pool-pages
 * [2025-01-28](28): Venn Diagram of pivot pools
 * [2025-01-27](27): No pivots today
