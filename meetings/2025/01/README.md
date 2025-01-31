@@ -1,5 +1,6 @@
 # January, 2025 Meeting minutes
 
+* [2025-01-29](29): Templatizing pool-page
 * [2025-01-28](28)
 * [2025-01-26](26): Demo
 * [2025-01-25](25)
