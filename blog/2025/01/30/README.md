@@ -32,4 +32,7 @@ I have what you would call a 'hate-hate'-relationship with infrastructure coding
 
 So, there you have it. I'm going to be coding away for more hours than I want, grumbling at every moment of me doing it, ... and when the changes are in, I'm going to save tons of time and eliminate tons of duplication, ... and being ungrateful at all the time I save later. 😭
 
+# ANNOUNCEMENT!
 
+Pools-page Venn Diagram now has an interactive tooltip that shows USD-amount of crypto in play for pivot arbitrage. 
+[Pivot Protocol](https://pivoteur.github.io/#)
