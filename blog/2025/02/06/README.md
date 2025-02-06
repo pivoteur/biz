@@ -33,3 +33,10 @@ Take a second to study the γ-apportionment: what does it tell us? It's saying t
 Thus endeð pivots for today, and look at me ending my work-day at 5 pm like some kind of psychopath!
 
 The [pivot protocol](https://pivoteur.github.io/#) 
+
+# ANNOUNCEMENT
+
+TVL now part of the UX for the [Pivot Protocol](https://pivoteur.github.io/#) dashboard and pools (index) page. 
+
+![Protocol Dashboard with TVL](imgs/04a-dash-tvl.png)
+![Protocol Pools (index) with TVL](imgs/04b-pools-tvl.png)
