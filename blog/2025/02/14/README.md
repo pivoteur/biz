@@ -14,7 +14,7 @@ Huh.
 
 "Maintenance"? 
 
-![BSC under maintenance](imgs/02-close-bnb-on-btc.png)
+![BSC under maintenance](imgs/01-maintenance.png)
 
 I have a transaction pending today, as well, more than 24 hours later. 
 
