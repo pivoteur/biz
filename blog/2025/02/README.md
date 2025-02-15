@@ -1,5 +1,6 @@
 # February, 2025
 
+* [2025-02-15](15)
 * [2025-02-14](14): delayed transactions on Binance Smart chain
 * [2025-02-13](13)
 * [2025-02-11](11)
