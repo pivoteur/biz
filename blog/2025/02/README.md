@@ -1,5 +1,6 @@
 # February, 2025
 
+* [2025-02-18](18): no pivots
 * [2025-02-17](17): slow/no swaps on BSC / pancakeswap
 * [2025-02-15](15)
 * [2025-02-14](14): delayed transactions on Binance Smart chain
