@@ -1,5 +1,6 @@
 # February, 2025
 
+* [2025-02-20](20): no pivots
 * [2025-02-19](19): no pivots
 * [2025-02-18](18): no pivots
 * [2025-02-17](17): slow/no swaps on BSC / pancakeswap
