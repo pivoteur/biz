@@ -1,5 +1,6 @@
 # February, 2025 Meeting minutes
 
+* [2025-02-23](23): Solana thoughts
 * [2025-02-19](19): Exploring Cardano
 * [2025-02-16](16): consolidating assets
 * [2025-02-10](10): automating site-navigation
