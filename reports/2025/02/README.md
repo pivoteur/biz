@@ -23,3 +23,6 @@
 
 Total pivot gains, February, 2025 : $363.24 
 
+# Conclusion
+
+Lots of activity to break even this month, which is a good thing, actually, as gains matched operational expenses.
