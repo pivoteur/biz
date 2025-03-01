@@ -1,5 +1,6 @@
 # 2025 Reports
 
+* [February, 2025](02)
 * [January, 2025](01)
 
 # Year-to-date report
