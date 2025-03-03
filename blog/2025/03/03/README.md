@@ -16,4 +16,10 @@ The LTC+LINK pivot pool composition and γ-apportionment are as charted.
 ![LTC+LINK composition](imgs/01c-comp.png)
 ![LTC+LINK γ-apportionment](imgs/01d-apport.png)
 
+# Conclusion
 
+![Pivot protocol dashboard](imgs/02-dash.png)
+
+This concludes pivoting for today. HAND! 😊
+
+The [Pivot protocol](https://pivoteur.github.io/#)
