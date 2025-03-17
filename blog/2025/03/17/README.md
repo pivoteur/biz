@@ -18,3 +18,12 @@ Good morning, all.
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like then?
 
 [$UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks)
+
+# No pivots
+
+![Pivot protocol dashboard](imgs/02a-dash.png)
+![Pivot protocol pools](imgs/02b-pools.png)
+
+No pivots today.
+
+The [Pivot protocol](https://pivoteur.github.io/)
