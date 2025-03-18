@@ -1,5 +1,6 @@
 # March, 2025
 
+* [2025-03-18](18)
 * [2025-03-17](17): $UNDEAD-reportage
 * 2025-03-14 - 2025-03-16: no pivots
 * [2025-03-13](13): hedging pivot pools
