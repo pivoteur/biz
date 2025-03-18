@@ -30,7 +30,7 @@ WOOT! 💥
 I close a BTC-on-BNB pivot for gains of:
 
 * actual ROI: 13.02% / 52.21% APR projected
-* or: 0.003 $BTC -> $BNB -> 0.0034
+* or: 0.003 $BTC -> $BNB -> 0.0034 $BTC
 * or: $32-gain on $318-pivot
 
 ![Negative δ](imgs/02b-neg.png)
