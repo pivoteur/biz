@@ -17,3 +17,18 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 
 [$UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
 
+# PIVOTS
+
+## BTC+BNB
+
+![Positive δ](imgs/02a-pos.png)
+![Open BTC-on-BNB pivot](imgs/02b-open-btc-on-bnb.png)
+
+No close pivots, but the δ, finally being positive again, calls to open a BTC-on-BNB pivot, which I do.
+
+The BTC+BNB composition and γ-apportionment are as charted. 
+
+![BTC+BNB composition](imgs/02c-comp.png)
+![BTC+BNB γ-apportionment](imgs/02d-apport.png)
+
+
