@@ -91,4 +91,20 @@ The positive δ calls to open a BNB-on-LINK pivot but all $BNB is commited. Inst
 ![Positive δ](imgs/08b-pos.png)
 ![Open LINK-on-BNB hedge](imgs/08c-open-link-on-bnb-hedge.png)
 
+The BNB+LINK pivot pool composition and γ-apportionment are as charted. 
 
+![BNB+LINK composition](imgs/09a-comp.png)
+![BNB+LINK γ-apportionment](imgs/09b-apport.png)
+
+# Conclusion
+
+This concludes the pivots for today
+
+* 4 pivots (3 hedge-trades and 1 close-pivot)
+* gains of $187.07 on $1,345.02 traded
+* ROI: 13.91%
+
+![Pivot protocol dashboard](imgs/10a-dash.png)
+![Pivot protocol TVL](imgs/10b-tvl.png)
+
+[The Pivot protocol](https://pivoteur.github.io/#)
