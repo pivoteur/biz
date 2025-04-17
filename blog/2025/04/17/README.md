@@ -39,3 +39,56 @@ The BTC+ETH composition and γ-apportionment are as charted.
 ![BTC+ETH composition](imgs/03a-comp.png)
 ![BTC+ETH γ-apportionment](imgs/03b-apport.png)
 
+## BTC+DOGE
+
+![Close DOGE-on-BTC hedge](imgs/04a-close-doge-on-btc-hedge.png)
+
+I close a DOGE-on-BTC hedge for gains of:
+
+* actual ROI: 10.94% / 114.06% APR projected
+* or: $51-gain on $500-hedge
+* or: 3000 $DOGE -> $BTC -> 3320 $DOGE
+
+The positive δ calls to open a BTC-on-DOGE pivot but all $BTC is committed, so I open a DOGE-on-BTC hedge, instead. 
+
+The BTC+DOGE pivot pool composition and γ-apportionment are as charted.
+
+![BTC+DOGE composition](imgs/05a-comp.png)
+![BTC+DOGE γ-apportionment](imgs/05b-apport.png)
+
+## BNB+LTC
+
+![Close LTC-on-BNB hedge](imgs/06a-close-ltc-on-bnb-hedge.png)
+
+I close an LTC-on-BNB hedge for gains of:
+
+* actual ROI: 19.62% / 204.64% APR projected
+* or: 1.13 $LTC -> $BNB -> 1.352 $LTC
+* or: $17-gain on $110-hedge
+
+The positive δ calls to open a BNB-on-LTC pivot, but all $BNB is commited. Instead, I open an LTC-on-BNB hedge. 
+
+![Positive δ](imgs/06b-pos.png)
+![Open LTC-on-BNB hedge](imgs/06c-open-ltc-on-bnb-hedge.png)
+
+The BNB+LTC pivot pool composition and γ-apportionment are as charted. 
+
+![BNB+LTC composition](imgs/07a-comp.png)
+![BNB+LTC γ-apportionment](imgs/07b-apport.png)
+
+## BNB+LINK
+
+![Close LINK-on-BNB pivot](imgs/08a-close-link-on-bnb.png)
+
+I close a LINK-on-BNB pivot for gains of:
+
+* actual ROI: 10.97% / 114.40% APR projected
+* or: 15.5 $LINK -> $BNB -> 17.9 $LINK
+* or: $28-gain on $236-pivot
+
+The positive δ calls to open a BNB-on-LINK pivot but all $BNB is commited. Instead I open a LINK-on-BNB hedge. 
+
+![Positive δ](imgs/08b-pos.png)
+![Open LINK-on-BNB hedge](imgs/08c-open-link-on-bnb-hedge.png)
+
+
