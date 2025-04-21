@@ -16,3 +16,25 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 
 [$UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
 
+# PIVOTS
+
+## BNB+LINK
+
+![Negative δ](imgs/02a-neg.png)
+![Open LINK-on-BNB pivot](imgs/02b-open-link-on-bnb.png)
+
+No close pivots. A negative δ calls to open a LINK-on-BNB pivot, which I do.
+
+The BNB+LINK composition and γ-apportionment are as charted. 
+
+![BNB+LINK pivot pool composition](imgs/02c-comp.png)
+![BNB+LINK pivot pool γ-apportionment](imgs/02d-apport.png)
+
+# Conclusion
+
+![Pivot protocol dashboard](imgs/03a-dash.png)
+![Pivot protocol TVL](imgs/03b-tvl.png)
+
+This concludes pivots for today.
+
+[The Pivot protocol](https://pivoteur.github.io/#)
