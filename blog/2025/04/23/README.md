@@ -28,7 +28,7 @@ No close pivots. A negative δ calls to open a DOGE-on-BTC pivot, which I do.
 The BTC+DOGE pivot pool composition and γ-apportionment are as charted. 
 
 ![BTC+DOGE pivot pool composition](imgs/02c-comp.png)
-![BTC+DOGE pivot pool γ-apportionment](imgs/02c-apport.png)
+![BTC+DOGE pivot pool γ-apportionment](imgs/02d-apport.png)
 
 ## BNB+LTC
 
@@ -40,7 +40,7 @@ No close pivots. A negative δ calls to open an LTC-on-BNB pivot, which I do.
 The BNB+LTC pivot pool composition and γ-apportionment are as charted.
 
 ![BNB+LTC pivot pool composition](imgs/03c-comp.png)
-![BNB+LTC pivot pool γ-apportionment](imgs/03c-apport.png)
+![BNB+LTC pivot pool γ-apportionment](imgs/03d-apport.png)
 
 # Conclusion
 
