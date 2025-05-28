@@ -17,5 +17,6 @@
 
 ## Action Items
 
-* me: codify working agreement highlights as bullet points to Ken Gamble
+* me: [draft a working agreement](agreement.md) with highlights as bullet 
+points to Ken Gamble
 * me: set up follow-up meeting, scheduled for: 2025-05-29, 10 pm
