@@ -1,4 +1,4 @@
-# Working Agreement, draft, 2025-05-28
+# Working Agreement: UNDEAD Revitalization, draft, 2025-05-28
 
 ## Legalize Terms
 
@@ -97,7 +97,7 @@ UNDEAD token and also to capture more value for the token-holders, which include
 us, which form the majority holders of the token. This incidentally benefits
 any and every holder of the UNDEAD token, current and future.
 
-## Prerequisits
+## Prerequisites
 
 For this agreement to succeed, we need an environment amendable. I foresee such
 an environment being:
