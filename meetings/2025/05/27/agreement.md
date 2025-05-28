@@ -22,7 +22,7 @@ start of the effort
 * We meet regularly to measure the effort's success and adjust as necessary
 * Either party may terminate this agreement. I consider it a courtesy for both
 parties to discuss the reason for termination and the time of termination, or
-we may continue this for as long as we shall live if so amendable.
+we may continue this for as long as we shall live if so amenable.
 
 ## Terms of Agreement
 
@@ -99,7 +99,7 @@ any and every holder of the UNDEAD token, current and future.
 
 ## Prerequisites
 
-For this agreement to succeed, we need an environment amendable. I foresee such
+For this agreement to succeed, we need an amenable environment. I foresee such
 an environment being:
 
 * an alt-blockchain with transaction fees less than $1-per.
