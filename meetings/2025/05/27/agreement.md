@@ -111,9 +111,16 @@ intermediary token (such as ETH or the protocol token or USDC) in order to
 materialize the UNDEAD on the alt-blockchain (tl;dr: I need to get the UNDEAD
 on the alt-blockchain without catastrophic damage to the transferred amount)
 * I need to use all the UNDEAD at my disposal for this effort, this entails me 
-*terminating* all pivot pools. I donated all tokens pivoted, so those tokens 
-that are not UNDEAD will be returned to me. *ALL* UNDEAD collected from pivot 
-pools, including all gains, will be used for the purposes of this agreement.
+*terminating* all pivot pools. Why? The previous effort was to prove pivoting
+works (it does) and to prove UNDEAD pivoting works and is profitable (it is).
+Advancing the pivot protocol while UNDEAD is unstable is not prudent; therefore,
+I recommend shutting down the pivot protocol for now, focusing all our efforts
+in revitalizing the UNDEAD token, *then* reinstating parts of the pivot protocol
+into the UNDEAD site in a gradual, measured approach, using a stabilized UNDEAD
+token as its protocol token.
+* I donated all tokens pivoted, so those tokens that are not UNDEAD will be 
+returned to me. *ALL* UNDEAD collected from pivot pools, including all gains, 
+will be used for the purposes of this agreement.
 * I need to get familiar with the alt-chain selected. The most immediately
 promising prospects are Aurora virtual chain (from NEAR) and Avalache. I'm 
 already familiar with Avalanche, but I have no experience with Aurora, so I'm
