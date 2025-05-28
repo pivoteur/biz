@@ -2,12 +2,12 @@
 
 ## Legalize Terms
 
-I/me: Pivot Technologies, LLC
-You/you: Wagyu Games
-We/us: You and I
-party: You or I
+* I/me: Pivot Technologies, LLC
+* You/you: Wagyu Games
+* We/us: You and I
+* party: You or I
 
-# tl;dr (The /essentials/ of the terms of agreement)
+# Essentials
 
 ## Roles
 
@@ -24,7 +24,7 @@ start of the effort
 parties to discuss the reason for termination and the time of termination, or
 we may continue this for as long as we shall live if so amendable.
 
-## Terms
+## Terms of Agreement
 
 * UNDEAD pivot trading on an alt blockchain we agree to
 * Establish a (new) pivot pool address under my control (the 'pivot pool')
@@ -58,19 +58,19 @@ We take a snapshot at the beginning of this working agreement of those measures
 and we meet regularly and compare current measures to those of the inception
 of this work-effort.
 
-# Discussion (The /explanations/ of the terms of agreement)
+# Discussion
 
 ## Purpose
 
 UNDEAD can be revitalized. I completed a study of UNDEAD volume vs price showing
-there is some correspondence between the two. As of today, UNDEAD's 24-hour
-volume is ~$220k, so here's what I propose:
+there is some correspondence between the two. As of today, UNDEAD's trading
+volume is ~$220k/day, so here's what I propose:
 
 ## Proposal
 
 UNDEAD's price can increase on increased 24-hour trading volume. A way to 
 increase trading volume is by creating and activating UNDEAD pivot pools on
-alt-chains (where fees are less than $1/transaction).
+alt-chains (where transaction fees are less than $1-per).
 
 If, for example, a $10k AURORA+UNDEAD pivot pool ($5k of AURORA and $5k of 
 UNDEAD) address is established on Aurora virtual chain, a pivot for the day 
@@ -81,7 +81,7 @@ This pivot-and-hedge represents $1.5k, which is less than 1% 24-hour volume,
 however, I also propose a wash address be established of 10% of each token.
 This account would take the trades from the pivot pool address after (say)
 midnight GMT, and, every hour duplicate those trades, then immediately trade
-back, with a net-zero change in wallet composition, BUT it would add $1.5
+back, with a net-zero change in wallet composition, BUT it would add $1.5k
 in trades per hour. These (net-zero) trades combined with the pivot-and-hedge
 on the pivot pool address would contribute a total of $36k to the 24-hour
 trading volume, which is a 15% increase in the daily trading volume. We do this
@@ -113,7 +113,7 @@ on the alt-blockchain without catastrophic damage to the transferred amount)
 * I need to use all the UNDEAD at my disposal for this effort, this entails me 
 *terminating* all pivot pools. I donated all tokens pivoted, so those tokens 
 that are not UNDEAD will be returned to me. *ALL* UNDEAD collected from pivot 
-pools, including all gains, will be used for this agreement.
+pools, including all gains, will be used for the purposes of this agreement.
 * I need to get familiar with the alt-chain selected. The most immediately
 promising prospects are Aurora virtual chain (from NEAR) and Avalache. I'm 
 already familiar with Avalanche, but I have no experience with Aurora, so I'm
@@ -129,10 +129,10 @@ then executes the trades-back on the wash wallet address
 
 n.b.: 
 
-A. only the trades, not transfers into and out of the pivot pool address
-B. x and t need to be configurable, either by a property file or via variables
+1. only the trades, not transfers into and out of the pivot pool address
+2. x and t need to be configurable, either by a property file or via variables
 that I have access to.
-C. The wash wallet, since trades are both open and close pivots, will profit
+3. The wash wallet, since trades are both open and close pivots, will profit
 from the pivots, just as the pivot pool does, so the wash wallet will gain
 value over time, but, since it's 10% the size of its corresponding pivot pool,
 I think keeping everything on the wash wallet makes sense, housekeeping-wise.
