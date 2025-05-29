@@ -122,7 +122,7 @@ token as its protocol token.
 returned to me. *ALL* UNDEAD collected from pivot pools, including all gains, 
 will be used for the purposes of this agreement.
 * I need to get familiar with the alt-chain selected. The most immediately
-promising prospects are Aurora virtual chain (from NEAR) and Avalache. I'm 
+promising prospects are Aurora virtual chain (from NEAR) and Avalanche. I'm 
 already familiar with Avalanche, but I have no experience with Aurora, so I'm
 going to set up several pivot pools on Aurora to become familiar with that
 environment.
