@@ -34,3 +34,12 @@ After liquidity-infusion, the Echo pool's composition and γ-apportionment are a
 
 ![Echo Pool composition](imgs/03a-comp.png)
 ![Echo Pool γ-apportionment](imgs/03b-apport.png)
+
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/04a-dash.png) 
+![Pivot Protocol TVL](imgs/04b-tvl.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
