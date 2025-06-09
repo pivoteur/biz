@@ -46,3 +46,11 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/04a-comp.png) 
 ![Echo pool γ-apportionment](imgs/04b-apport.png) 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/05a-dash.png) 
+![Pivot Protocol TVL](imgs/05b-tvl.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
