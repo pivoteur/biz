@@ -15,3 +15,19 @@
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
 [$UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close UNDEAD-on-ETH pivot](imgs/02a-close-undead-pivot.png)
+
+I close an UNDEAD-on-ETH pivot for gains of:
+
+* actual ROI: 10.27% / 749.43% APR projected
+* or: 150k $UNDEAD -> $ETH -> 166k $UNDEAD
+* or: $43-gain on $500 pivoted
+
+I convert 80% of the gains to $ETH to distribute as exit liquidity. The rest stays in the pool.
+
+![Swap 80% of $UNDEAD gains back to $ETH](imgs/02b-exit-swap.png)
