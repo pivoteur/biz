@@ -31,3 +31,18 @@ I close an UNDEAD-on-ETH pivot for gains of:
 I convert 80% of the gains to $ETH to distribute as exit liquidity. The rest stays in the pool.
 
 ![Swap 80% of $UNDEAD gains back to $ETH](imgs/02b-exit-swap.png)
+
+
+# PIVOTS 
+
+## ETH+UNDEAD 
+
+The positive calls to open an ETH on UNDEAD pivot, but all $ETH is committed. Instead, I open an UNDEAD-on-ETH pivot. This is technically a hedge, but since the δ is mid, I'll just pivot, anyway.
+
+![Positive δ](imgs/03a-pos.png) 
+![Open ETH pivot](imgs/03b-open-undead-pivot.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/04a-comp.png) 
+![Echo pool γ-apportionment](imgs/04b-apport.png) 
