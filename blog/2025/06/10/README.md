@@ -33,3 +33,12 @@ Slippage was TERRIBLE! but we still made a profit on this pivot. I exit 80% of t
 ![Echo pool gains](imgs/02b-echo-gains.png)
 ![Distributions](imgs/02c-dists.png)
 
+The positive δ calls to open an ETH on UNDEAD pivot, but all $ETH is committed. Instead, I open an UNDEAD-on-ETH hedge.
+
+![Positive δ](imgs/03a-pos.png) 
+![Open UNDEAD hedge](imgs/03b-open-undead-hedge.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/04a-comp.png) 
+![Echo pool γ-apportionment](imgs/04b-apport.png) 
