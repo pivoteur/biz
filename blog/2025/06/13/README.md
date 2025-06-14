@@ -44,3 +44,12 @@ I close 2 UNDEAD-on-ETH pivots with one trade, "conserving" $ETH, for gains of:
 
 I distribute 80% of the gains to stakers.
 
+The positive δ calls to open an ETH on UNDEAD pivot ; however, all $ETH is committed, so I open an UNDEAD-on-ETH hedge, instead. 
+
+![Positive δ](imgs/03a-pos.png) 
+![Open ETH pivot](imgs/03b-open-undead-hedge.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/04a-comp.png) 
+![Echo pool γ-apportionment](imgs/04b-apport.png) 
