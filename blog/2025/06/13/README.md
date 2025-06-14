@@ -29,3 +29,18 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $241,406 (δ: 50.24% ) , a: 2292.08% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close 2 UNDEAD-on-ETH pivots](imgs/02a-close-2-undead-pivots.png)
+
+I close 2 UNDEAD-on-ETH pivots with one trade, "conserving" $ETH, for gains of:
+
+* actual ROI: 25.03% / 1142.08% APR projected
+* or: 300k $UNDEAD -> $ETH -> 376k $UNDEAD
+* or: $85-gain on $900 pivoted
+
+I distribute 80% of the gains to stakers.
+
