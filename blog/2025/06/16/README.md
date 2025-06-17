@@ -77,3 +77,11 @@ The Echo pool composition and γ-apportionment are as charted.
 
 I'm thinking about setting up an UNDEAD+USDt pivot pool, ... but I'll take that on tomorrow. 😴
 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/05a-dash.png) 
+![Pivot Protocol TVL](imgs/05b-tvl.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
