@@ -29,3 +29,35 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $241,082 (δ: 50.04% ) , a: 1660.28% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close UNDEAD pivot](imgs/02a-close-undead-pivot.png)
+
+I close 1 pivot for gains of:
+
+* actual ROI: 10.75% / 280.31% APR projected
+* or: $87-gain on $934 pivoted
+* or: 310k $UNDEAD -> $ETH -> 344k $UNDEAD
+
+![High slippage](imgs/02b-high-slippage.png)
+
+Slippage was 4.78% on @Uniswap ... ugh!
+
+Even so: PIVOTS WORK! 😎
+
+I distribute 80% of the $UNDEAD gains, ...
+
+![Distribute UNDEAD gains](imgs/02c-distribute-undead.png)
+
+The thing about Ethereum, ... and most all blockchains, I suppose, is that it's more costly to distribute non-protocol tokens, SO!
+
+![Swap UNDEAD to ETH](imgs/02d-swap-to-eth.png)
+![Distributing ETH is much less costly transaction](imgs/02e-distribute-eth.png)
+
+I swap $UNDEAD to $ETH and distribute that.
+
+Fees were an order of magnitude smaller (from 50¢ to 5¢). 
+
