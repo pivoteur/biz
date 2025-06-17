@@ -61,3 +61,12 @@ I swap $UNDEAD to $ETH and distribute that.
 
 Fees were an order of magnitude smaller (from 50¢ to 5¢). 
 
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Positive δ](imgs/03a-pos.png) 
+![Open ETH pivot](imgs/03b-open-eth-pivot.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/04a-comp.png) 
+![Echo pool γ-apportionment](imgs/04b-apport.png) 
