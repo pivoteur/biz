@@ -70,3 +70,10 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/04a-comp.png) 
 ![Echo pool γ-apportionment](imgs/04b-apport.png) 
+
+## UNDEAD+USDt
+
+![UNDEAD+USDt chart](imgs/05-undead-usdt.png)
+
+I'm thinking about setting up an UNDEAD+USDt pivot pool, ... but I'll take that on tomorrow. 😴
+
