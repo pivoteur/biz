@@ -29,3 +29,27 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $238,178 (δ: 48.23% ) , a: 1466.95% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+
+## UNDEAD+USDC
+
+Now, yesterday, I said I was going to open an UNDEAD+USDt pivot pool, however, @Uniswap had no trading path for that for a while.
+
+![No USDt-to-UNDEAD swap on Uniswap](imgs/04-usdt.png)
+
+That seems to have cleared up.
+
+At any rate, I'm going with an UNDEAD+USDC pivot pool, as USDC seems to be more widely accepted.
+
+So, I move some $ETH and some reserve $UNDEAD from the Echo pool to the new UNDEAD+USDC pivot pool. 
+
+![Transfer ETH (gas)](imgs/05a-xfer-eth.png)
+![Transfer reserve UNDEAD](imgs/05b-xfer-undead.png)
+
+This requires I reconfigure my Echo pool γ-factors and configure new γ-factors for the UNDEAD+USDC pool. 
+
+![Reconfigure Echo pool γ-factors](imgs/05c-reconfigure-echo.png)
+![Configure UNDEAD+USDC γ-factors](imgs/05d-configure.png)
+
+Even though the new pool has all $UNDEAD, I'm pretending a 50/50 split.
+
+
