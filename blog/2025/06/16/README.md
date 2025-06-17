@@ -81,7 +81,7 @@ I'm thinking about setting up an UNDEAD+USDt pivot pool, ... but I'll take that 
 
 This concludes pivot-activity for today. 
 
-![Pivot Protocol dashboard](imgs/05a-dash.png) 
-![Pivot Protocol TVL](imgs/05b-tvl.png) 
+![Pivot Protocol dashboard](imgs/06a-dash.png) 
+![Pivot Protocol TVL](imgs/06b-tvl.png) 
 
 [The Pivot protocol](https://pivoteur.github.io/#) 
