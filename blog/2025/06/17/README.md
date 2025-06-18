@@ -68,4 +68,29 @@ This requires I reconfigure my Echo pool γ-factors and configure new γ-factors
 
 Even though the new pool has all $UNDEAD, I'm pretending a 50/50 split.
 
+UNDEAD+USDC
 
+This is a new pivot pool.
+
+![Negative δ](imgs/06a-neg.png)
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. I also establish a hedge by opening an UNDEAD-on-USDC pivot.
+
+![Open USDC pivot](imgs/06b-open-usdc-pivot.png)
+![Open UNDEAD hedge](imgs/06c-open-undead-hedge.png)
+
+And thus we have a new pivot pool with its first pivot and hedge.
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
+
+![UNDEAD+USDC pivot pool composition](imgs/07a-comp.png)
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/07b-apport.png)
+
+
+# Providing Liquidity on Uniswap 
+
+I provide 100k $UNDEAD and an equivalent amount of the pair for 
+both the ETH/UNDEAD LP and the UNDEAD/USDC LP on Uniswap. 
+
+![Swap UNDEAD to ETH](imgs/08a-swap-to-eth.png) 
+![Swap UNDEAD to USDC](imgs/08a-swap-to-usdc.png) 
