@@ -93,4 +93,17 @@ I provide 100k $UNDEAD and an equivalent amount of the pair for
 both the ETH/UNDEAD LP and the UNDEAD/USDC LP on Uniswap. 
 
 ![Swap UNDEAD to ETH](imgs/08a-swap-to-eth.png) 
-![Swap UNDEAD to USDC](imgs/08a-swap-to-usdc.png) 
+![Swap UNDEAD to USDC](imgs/08b-swap-to-usdc.png) 
+
+Creating a Liquidity pool on @Uniswap is as easy as can be:
+
+* I choose 'create new pool.'
+* I select the pair and set fees to 1% for this exotic pool
+* I provide the liquidity
+* ... and now I have a liquidity pool on Uniswap!
+
+![Create Pool on Uniswap](imgs/09a-create-pool.png)
+![Provide pair liquidity](imgs/09b-provide.png)
+![My pool-list](imgs/09c-list.png)
+![Pool Details](imgs/09d-details.png)
+
