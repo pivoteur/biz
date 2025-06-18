@@ -107,3 +107,10 @@ Creating a Liquidity pool on @Uniswap is as easy as can be:
 ![My pool-list](imgs/09c-list.png)
 ![Pool Details](imgs/09d-details.png)
 
+I follow the same steps to provide liquidity to the newly-created ETH/UNDEAD LP on @Uniswap.
+
+![Create Pool on Uniswap](imgs/10a-create-pool.png)
+![Provide pair liquidity](imgs/10b-provide.png)
+![My pool-list](imgs/10c-list.png)
+![Pool Details](imgs/10d-details.png)
+
