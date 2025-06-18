@@ -114,3 +114,11 @@ I follow the same steps to provide liquidity to the newly-created ETH/UNDEAD LP 
 ![My pool-list](imgs/10c-list.png)
 ![Pool Details](imgs/10d-details.png)
 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/11a-dash.png) 
+![Pivot Protocol TVL](imgs/11b-tvl.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
