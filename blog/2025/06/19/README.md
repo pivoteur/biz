@@ -65,3 +65,12 @@ I close 5 pivots for gains of:
 
 WOOT! 🎉
 
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Positive δ](imgs/06a-pos.png) 
+![Open ETH pivot](imgs/06b-open-eth-pivot.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/07a-comp.png) 
+![Echo pool γ-apportionment](imgs/07b-apport.png) 
