@@ -29,3 +29,15 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $219,457 (δ: 36.58% ) , a: 953.63% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+
+# Operational change in workflow
+
+What I usually do next is the pivots, THEN I provide liquidity to the pools on @Uniswap. But that's not efficient for the pivot-swaps, so, going forward, I'll provide liquidity to the Uniswap LPs then look at opening and closing pivots. #PSA 
+
+
+# Providing Liquidity on Uniswap 
+
+First I swap some $UNDEAD to both $ETH and $USDC in preparation to provide liquidity to the @uniswap pools. 
+
+![Swap UNDEAD to ETH](imgs/02a-swap-to-eth.png) 
+![Swap UNDEAD to USDC](imgs/02b-swap-to-usdc.png) 
