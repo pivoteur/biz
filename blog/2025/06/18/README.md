@@ -44,6 +44,34 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/03a-comp.png) 
 ![Echo pool γ-apportionment](imgs/03b-apport.png) 
+
+## UNDEAD+USDC 
+
+No close pivots. 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+I also hedge with an UNDEAD-on-USDC pivot. 
+
+![Negative δ](imgs/05a-neg.png) 
+![Open USDC pivot](imgs/05b-open-usdc-pivot.png) 
+![Open UNDEAD hedge](imgs/05c-open-undead-hedge .png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/06a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/06b-apport.png) 
+
+# Providing Liquidity on Uniswap 
+
+I provide 100k $UNDEAD and an equivalent amount of the pair for 
+both the ETH/UNDEAD LP and the UNDEAD/USDC LP on Uniswap. 
+
+![Swap UNDEAD to ETH](imgs/07a-swap-to-eth.png) 
+![Swap UNDEAD to USDC](imgs/07b-swap-to-usdc.png) 
+![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/07c-provide-to-eth-undead-lp.png) 
+![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/07d-provide-to-undead-usdc-lp.png) 
+
 # CONCLUSION 
 
 This concludes pivot-activity for today. 
