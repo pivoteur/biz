@@ -41,3 +41,9 @@ First I swap some $UNDEAD to both $ETH and $USDC in preparation to provide liqui
 
 ![Swap UNDEAD to ETH](imgs/02a-swap-to-eth.png) 
 ![Swap UNDEAD to USDC](imgs/02b-swap-to-usdc.png) 
+I provide 100k $UNDEAD and an equivalent amount of the pair for both the ETH/UNDEAD LP and the UNDEAD/USDC LP on Uniswap. 
+
+![Uniswap LPs: start](imgs/03a-lps-start.png) 
+![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/03b-provide-to-eth-undead-lp.png) 
+![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/03c-provide-to-undead-usdc-lp.png) 
+![Uniswap LPs: funded](imgs/03d-lps-funded.png) 
