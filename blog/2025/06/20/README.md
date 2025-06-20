@@ -106,11 +106,6 @@ I swap 80% of the $UNDEAD gained to $ETH and distribute to stakers.
 
 This --^ was the first UNDEAD-on-USDC close-pivot for the protocol.
 
-
-## UNDEAD+USDC 
-
-I close 1 pivot for gains of: 
-
 The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
 
 I also hedge with an UNDEAD-on-USDC pivot. 
