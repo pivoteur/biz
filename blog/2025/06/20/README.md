@@ -44,3 +44,12 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $240,326 (δ: 49.57% ) , a: 1206.09% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+# Providing Liquidity on Uniswap 
+
+First I swap some $UNDEAD to both $ETH and $USDC in preparation to provide liquidity to the @uniswap pools. 
+
+![Swap UNDEAD to ETH](imgs/03a-swap-to-eth.png) 
+![Swap UNDEAD to USDC](imgs/03b-swap-to-usdc.png) 
+
+... but @ethereum being Ethereum again with those gas fees. 🙄
+
