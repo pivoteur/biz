@@ -53,3 +53,9 @@ First I swap some $UNDEAD to both $ETH and $USDC in preparation to provide liqui
 
 ... but @ethereum being Ethereum again with those gas fees. 🙄
 
+I provide 100k $UNDEAD and an equivalent amount of the pair for both the ETH/UNDEAD LP and the UNDEAD/USDC LP on Uniswap. 
+
+![Uniswap LPs: start](imgs/04a-lps-start.png) 
+![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/04b-provide-to-eth-undead-lp.png) 
+![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/04c-provide-to-undead-usdc-lp.png) 
+![Uniswap LPs: funded](imgs/04d-lps-funded.png) 
