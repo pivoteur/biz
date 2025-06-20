@@ -15,10 +15,10 @@ Huh.
 
 # 2025-06-20 Status of $UNDEAD 
 
-![$UNDEAD rank](imgs/01a-rank.png) 
-![$UNDEAD quote](imgs/01b-quote.png) 
-![$UNDEAD market captalization](imgs/01c-cap.png) 
-![$UNDEAD 24-hour volume](imgs/01d-vol.png) 
+![$UNDEAD rank](imgs/02a-rank.png) 
+![$UNDEAD quote](imgs/02b-quote.png) 
+![$UNDEAD market captalization](imgs/02c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/02d-vol.png) 
 
 * rank: 7904 
 * quote: $0.00261 
