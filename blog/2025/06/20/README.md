@@ -77,3 +77,14 @@ I close 1 pivot for gains of:
 
 I swap 80% of the $UNDEAD gains back to $ETH and distribute to stakers. 
 
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+I also open an UNDEAD-on-ETH hedge. 
+
+![Positive δ](imgs/06a-pos.png) 
+![Open ETH pivot](imgs/06b-open-eth-pivot.png) 
+![Open UNDEAD hedge](imgs/06c-open-undead-hedge.png 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/07a-comp.png) 
+![Echo pool γ-apportionment](imgs/07b-apport.png) 
