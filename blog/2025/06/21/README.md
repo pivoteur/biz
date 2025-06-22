@@ -41,3 +41,33 @@ I provide 100k $UNDEAD and an equivalent amount of the pair for both the ETH/UND
 ![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/03b-provide-to-eth-undead-lp.png) 
 ![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/03c-provide-to-undead-usdc-lp.png) 
 ![Uniswap LPs: funded](imgs/03d-lps-funded.png) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close UNDEAD pivot](imgs/04a-close-undead-pivot.png)
+
+I close 1 pivot for gains of:
+
+* actual ROI: 11.19% / 1020.80% APR projected
+* or: 150k $UNDEAD -> $ETH -> 167k $UNDEAD
+* or: $42-gain on $418 pivot
+
+![Swap gains to ETH](imgs/04b-swap-to-eth.png)
+![Distribute gains](imgs/04c-distribute-gains.png)
+
+I swap 80% of the $UNDEAD gained to $ETH and distribute to stakers. 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Positive δ](imgs/05a-pos.png) 
+![Open ETH pivot](imgs/05b-open-eth-pivot.png) 
+![Open UNDEAD hedge](imgs/05c-open-undead-hedge.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/06a-comp.png) 
+![Echo pool γ-apportionment](imgs/06b-apport.png) 
