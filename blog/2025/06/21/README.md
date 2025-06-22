@@ -71,3 +71,18 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/06a-comp.png) 
 ![Echo pool γ-apportionment](imgs/06b-apport.png) 
+
+## UNDEAD+USDC
+
+I did not do the UNDEAD+USDC pivots yesterday as I was at a wedding all day. 
+
+
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/07a-dash.png) 
+![Pivot Protocol TVL](imgs/07b-tvl.png) 
+![Pivot Distributions](imgs/07c-dists.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
