@@ -41,3 +41,18 @@ I provide 100k $UNDEAD and an equivalent amount of the pair for both the ETH/UND
 ![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/03b-provide-to-eth-undead-lp.png) 
 ![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/03c-provide-to-undead-usdc-lp.png) 
 ![Uniswap LPs: funded](imgs/03d-lps-funded.png) 
+
+# PIVOTS
+
+I didn't do any pivots yesterday.
+
+
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/04a-dash.png) 
+![Pivot Protocol TVL](imgs/04b-tvl.png) 
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
