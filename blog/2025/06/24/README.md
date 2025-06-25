@@ -74,3 +74,21 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/06a-comp.png) 
 ![Echo pool γ-apportionment](imgs/06b-apport.png) 
+
+## UNDEAD+USDC
+
+![Close UNDEAD hedge](imgs/07a-close-undead-hedge.png)
+![Close UNDEAD hedge](imgs/07b-close-undead-hedge.png)
+
+I close 2 hedges for gains of:
+
+* actual ROI: 11.22% / 744.83% APR projected
+* or: 150k $UNDEAD -> $USDC -> 166k $UNDEAD
+* or: $39-gain on $385 hedged
+
+![Swap 80% of gains to ETH](imgs/07c-swap-gains-to-eth.png)
+![Disburse gains to stakers](imgs/07d-disburse-gains.png)
+
+I swap 80% of the $UNDEAD-gains to $ETH then disburse to stakers.
+
+
