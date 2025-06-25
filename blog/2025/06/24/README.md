@@ -59,6 +59,9 @@ I close 2 pivots for gains of:
 ![Disburse gains to stakers](imgs/04d-disburse-gains.png)
 
 I swap 80% of the gains back to $ETH and disburse to stakers. 
+
+### Open pivot
+
 The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
 
 I also open an UNDEAD-on-ETH hedge. 
