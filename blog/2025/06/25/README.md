@@ -29,3 +29,22 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $105,403 (δ: -45.61% ) , α: -924.86% 
 
 [2025-06-07 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/2025/06/05) 
+
+# Providing Liquidity
+
+Okay, now we're going to work on getting liquidity on @avax, and tradeable liquidity, at that! How do we do that?
+
+Via [VeraBridge](https://app.verabridge.io/).
+
+![Vera Bridge](imgs/02-vera-bridge.png)
+
+Let's bridge 100k $UNDEAD over to @avax to start building liquidity (and @Uniswap liquidity pools) there.
+
+![Bridge Warning of no $AVAX on @avax](imgs/03-no-avax.png)
+
+Opp! Vera Bridge says I ... 'need'/'should have' $AVAX on @avax before I bridge.
+
+Okay. Fair. Other bridges don't freak about this, but I suppose if a protocol doesn't see $AVAX on an @avax address, it may feel better doin' the supafreak.
+
+I'll get some $AVAX there first.
+
