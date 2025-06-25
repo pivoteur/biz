@@ -41,3 +41,21 @@ I provide 100k $UNDEAD and an equivalent amount of the pair for both the ETH/UND
 ![Provide liquidity to ETH/UNDEAD LP on Uniswap](imgs/03b-provide-to-eth-undead-lp.png) 
 ![Provide liquidity to UNDEAD/USDC LP on Uniswap](imgs/03c-provide-to-undead-usdc-lp.png) 
 ![Uniswap LPs: funded](imgs/03d-lps-funded.png) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close UNDEAD pivot](imgs/04a-close-undead-pivot.png)
+![Close UNDEAD pivot](imgs/04b-close-undead-pivot.png)
+
+I close 2 pivots for gains of:
+
+* actual ROI: 14.94% / 573.92% APR projected
+* or: 300k $UNDEAD -> $ETH -> 345k $UNDEAD
+* or: $103-gained on $812 pivoted
+
+![Swap 80% gains to ETH](imgs/04c-swap-to-eth.png)
+![Disburse gains to stakers](imgs/04d-disburse-gains.png)
+
+I swap 80% of the gains back to $ETH and disburse to stakers. 
