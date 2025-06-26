@@ -61,3 +61,17 @@ Ciao for now.
 Okay, I did some pivoting on my own portfolio @logicalgraphs, and earned some $AVAX there, which I transferred to the Pivot protocol's treasury wallet here on @avax. 
 
 The hoops I have to jump, ... around (?) ... because I'm dealing with @ethereum. 
+## Bridged UNDEAD to Avalanche
+
+Using verabridge, I get the $UNDEAD tokens over onto Avalanche.
+
+![Bridged UNDEAD to Avalanche via VeraBridge](imgs/06a-undead-xferred.png)
+
+I must manually enter the contract for my wallet to see these tokens.
+
+![UNDEAD on Avalanche shows in wallet](imgs/06b-undead-on-avax.png)
+
+* $UNDEAD on @avax contract: 0x5a3534720A4f29FA0dc53cE474Db88973A95f65C
+
+We need to add that contract and Avalanche blockchain to @coingecko.
+
