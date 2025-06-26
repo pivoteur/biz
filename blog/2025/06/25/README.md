@@ -48,3 +48,11 @@ Okay. Fair. Other bridges don't freak about this, but I suppose if a protocol do
 
 I'll get some $AVAX there first.
 
+Transfer/transaction fee is still $2.86.
+
+Stupid @ethereum.
+
+I'm going to approach this a different way.
+
+Ciao for now.
+
