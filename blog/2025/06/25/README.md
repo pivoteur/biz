@@ -56,3 +56,8 @@ I'm going to approach this a different way.
 
 Ciao for now.
 
+![$AVAX from Avalanche](imgs/05-personal-avax.png)
+
+Okay, I did some pivoting on my own portfolio @logicalgraphs, and earned some $AVAX there, which I transferred to the Pivot protocol's treasury wallet here on @avax. 
+
+The hoops I have to jump, ... around (?) ... because I'm dealing with @ethereum. 
