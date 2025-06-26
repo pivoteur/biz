@@ -75,3 +75,25 @@ I must manually enter the contract for my wallet to see these tokens.
 
 We need to add that contract and Avalanche blockchain to @coingecko.
 
+# PIVOTS 
+
+## ETH+UNDEAD 
+
+No close pivots. 
+
+### Open Pivot 
+
+![Positive δ](imgs/07a-pos.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/07b-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/07c-open-undead-hedge.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/08a-comp.png) 
+![Echo pool γ-apportionment](imgs/08b-apport.png) 
