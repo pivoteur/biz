@@ -51,3 +51,23 @@ The Echo pool composition and γ-apportionment are as charted.
 
 ![Echo pool composition](imgs/03a-comp.png) 
 ![Echo pool γ-apportionment](imgs/03b-apport.png) 
+## UNDEAD+USDC 
+
+No close pivots. 
+
+### Open Pivot 
+
+![Negative δ](imgs/04a-neg.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+![Open USDC pivot](imgs/04b-open-usdc-pivot.png) 
+
+I also hedge with an UNDEAD-on-USDC pivot. 
+
+![Open UNDEAD hedge](imgs/04c-open-undead-hedge.png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/5a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/5b-apport.png) 
