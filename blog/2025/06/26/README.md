@@ -69,5 +69,5 @@ I also hedge with an UNDEAD-on-USDC pivot.
 
 The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
 
-![UNDEAD+USDC pivot pool composition](imgs/5a-comp.png) 
-![UNDEAD+USDC pivot pool γ-apportionment](imgs/5b-apport.png) 
+![UNDEAD+USDC pivot pool composition](imgs/05a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/05b-apport.png) 
