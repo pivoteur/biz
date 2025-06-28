@@ -44,3 +44,28 @@ Okay, this is the part where I talk about $UNDEAD liquidity pools (LPs). I do ha
 
 ![VeraSwap natively accepts all Uniswap LPs](imgs/02c-but-on-veraswap.png)
 
+I close one v4 pool, swap the pair to $ETH, and go to set up the v3 pool
+
+![Close v4 LP](imgs/03a-close-v4-lp.png)
+![Swap pair to $ETH](imgs/03b-swap-to-eth.png)
+
+And this is why I hate @ethereum.
+
+The v4 pools are structured so you don't pay a criminal amount of money in transaction fees.
+
+The v3 pools? Not so much. It's gone up to $36 to establish a v3 pool, ... during no traffic.
+
+What the actual ...?
+
+![Select v3](imgs/04a-select-v3.png)
+![Choose assets](imgs/04b-choose-assets.png)
+![Provide Liquidity](imgs/04c-provide-liquidity.png)
+![Doz transaction fees, doe](imgs/04d-criminal-tranaction-fees.png)
+
+Ah, well.
+
+* When life hands you lemons, you make lemonaide.
+* When @ethereum hands you high transaction fees, you select `cancel`.
+
+Moving on.
+
