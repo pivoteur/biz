@@ -60,7 +60,7 @@ What the actual ...?
 ![Select v3](imgs/04a-select-v3.png)
 ![Choose assets](imgs/04b-choose-assets.png)
 ![Provide Liquidity](imgs/04c-provide-liquidity.png)
-![Doz transaction fees, doe](imgs/04d-criminal-tranaction-fees.png)
+![Doz transaction fees, doe](imgs/04d-criminal-transaction-fees.png)
 
 Ah, well.
 
