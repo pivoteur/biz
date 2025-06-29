@@ -69,3 +69,15 @@ Ah, well.
 
 Moving on.
 
+### Providing Liquidity to Avalanche Uniswap LP
+
+Instead of creating an Uniswap v3 @ethereum LP, I create an Uniswap v3 @avax LP: LP AVAX/UNDEAD.
+
+![Bridging $AVAX-liquidity to Avalanche](imgs/05a-bridge-avax.png)
+![Reasonable Transaction Fee](imgs/05b-tx-fee.png)
+
+As $UNDEAD has no price-point on @avax, I set it manually, then provide $AVAX and $UNDEAD liquidity. 
+
+![I manually set the UNDEAD/AVAX price-point for the LP](imgs/05c-set-price.png)
+![Provide Liquidity to LP AVAX/UNDEAD on Avalanche](imgs/05d-provide-liquidity.png)
+
