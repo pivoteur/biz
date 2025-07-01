@@ -67,3 +67,23 @@ I close 1 hedge for gains of:
 
 I swap 80% of the $UNDEAD-gains to $USDC to fund the LP UNDEAD/USDC on @avax 
 
+## UNDEAD+USDC 
+
+I close 1 pivot for gains of: 
+
+### Open Pivot 
+
+![Negative δ](imgs/05a-neg.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+![Open USDC pivot](imgs/05b-open-usdc-pivot.png) 
+
+I also hedge with an UNDEAD-on-USDC pivot. 
+
+![Open UNDEAD hedge](imgs/05c-open-undead-hedge.png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/06a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/06b-apport.png) 
