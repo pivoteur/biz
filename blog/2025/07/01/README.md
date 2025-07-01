@@ -67,10 +67,6 @@ I close 1 hedge for gains of:
 
 I swap 80% of the $UNDEAD-gains to $USDC to fund the LP UNDEAD/USDC on @avax 
 
-## UNDEAD+USDC 
-
-I close 1 pivot for gains of: 
-
 ### Open Pivot 
 
 ![Negative δ](imgs/05a-neg.png) 
