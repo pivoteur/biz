@@ -15,3 +15,18 @@
 
 [BTC data source](https://www.coingecko.com/en/coins/bitcoin) 
 
+# 2025-07-03 Status of $UNDEAD 
+
+![$UNDEAD rank](imgs/02a-rank.png) 
+![$UNDEAD quote](imgs/02b-quote.png) 
+![$UNDEAD market captalization](imgs/02c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/02d-vol.png) 
+
+* rank: 8161 
+* quote: $0.00225 
+* market cap: $33,804 
+* 24-hr volume: $70,374 (δ: -$32,557 ) 
+
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
