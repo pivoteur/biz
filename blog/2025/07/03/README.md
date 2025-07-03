@@ -46,3 +46,19 @@
 * 24-hr volume: $70,374 (δ: -56.20% ) , α: -732.65% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+### Open Pivot 
+
+![Positive δ](imgs/03a-pos.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/03b-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/03c-open-undead-hedge.png) 
+
+The Echo pool composition and γ-apportionment are as charted. 
+
+![Echo pool composition](imgs/04a-comp.png) 
+![Echo pool γ-apportionment](imgs/04b-apport.png) 
