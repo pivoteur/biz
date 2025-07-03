@@ -30,3 +30,19 @@
 
 [UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
 
+## $UNDEAD performance analysis, 2025-07-03 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8161 (δ: -8.12% ) , α: -105.87% 
+* quote: $0.00225 (δ: -25.74% ) , α: -335.59% 
+* market cap: $33,804 (δ: -25.53% ) , α: -332.79% 
+* 24-hr volume: $70,374 (δ: -56.20% ) , α: -732.65% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
