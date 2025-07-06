@@ -55,3 +55,26 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $125,224 (δ: -22.07% ) , α: -259.83% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# PIVOTS 
+
+## ETH+UNDEAD 
+
+No close pivots. 
+
+### Open Pivot 
+
+![Middling δ](imgs/03a-meh.png) 
+
+The meh δ makes no call, but the trend is interesting. If the δ goes negative, I'll move to make a pivot, but for now, I'll wait and see where this trend goes.
+
+
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/04a-dash.png) 
+![Pivot Protocol TVL](imgs/04b-tvl.png) 
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
