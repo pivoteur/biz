@@ -16,9 +16,26 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 
 ## Ethereum retrospective
 
-Now, I don't know if I'm been bombarded by hopium-particles, but it seems to me that the revisions to the @ethereum blockchain has brought down transaction fees significantly, from, say $20, $100, $200/transaction to 25¢-$5/transaction.
+Now, I don't know if I'm been bombarded by hopium-particles, but it seems to me that the revisions to the @ethereum blockchain have brought down transaction fees significantly, from, say $20, $100, $200/transaction to 25¢-$5/transaction.
 
 Still way, WAY too high, but it's a start.
 
 With @ethereum being the mother of most smart-contract-based and Proof of Stake-based blockchains, and being the original host for @wagyugames @UndeadBlocks game and ERC20 token, $UNDEAD, I look forward to continued improvements and cost-reductions on this blockchain.
+
+# 2025-07-06 Status of $UNDEAD 
+
+![$UNDEAD rank](imgs/02a-rank.png) 
+![$UNDEAD quote](imgs/02b-quote.png) 
+![$UNDEAD market captalization](imgs/02c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/02d-vol.png) 
+
+* rank: 8081 
+* quote: $0.00237 
+* market cap: $35,538 
+* 24-hr volume: $125,224 (δ: $5,866 ) 
+
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
+When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
