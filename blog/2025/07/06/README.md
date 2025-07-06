@@ -8,7 +8,7 @@
 * quote: $2,555.26000 
 * market cap: $308,461,485,997 
 * 24-hr volume: $8,569,927,105 
-* UNDEAD ratio: 8179 
+* UNDEAD ratio: 1.08M
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
