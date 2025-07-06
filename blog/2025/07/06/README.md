@@ -39,3 +39,19 @@ With @ethereum being the mother of most smart-contract-based and Proof of Stake-
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+## $UNDEAD performance analysis, 2025-07-06 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8081 (δ: -7.06% ) , α: -83.14% 
+* quote: $0.00237 (δ: -21.71% ) , α: -255.64% 
+* market cap: $35,538 (δ: -21.71% ) , α: -255.59% 
+* 24-hr volume: $125,224 (δ: -22.07% ) , α: -259.83% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
