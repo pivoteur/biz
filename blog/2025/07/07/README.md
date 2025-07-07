@@ -64,4 +64,18 @@
 
 4. The $UNDEAD @Uniswap LPs.
 
+## Impact Analysis
+
+By providing this liquidity, a 20 $USDC swap gets:
+
+![UNDEAD Swap on Uniswap (Ethereum)](imgs/04a-swap-on-ethereum.png)
+
+* 7990 $UNDEAD on @ethereum via @Uniswap (gas: 56¢); or,
+
+![UNDEAD swap on Kyber (Avalanche)](imgs/04b-swap-on-avalanche.png)
+
+* 7880 $UNDEAD on @avax via @KyberNetwork (gas: 1¢)
+
+The gas on @ethereum is greater than slippage on @avax, so (small) $UNDEAD trades are now viable on @avax.
+
 
