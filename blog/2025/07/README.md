@@ -1,5 +1,6 @@
 # July, 2025
 
+* [2025-07-07](07) Spotlight on: Aurora / $AURORA
 * [2025-07-06](06) Spotlight on: Ethereum / $ETH
 * 2025-07-05: no report
 * [2025-07-04](04) Spotlight on: Avalanche / $AVAX
