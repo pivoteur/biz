@@ -15,3 +15,18 @@
 
 [AURORA data source](https://www.coingecko.com/en/coins/aurora-near) 
 
+# 2025-07-07 Status of Undead Blocks / UNDEAD 
+
+![$UNDEAD rank](imgs/02a-rank.png) 
+![$UNDEAD quote](imgs/02b-quote.png) 
+![$UNDEAD market captalization](imgs/02c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/02d-vol.png) 
+
+* rank: 8108 
+* quote: $0.00234 
+* market cap: $35,333 
+* 24-hr volume: $126,678 (δ: $1,454 ) 
+30 
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
