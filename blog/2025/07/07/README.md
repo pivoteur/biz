@@ -86,7 +86,7 @@ With the LP AVAX/UNDEAD established (for small trades), I move some liquidity to
 
 ![UNDEAD Ratio](imgs/05a-ratio.png)
 ![Middling δ](imgs/05b-delta.png)
-![Open UNDEAD pivot](imgs/05b-open-undead-pivot.png)
+![Open UNDEAD pivot](imgs/05c-open-undead-pivot.png)
 ![Open AVAX-on-UNDEAD pivot](imgs/05d-open-avax-pivot.png)
 
 The δ is meh, so I open both an AVAX-on-UNDEAD pivot and an UNDEAD-on-AVAX pivot.
