@@ -78,4 +78,20 @@ By providing this liquidity, a 20 $USDC swap gets:
 
 The gas on @ethereum is greater than slippage on @avax, so (small) $UNDEAD trades are now viable on @avax.
 
+# PIVOTS
 
+## AVAX+UNDEAD
+
+With the LP AVAX/UNDEAD established (for small trades), I move some liquidity to a new wallet and establish the AVAX+UNDEAD pivot pool.
+
+![UNDEAD Ratio](imgs/05a-ratio.png)
+![Middling δ](imgs/05b-delta.png)
+![Open UNDEAD pivot](imgs/05b-open-undead-pivot.png)
+![Open AVAX-on-UNDEAD pivot](imgs/05d-open-avax-pivot.png)
+
+The δ is meh, so I open both an AVAX-on-UNDEAD pivot and an UNDEAD-on-AVAX pivot.
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
+
+![AVAX+UNDEAD pivot pool composition](imgs/06a-comp.png)
+![AVAX+UNDEAD pivot pool γ-apportionment](imgs/06b-apport.png)
