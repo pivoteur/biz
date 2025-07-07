@@ -26,7 +26,6 @@
 * quote: $0.00234 
 * market cap: $35,333 
 * 24-hr volume: $126,678 (δ: $1,454 ) 
-30 
 
 [UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
 
