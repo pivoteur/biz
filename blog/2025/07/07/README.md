@@ -45,3 +45,23 @@
 * 24-hr volume: $126,678 (δ: -21.16% ) , α: -241.39% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# Providing Liquidity on Uniswap
+
+![Bridge UNDEAD from Ethereum to Avalanche using Vera Bridge](imgs/03a-bridge-undead.png)
+
+1. First I bridge $UNDEAD from @ethereum to @avax using the [Vera Bridge](https://app.verabridge.io/).
+
+![Provide liquidity to Avalanche Uniswap LP AVAX/UNDEAD](imgs/03b-provide-liquidity.png)
+
+2. Then I provide liquidity to @Uniswap @avax LP AVAX/UNDEAD
+
+![The Avalanche Uniswap LP AVAX/UNDEAD](imgs/03c-lp-avax-undead.png)
+
+3. Liquidity provided
+
+![The Uniswap UNDEAD LPs](imgs/03d-uniswap-lps.png)
+
+4. The $UNDEAD @Uniswap LPs.
+
+
