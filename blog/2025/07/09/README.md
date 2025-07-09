@@ -1,4 +1,4 @@
-2025-07-09 Spotlight on @binance / BNB 
+# 2025-07-09 Spotlight on @binance / BNB 
 
 ![Coingecko chart for BNB](imgs/01a-bnb.png) 
 ![BNB / UNDEAD ratio](imgs/01b-ratio.png) 
@@ -9,7 +9,7 @@
 * quote: $661.94000 
 * market cap: $96,568,849,800 
 * 24-hr volume: $657,970,936 
-* UNDEAD ratio: 280000 
+* UNDEAD ratio: 280,000 
 
 [BNB data source](https://www.coingecko.com/en/coins/bnb) 
 
@@ -30,3 +30,19 @@
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+## $UNDEAD performance analysis, 2025-07-09 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8086 (δ: -7.13% ) , α: -76.52% 
+* quote: $0.00244 (δ: -19.33% ) , α: -207.54% 
+* market cap: $36,421 (δ: -19.76% ) , α: -212.16% 
+* 24-hr volume: $135,756 (δ: -15.51% ) , α: -166.54% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
