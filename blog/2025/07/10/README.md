@@ -13,3 +13,19 @@
 
 [USDT data source](https://www.coingecko.com/en/coins/tether) 
 
+## $UNDEAD performance analysis, 2025-07-10 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8073 (δ: -6.96% ) , α: -72.54% 
+* quote: $0.00262 (δ: -13.45% ) , α: -140.27% 
+* market cap: $39,398 (δ: -13.20% ) , α: -137.70% 
+* 24-hr volume: $126,629 (δ: -21.19% ) , α: -221.02% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
