@@ -1,5 +1,6 @@
 # July, 2025
 
+* [2025-07-10](10) Spotlight on: Tether / $USDT
 * [2025-07-09](09) Spotlight on: Binance / $BNB
 * 2025-07-08: no report
 * [2025-07-07](07) Spotlight on: Aurora / $AURORA
