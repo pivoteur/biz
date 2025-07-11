@@ -45,3 +45,9 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $126,629 (δ: -21.19% ) , α: -221.02% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# Uniswap Liquidity Pools
+
+I have defunded the @Uniswap @ethereum LP ETH/UNDEAD in order to accumulate liquidity eventually fund @BlackholeDex LP AVAX/UNDEAD.
+
+I will also liquidate the ETH+UNDEAD and UNDEAD+USDC pivot pools for that same end.
