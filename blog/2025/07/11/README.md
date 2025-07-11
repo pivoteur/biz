@@ -96,3 +96,18 @@ A new phase for the Pivot Protocol!
 @wagyugames is partnering with @BlackholeDex to get @UndeadBlocks $UNDEAD liquidity onto @avax. 💥
 
 So! we're liquidating all pivot pools on @ethereum, establishing LP AVAX/UNDEAD on @BlackholeDex, then re-establishing the pivot pools on @avax
+
+# BRIDGING ASSETS
+
+I bridge the $ETH and $USDC, including the profits from pivot arbitrage, from @ethereum to @avax via @KyberNetwork cross-chain swap. 
+
+![Bridge USDC](imgs/08a-bridge-usdc.png)
+![Bridge ETH](imgs/08b-bridge-eth.png)
+
+I then bridge the @ethereum $UNDEAD to @avax $UNDEAD via @VeraBridge_io. 
+
+![Bridge UNDEAD](imgs/09a-bridge-undead.png)
+![Bridge UNDEAD](imgs/09b-bridge-undead.png)
+![Bridge UNDEAD](imgs/09c-bridge-undead.png)
+
+This $UNDEAD will be used to (re-)BUIDL the pivot pools on @avax. 
