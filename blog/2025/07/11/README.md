@@ -48,3 +48,25 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $118,768 (δ: -26.09% ) , α: -264.48% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# PIVOTS
+
+## ETH+UNDEAD
+
+![Close $ETH-on-$UNDEAD pivots](imgs/03a-close-eth-pivots.png)
+![Close $ETH-on-$UNDEAD pivots](imgs/03b-close-eth-pivots.png)
+
+I close two ETH-on-UNDEAD pivots for gains of:
+
+* actual ROI: 5.25% / 150% APR projected
+* or: $37-gain on $500 pivoted
+* or: 0.2 $ETH -> $UNDEAD -> 0.22 $ETH
+
+![ETH+UNDEAD pivot pool composition](imgs/04a-comp.png)
+![ETH+UNDEAD pivot pool γ-apportionment](imgs/04a-apport.png)
+
+I'm closing this pool to fund the @BlackholeDex LP on @avax. As you see: the pool made $2,000 profit.
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
+
+
