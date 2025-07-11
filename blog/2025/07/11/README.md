@@ -87,3 +87,12 @@ When $UNDEAD's price goes up, all kinds of profit can be gained via pivot-arbitr
 
 ... [despite @ethereum's egregious gas-fees](https://x.com/pivocateur/status/1943703213145797096).
 
+# ANNOUNCEMENT: New Direction
+
+A new phase for the Pivot Protocol!
+
+![Pivot Protocol dashboard](imgs/07a-dash.png)
+
+@wagyugames is partnering with @BlackholeDex to get @UndeadBlocks $UNDEAD liquidity onto @avax. 💥
+
+So! we're liquidating all pivot pools on @ethereum, establishing LP AVAX/UNDEAD on @BlackholeDex, then re-establishing the pivot pools on @avax
