@@ -69,4 +69,21 @@ I'm closing this pool to fund the @BlackholeDex LP on @avax. As you see: the poo
 
 The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
+## UNDEAD+USDC
+
+![Close USDC-on-UNDEAD pivot](imgs/05a-close-usdc-pivot.png)
+![Close USDC-on-UNDEAD pivot](imgs/05b-close-usdc-pivot.png)
+![Close USDC-on-UNDEAD pivot](imgs/05c-close-usdc-pivot.png)
+![Close USDC-on-UNDEAD pivot](imgs/05d-close-usdc-pivot.png)
+
+I close 4 USDC-on-UNDEAD pivots for gains of:
+
+* actual ROI: 12.26% / 308.50% APR projected 💥
+* or: $193.98-gains on $1,582.85 pivoted 💥
+
+Wow. 
+
+When $UNDEAD's price goes up, all kinds of profit can be gained via pivot-arbitrage.
+
+... [despite @ethereum's egregious gas-fees](https://x.com/pivocateur/status/1943703213145797096).
 
