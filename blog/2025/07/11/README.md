@@ -138,7 +138,7 @@ That's why I'm the Pivot Arbiteur, extraordinaire!
 
 The first pool I beef up is the AVAX+UNDEAD pivot pool, ... OF COURSE!
 
-![AVAX+UNDEAD pivot pool composition](imgs/012a-comp.png)
-![AVAX+UNDEAD pivot pool γ-apportionment](imgs/012b-apport.png)
+![AVAX+UNDEAD pivot pool composition](imgs/12a-comp.png)
+![AVAX+UNDEAD pivot pool γ-apportionment](imgs/12b-apport.png)
 
 I'm sending $UNDEAD to that pool (because that's what I have). When the δ favors an $AVAX-pivot, I'll do a virtual swap using $UNDEAD in the place of $AVAX until the pool is in full swing.
