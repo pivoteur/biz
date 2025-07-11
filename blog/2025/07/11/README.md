@@ -111,3 +111,11 @@ I then bridge the @ethereum $UNDEAD to @avax $UNDEAD via @VeraBridge_io.
 ![Bridge UNDEAD](imgs/09c-bridge-undead.png)
 
 This $UNDEAD will be used to (re-)BUIDL the pivot pools on @avax. 
+
+# FUNDING LP AVAX/UNDEAD
+
+I convert the pivoted assets to $USDt then swap to $AVAX, ... [I can't swap $USDt to $AVAX on @KyberNetwork at present](https://x.com/pivocateur/status/1943757063727067395), so I use @LFJ_gg.  
+
+![Swap to AVAX](imgs/10-swap-to-avax.png)
+
+
