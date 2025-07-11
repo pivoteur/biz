@@ -118,4 +118,19 @@ I convert the pivoted assets to $USDt then swap to $AVAX, ... [I can't swap $USD
 
 ![Swap to AVAX](imgs/10-swap-to-avax.png)
 
+With the $AVAX (converted from pivot pool assets) and $UNDEAD on hand, I fund the @Uniswap LP AVAX/UNDEAD.
+
+![Provide Liquidity](imgs/11a-provide.png)
+![Confirmation](imgs/11b-confirm.png)
+![Uniswap LP AVAX/UNDEAD](imgs/11c-lp.png)
+
+When it comes time, I'll remove the assets needed from the @Uniswap LP here to fund the @BlackholeDex LP.
+
+# PIVOT POOLS
+
+Now I need to recreate the pivot pools that were on @ethereum to brand new pivot pools on @avax  from scratch.
+
+FUN!
+
+That's why I'm the Pivot Arbiteur, extraordinaire!
 
