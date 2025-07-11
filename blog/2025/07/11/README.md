@@ -63,7 +63,7 @@ I close two ETH-on-UNDEAD pivots for gains of:
 * or: 0.2 $ETH -> $UNDEAD -> 0.22 $ETH
 
 ![ETH+UNDEAD pivot pool composition](imgs/04a-comp.png)
-![ETH+UNDEAD pivot pool γ-apportionment](imgs/04a-apport.png)
+![ETH+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png)
 
 I'm closing this pool to fund the @BlackholeDex LP on @avax. As you see: the pool made $2,000 profit.
 
