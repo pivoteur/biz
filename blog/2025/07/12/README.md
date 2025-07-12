@@ -78,11 +78,11 @@ It's a tiny distribution, but it was on a tiny pivot.
 
 The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
 
-![Open AVAX pivot](imgs/08b-open-avax-pivot.png) 
+![Open AVAX pivot](imgs/08c-open-avax-pivot.png) 
 
 I also open an UNDEAD-on-AVAX hedge. 
 
-![Open UNDEAD hedge](imgs/08c-open-undead-hedge.png) 
+![Open UNDEAD hedge](imgs/08d-open-undead-hedge.png) 
 
 The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
 
