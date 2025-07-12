@@ -88,3 +88,12 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![AVAX+UNDEAD pivot pool composition](imgs/09a-comp.png) 
 ![AVAX+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/10a-dash.png) 
+![Pivot Protocol TVL](imgs/10b-tvl.png) 
+![Pivot Distributions](imgs/10c-dists.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
