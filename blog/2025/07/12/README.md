@@ -48,10 +48,26 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 * market cap: $36,788 
 * 24-hr volume: $132,156 (δ: $13,388 ) 
 
-
 [UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
 
-
-
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
+
+# PIVOTS
+
+## AVAX+UNDEAD
+
+![Close UNDEAD-on-AVAX pivot](imgs/07a-close-undead-pivot.png)
+
+I close 1 pivot for gains of:
+
+* actual ROI: 10.81% / 1315.68% APR projected
+* or: $1.86-gain on $18.16 pivot
+* or: 7000 $UNDEAD -> $AVAX -> 7757 $UNDEAD
+
+I distribute 80% of the gains to stakers.
+
+![Distribute gains](imgs/07b-dist-gains.png)
+
+It's a tiny distribution, but it was on a tiny pivot. 
+
 
