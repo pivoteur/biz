@@ -1,6 +1,6 @@
 # July, 2025
 
-* [2025-07-12](12) Establishing pivot pools on Avalanche
+* [2025-07-12](12) Establishing pivot pools on Avalanche; Spotlight on Solana / SOL
 * [2025-07-11](11) Spotlight on: Dogecoin / $DOGE
 * [2025-07-10](10) Spotlight on: Tether / $USDT
 * [2025-07-09](09) Spotlight on: Binance / $BNB
