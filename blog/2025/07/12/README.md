@@ -36,3 +36,22 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 [SOL data source](https://www.coingecko.com/en/coins/solana) 
 
+# 2025-07-12 Status of @UndeadBlocks / $UNDEAD 
+
+![$UNDEAD rank](imgs/04a-rank.png) 
+![$UNDEAD quote](imgs/04b-quote.png) 
+![$UNDEAD market captalization](imgs/04c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/04d-vol.png) 
+
+* rank: 8187 
+* quote: $0.00245 
+* market cap: $36,788 
+* 24-hr volume: $132,156 (δ: $13,388 ) 
+
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
+
+
+When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
+
