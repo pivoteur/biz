@@ -13,3 +13,15 @@
 
 [ADA data source](https://www.coingecko.com/en/coins/cardano) 
 
+## Analysis / pensée
+
+Among the sea of @ethereum knock-offs, Cardano stands out for its very different approach. Every transaction has a hostage-fee that is returned by a confirmation transaction.
+
+That means everything is twice as expensive and twice as slow.
+
+* Does Cardano's hostage-fee and confirmation discourage scammers? Yes.
+* Are scammers problematic on Ethereum-based blockchains? Yes.
+* Is the Cardano approach a good one? I'm ambivalent.
+
+It is one of the largest blockchains with the volume to show for it. So: here's to weird!
+
