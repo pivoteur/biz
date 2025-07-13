@@ -44,3 +44,19 @@ It is one of the largest blockchains with the volume to show for it. So: here's 
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+## $UNDEAD performance analysis, 2025-07-13 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8209 (δ: -8.76% ) , α: -84.12% 
+* quote: $0.00248 (δ: -17.91% ) , α: -172.04% 
+* market cap: $37,202 (δ: -18.04% ) , α: -173.31% 
+* 24-hr volume: $129,814 (δ: -19.21% ) , α: -184.53% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
