@@ -25,3 +25,22 @@ That means everything is twice as expensive and twice as slow.
 
 It is one of the largest blockchains with the volume to show for it. So: here's to weird!
 
+# 2025-07-13 Status of @UndeadBlocks / $UNDEAD 
+
+![$UNDEAD rank](imgs/02a-rank.png) 
+![$UNDEAD quote](imgs/02b-quote.png) 
+![$UNDEAD market captalization](imgs/02c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/02d-vol.png) 
+
+* rank: 8209 
+* quote: $0.00248 
+* market cap: $37,202 
+* 24-hr volume: $129,814 (δ: -$2,342 ) 
+
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
+
+
+When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
+
