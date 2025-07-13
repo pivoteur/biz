@@ -1,5 +1,6 @@
 # July, 2025
 
+* [2025-07-13](13) Spotlight on: Cardano / $ADA
 * [2025-07-12](12) Establishing pivot pools on Avalanche; Spotlight on Solana / SOL
 * [2025-07-11](11) Spotlight on: Dogecoin / $DOGE
 * [2025-07-10](10) Spotlight on: Tether / $USDT
