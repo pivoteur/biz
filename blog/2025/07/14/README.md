@@ -1,8 +1,8 @@
 # 2025-07-14 Spotlight on Chainlink / $LINK 
 
-![Coingecko chart for LINK](imgs/02a-link.png) 
-![LINK / UNDEAD ratio](imgs/02b-ratio.png) 
-![LINK / UNDEAD ratio δ](imgs/02c-delta.png) 
+![Coingecko chart for LINK](imgs/01a-link.png) 
+![LINK / UNDEAD ratio](imgs/01b-ratio.png) 
+![LINK / UNDEAD ratio δ](imgs/01c-delta.png) 
 
 
 * rank: 17 
