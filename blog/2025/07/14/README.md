@@ -110,3 +110,41 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![UNDEAD+USDC pivot pool composition](imgs/07a-comp.png) 
 ![UNDEAD+USDC pivot pool γ-apportionment](imgs/07b-apport.png) 
+## UNDEAD+USDC 
+
+No close pivots. 
+
+### Open Pivot 
+
+![UNDEAD+USDC ratio](imgs/09a-ratio.png) 
+![Middling δ](imgs/09b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/09c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD pivot 
+
+![Open USDC pivot](imgs/09d-open-usdc-pivot.png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/11a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
+
+### Slippage
+
+Slippage is crazy!
+
+![Slippage on UNDEAD/USDC swaps](imgs/10-slippage.png)
+
+On $500 and $700 swaps slippage is $200, both ways! Do I need to establish an LP UNDEAD/USDC, I wonder? 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/12a-dash.png) 
+![Pivot Protocol TVL](imgs/12b-tvl.png) 
+![Pivot Distributions](imgs/12c-dists.png) 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
