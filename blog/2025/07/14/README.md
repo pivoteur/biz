@@ -48,3 +48,21 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $135,760 (δ: -15.51% ) , α: -145.16% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# PIVOTS
+
+## AVAX+UNDEAD
+
+![Close UNDEAD hedge](imgs/03a-close-undead-hedge.png)
+
+I close 1 hedge for gains of:
+
+* actual ROI: 12.24% / 2233.26% APR projected
+* or: 84k $UNDEAD -> $ETH -> 112k $UNDEAD
+* or: $19.59-gain on $200 hedged
+
+![Distribute gains](imgs/03b-dist-gains.png)
+
+I distribute 80% of the $UNDEAD gains to stakers.
+
+
