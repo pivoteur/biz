@@ -52,7 +52,20 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 
 ## AVAX+UNDEAD 
 
-I close 1 pivot for gains of: 
+![Close UNDEAD hedge](imgs/03a-close-undead-hedge.png)
+![Close UNDEAD hedge](imgs/03b-close-undead-hedge.png)
+
+I close 2 hedges for gains of:
+
+* actual ROI: 28.98% / 7051.90% APR projected
+* or: 182k $UNDEAD -> $AVAX -> 235k $UNDEAD 💥
+* or: $132-gain on $450 hedged 💥
+
+![Distribute gains](imgs/03c-dist-gains.png)
+
+I distribute 80% of the gains to stakers.
+
+Dude! 😳
 
 ### Open Pivots 
 
