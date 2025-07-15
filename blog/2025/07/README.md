@@ -1,5 +1,6 @@
 # July, 2025
 
+* [2025-07-15](15) Spotlight on: Litecoin / $LTC
 * [2025-07-14](14) Spotlight on: Chainlink / $LINK
 * [2025-07-13](13) Spotlight on: Cardano / $ADA
 * [2025-07-12](12) Establishing pivot pools on Avalanche; Spotlight on Solana / SOL
