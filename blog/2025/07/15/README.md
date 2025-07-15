@@ -84,3 +84,18 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![AVAX+UNDEAD pivot pool composition](imgs/05a-comp.png) 
 ![AVAX+UNDEAD pivot pool γ-apportionment](imgs/05b-apport.png) 
+
+## ETH+UNDEAD
+
+![Close UNDEAD-on-ETH hedge](imgs/06a-close-undead-hedge.png)
+![Close UNDEAD-on-ETH hedge](imgs/06b-close-undead-hedge.png)
+
+I close 2 UNDEAD-on-ETH hedges for gains of:
+
+* actual ROI: 9.77% / 7129.71% APR projected
+* or: 200k $UNDEAD -> $ETH -> 224k $UNDEAD
+* or: $50-gain on $500 hedged
+
+![Distribute gains](imgs/06c-dist-gains.png)
+
+I distribute 80% of the gains to stakers. 
