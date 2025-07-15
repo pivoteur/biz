@@ -32,3 +32,19 @@
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+## $UNDEAD performance analysis, 2025-07-15 
+
+* "δ" indicates change since 2025-06-05 
+* "α" is annualized since 2025-06-05 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8213 (δ: -8.81% ) , α: -80.39% 
+* quote: $0.00251 (δ: -17.15% ) , α: -156.51% 
+* market cap: $37,681 (δ: -16.99% ) , α: -155.01% 
+* 24-hr volume: $96,383 (δ: -40.02% ) , α: -365.15% 
+
+[2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
