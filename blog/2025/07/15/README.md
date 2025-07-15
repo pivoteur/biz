@@ -48,3 +48,26 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $96,383 (δ: -40.02% ) , α: -365.15% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+# PIVOTS 
+
+## AVAX+UNDEAD 
+
+I close 1 pivot for gains of: 
+
+### Open Pivots 
+
+![UNDEAD Ratio](imgs/04a-ratio.png) 
+![Positive δ](imgs/04b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/04c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/04d-open-undead-hedge.png) 
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![AVAX+UNDEAD pivot pool composition](imgs/05a-comp.png) 
+![AVAX+UNDEAD pivot pool γ-apportionment](imgs/05b-apport.png) 
