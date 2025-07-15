@@ -1,8 +1,8 @@
 # 2025-07-15 Spotlight on Litecoin / $LTC 
 
-![Coingecko chart for LTC](imgs/02a-ltc.png) 
-![LTC / UNDEAD ratio](imgs/02b-ratio.png) 
-![LTC / UNDEAD ratio δ](imgs/02c-delta.png) 
+![Coingecko chart for LTC](imgs/01a-ltc.png) 
+![LTC / UNDEAD ratio](imgs/01b-ratio.png) 
+![LTC / UNDEAD ratio δ](imgs/01c-delta.png) 
 
 
 * rank: 26 
