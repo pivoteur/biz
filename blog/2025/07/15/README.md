@@ -99,7 +99,8 @@ I close 2 UNDEAD-on-ETH hedges for gains of:
 ![Distribute gains](imgs/06c-dist-gains.png)
 
 I distribute 80% of the gains to stakers. 
-echo ### Open Pivot 
+
+### Open Pivot 
 
 ![ETH/UNDEAD ratio](imgs/07a-ratio.png) 
 ![Positive δ](imgs/07b-delta.png) 
@@ -116,3 +117,29 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![UNDEAD+USDC pivot pool composition](imgs/08a-comp.png) 
 ![UNDEAD+USDC pivot pool γ-apportionment](imgs/08b-apport.png) 
+## UNDEAD+USDC 
+
+No close pivots. 
+
+### Open Pivot 
+
+![UNDEAD+USDC ratio](imgs/09a-ratio.png) 
+![Middling δ](imgs/09b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/09c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD pivot 
+
+![Open USDC pivot](imgs/09d-open-usdc-pivot.png) 
+
+I infuse (that is bridge, using @VeraBridge_io) ~750k $UNDEAD from the reserves into the UNDEAD+USDC pivot pool for future pivots.
+
+![Bridging UNDEAD from Ethereum reserves to UNDEAD+USDC pivot pool on Avalanche](imgs/10-bridge-undead.png)
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/11a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
