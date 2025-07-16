@@ -40,3 +40,13 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $132,060 (δ: -17.81% ) , α: -158.58% 
 
 [2025-06-05 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# $UNDEAD Liquidity Pools
+
+![Uniswap LP AVAX/UNDEAD on Avalanche](imgs/03-uniswap-lp.png)
+
+@UndeadBlocks has an @Uniswap LP AVAX/UNDEAD on @avax. Stay tuned for ANNOUNCEMENTs for LPs we are launching today on DEXes on @avax.
+
+For $UNDEAD, the fun begins: today.
+
+You MAY want to start thinking about an investment into $UNDEAD. #NFA #DYOR 
