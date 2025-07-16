@@ -64,6 +64,7 @@ I close 1 hedge for gains of:
 * or: $63-gain on $265-hedge
 
 Instead of distributing gains, I'm in conversations with stakers about using the gains to BUIDL new pools.
+
 ### Open AVAX+UNDEAD pivots, 2025-07-16 
 
 ![UNDEAD Ratio](imgs/05a-ratio.png) 
@@ -81,3 +82,20 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![AVAX+UNDEAD pivot pool composition](imgs/06a-comp.png) 
 ![AVAX+UNDEAD pivot pool γ-apportionment](imgs/06b-apport.png) 
+
+### Gains disposition
+
+After discussing with stakers, we're going ahead with profit from +UNDEAD pivot pools funding new pivot pools.
+
+![Swap 80% of gains to $BTC](imgs/07a-swap-to-btc.png)
+![Distribute gains](imgs/07b-dist-gains.png)
+
+I swap 80% of the gains to $BTC and send it to the treasury addy to reserve funds to start new pools.
+
+I'll be creating these new pivot pools sequentially.
+
+# Bridging $UNDEAD
+
+![Bridge UNDEAD from Ethereum to Avalanche](imgs/08-bridge-undead.png)
+
+In preparation for funding liquidity pools on @avax, I bridge $UNDEAD from my @Ledger addy on @ethereum using @VeraBridge_io. 
