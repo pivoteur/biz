@@ -156,3 +156,15 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![UNDEAD+USDC pivot pool composition](imgs/13a-comp.png) 
 ![UNDEAD+USDC pivot pool γ-apportionment](imgs/13b-apport.png) 
+
+# Funding Liquidity Pools on Blackhole DEX
+
+Let's fund liquidity pools on @BlackholeDex!
+
+![Provide liquidity to LP UNDEAD/WAVAX](imgs/14a-lp-undead-wavax.png)
+![Stake LP UNDEAD/WAVAX](imgs/14b-stake-lp.png)
+
+![Provide liquidity to LP UNDEAD/USDC](imgs/14c-lp-undead-usdc.png)
+![Stake LP UNDEAD/USDC](imgs/14d-stake-lp.png)
+
+I provide liquidity to, then stake, both LP UNDEAD/WAVAX and LP UNDEAD/USDC. 
