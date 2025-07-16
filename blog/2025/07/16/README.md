@@ -50,3 +50,17 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 For $UNDEAD, the fun begins: today.
 
 You MAY want to start thinking about an investment into $UNDEAD. #NFA #DYOR 
+
+# PIVOTS
+
+## AVAX+UNDEAD
+
+![Close UNDEAD-on-AVAX hedge](imgs/04-close-undead-hedge.png)
+
+I close 1 hedge for gains of:
+
+* actual ROI: 16.57% / 6046.50% APR projected
+* or: 150k $UNDEAD -> $AVAX -> 175k $UNDEAD
+* or: $63-gain on $265-hedge
+
+Instead of distributing gains, I'm in conversations with stakers about using the gains to BUIDL new pools.
