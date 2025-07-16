@@ -135,3 +135,24 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![UNDEAD+USDC pivot pool composition](imgs/11a-comp.png) 
 ![UNDEAD+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
+## UNDEAD+USDC 
+
+No close pivots. 
+
+### Open Pivot 
+
+![UNDEAD+USDC ratio](imgs/012a-ratio.png) 
+![Middling δ](imgs/012b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/012c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD pivot 
+
+![Open USDC pivot](imgs/012d-open-usdc-pivot.png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![UNDEAD+USDC pivot pool composition](imgs/13a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/13b-apport.png) 
