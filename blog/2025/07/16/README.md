@@ -64,3 +64,20 @@ I close 1 hedge for gains of:
 * or: $63-gain on $265-hedge
 
 Instead of distributing gains, I'm in conversations with stakers about using the gains to BUIDL new pools.
+### Open AVAX+UNDEAD pivots, 2025-07-16 
+
+![UNDEAD Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/05c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/05d-open-undead-hedge.png) 
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![AVAX+UNDEAD pivot pool composition](imgs/06a-comp.png) 
+![AVAX+UNDEAD pivot pool γ-apportionment](imgs/06b-apport.png) 
