@@ -141,16 +141,16 @@ No close pivots.
 
 ### Open Pivot 
 
-![UNDEAD+USDC ratio](imgs/012a-ratio.png) 
-![Middling δ](imgs/012b-delta.png) 
+![UNDEAD+USDC ratio](imgs/12a-ratio.png) 
+![Middling δ](imgs/12b-delta.png) 
 
 The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
 
-![Open UNDEAD pivot](imgs/012c-open-undead-pivot.png) 
+![Open UNDEAD pivot](imgs/12c-open-undead-pivot.png) 
 
 I also open an USDC-on-UNDEAD pivot 
 
-![Open USDC pivot](imgs/012d-open-usdc-pivot.png) 
+![Open USDC pivot](imgs/12d-open-usdc-pivot.png) 
 
 The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
 
