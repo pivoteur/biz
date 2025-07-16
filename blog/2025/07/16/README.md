@@ -120,18 +120,18 @@ I swap 80% of the gains to $ETH in reserve to fund new pivot pools.
 
 ### Open Pivot 
 
-![ETH/UNDEAD ratio](imgs/07a-ratio.png) 
-![Positive δ](imgs/07b-delta.png) 
+![ETH/UNDEAD ratio](imgs/10a-ratio.png) 
+![Positive δ](imgs/10b-delta.png) 
 
 The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
 
-![Open ETH pivot](imgs/07c-open-eth-pivot.png) 
+![Open ETH pivot](imgs/10c-open-eth-pivot.png) 
 
 I also hedge with an UNDEAD-on-ETH pivot. 
 
-![Open UNDEAD hedge](imgs/07d-open-undead-hedge.png) 
+![Open UNDEAD hedge](imgs/10d-open-undead-hedge.png) 
 
 The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
 
-![UNDEAD+USDC pivot pool composition](imgs/08a-comp.png) 
-![UNDEAD+USDC pivot pool γ-apportionment](imgs/08b-apport.png) 
+![UNDEAD+USDC pivot pool composition](imgs/11a-comp.png) 
+![UNDEAD+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
