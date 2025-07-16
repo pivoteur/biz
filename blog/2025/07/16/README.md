@@ -99,3 +99,22 @@ I'll be creating these new pivot pools sequentially.
 ![Bridge UNDEAD from Ethereum to Avalanche](imgs/08-bridge-undead.png)
 
 In preparation for funding liquidity pools on @avax, I bridge $UNDEAD from my @Ledger addy on @ethereum using @VeraBridge_io. 
+
+# PIVOTS (reprise)
+
+## ETH+UNDEAD
+
+D-mn. 😳
+
+![Close UNDEAD-on-ETH hedge](imgs/09a-close-undead-hedge.png)
+
+I close 1 hedge for gains of:
+
+* actual ROI: 32.97% / 12034.06% APR projected
+* or: 135k $UNDEAD -> $ETH -> 181k $UNDEAD
+* or: $113-gain on $259 hedge, ... WHAAAA?? 💥
+
+![Swap gains to $ETH](imgs/09b-swap-to-eth.png)
+
+I swap 80% of the gains to $ETH in reserve to fund new pivot pools. 
+
