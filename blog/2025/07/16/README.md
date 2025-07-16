@@ -168,3 +168,13 @@ Let's fund liquidity pools on @BlackholeDex!
 ![Stake LP UNDEAD/USDC](imgs/14d-stake-lp.png)
 
 I provide liquidity to, then stake, both LP UNDEAD/WAVAX and LP UNDEAD/USDC. 
+
+## Go vote for Blackhole $UNDEAD liquidity pools
+
+💥💥💥ANNOUNCEMENT!💥💥💥
+
+Both LP UNDEAD/WAVAX and LP UNDEAD/USDC are provisioned on @BlackholeDex.
+
+![UNDEAD LPs on Blackhole DEX](imgs/15a-blackhole-lps.png)
+![Go vote to incentivize these liquidity pools!](imgs/15b-go-vote.png)
+Go to [Blackhole DEX voting page](https://blackhole.xyz/vote) then search for 'UNDEAD' to vote for these liquidity pools to be incentivized!
