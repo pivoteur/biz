@@ -1,4 +1,4 @@
-2025-06-05 
+2025-07-17
 
 # Status of $UNDEAD 
 
@@ -7,10 +7,10 @@
 ![$UNDEAD market captalization](imgs/01c-cap.png) 
 ![$UNDEAD 24-hour volume](imgs/01d-vol.png) 
 
-* rank: 7548 
-* quote: $0.00303 
-* market cap: $45,392 
-* 24-hr volume: $160,683 (δ: -$64,016 ) 
+* rank: 8480 
+* quote: $0.00221 
+* market cap: $33,187 
+* 24-hr volume: $94,618 (δ: -$37,442 ) 
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
