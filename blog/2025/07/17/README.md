@@ -80,3 +80,20 @@ Winner: @KyberNetwork, followed closely by @LFJ_gg
 
 I create this pivot pool on @avax with 1.2M $UNDEAD liquidity. 
 
+### Open BTC+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/06a-ratio.png) 
+![Positive δ](imgs/06b-delta.png) 
+
+The positive δ calls to open an BTC-on-UNDEAD pivot, which I do. 
+
+![Open BTC pivot](imgs/06c-open-btc-pivot.png) 
+
+I also open an UNDEAD-on-BTC hedge. 
+
+![Open UNDEAD hedge](imgs/06d-open-undead-hedge.png) 
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/07a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/07b-apport.png) 
