@@ -48,3 +48,10 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+# PIVOTS 
+
+## BTC+UNDEAD 
+
+![Seed pivot pool with $UNDEAD liquidity](imgs/04-seed-pool.png) 
+
+I create this pivot pool on @avax with 1.2M $UNDEAD liquidity. 
