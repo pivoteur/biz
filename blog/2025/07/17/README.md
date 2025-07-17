@@ -48,6 +48,30 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+# DEX race
+
+Same swap; 4 DEX, 2025-07-17
+
+I swap 134,000 $UNDEAD to get:
+
+1. 249.72 $USDC on @PharaohExchange
+
+![Pharaoh](imgs/05a-pharaoh-dex.png)
+
+2. 227.39 $USDC with a 28% price-slippage warning on @BlackholeDex
+
+![Blackhole](imgs/05b-blackhole-dex.png)
+
+3. 258.53 $UDSD on @KyberNetwork💥
+
+![Kyber](imgs/05c-kyber-dex.png)
+
+4. 258.08 $USDC on @LFJ_gg
+
+![TraderJoe](imgs/05c-lfj-dex.png)
+
+Winner: @KyberNetwork, followed closely by @LFJ_gg 
+
 # PIVOTS 
 
 ## BTC+UNDEAD 
@@ -55,3 +79,4 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 ![Seed pivot pool with $UNDEAD liquidity](imgs/04-seed-pool.png) 
 
 I create this pivot pool on @avax with 1.2M $UNDEAD liquidity. 
+
