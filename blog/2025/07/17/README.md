@@ -68,7 +68,7 @@ I swap 134,000 $UNDEAD to get:
 
 4. 258.08 $USDC on @LFJ_gg
 
-![TraderJoe](imgs/05c-lfj-dex.png)
+![TraderJoe](imgs/05d-lfj-dex.png)
 
 Winner: @KyberNetwork, followed closely by @LFJ_gg 
 
