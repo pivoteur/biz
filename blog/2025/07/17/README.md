@@ -14,6 +14,7 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 [HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791)
 
 #IVotedForUNDEAD 
+
 # 2025-07-17 Spotlight on Polkadot / $DOT 
 
 ![Coingecko chart for DOT](imgs/02a-dot.png) 
@@ -47,6 +48,33 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
+
+## $UNDEAD performance analysis, 2025-07-17 
+
+* "δ" indicates change since 2025-07-17 
+* "α" is annualized since 2025-07-17 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8480 (δ: 0.00% ) , α: n/a 
+* quote: $0.00221 (δ: 0.00% ) , α: n/a 
+* market cap: $33,187 (δ: 0.00% ) , α: n/a 
+* 24-hr volume: $94,618 (δ: 0.00% ) , α: n/a 
+
+[2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+## 💥💥💥ANNOUNCEMENT!💥💥💥
+
+Because of several factors today:
+
+* @BlackholeDex $UNDEAD LPs launch
+* @PharaohExchange $UNDEAD LPs launch
+* newly launched BTC+UNDEAD pivot pool
+
+The $UNDEAD analysis page (https://x.com/pivocateur/status/1945912271646965780) resets its baseline-snapshot to today.
 
 # DEX race
 
