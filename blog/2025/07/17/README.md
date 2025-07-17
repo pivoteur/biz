@@ -29,3 +29,22 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 [DOT data source](https://www.coingecko.com/en/coins/polkadot) 
 
+# 2025-07-17 Status of @UndeadBlocks / $UNDEAD 
+
+![$UNDEAD rank](imgs/03a-rank.png) 
+![$UNDEAD quote](imgs/03b-quote.png) 
+![$UNDEAD market captalization](imgs/03c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/03d-vol.png) 
+
+* rank: 8480 
+* quote: $0.00221 
+* market cap: $33,187 
+* 24-hr volume: $94,618 (δ: -$37,442 ) 
+
+
+[UNDEAD data source](https://www.coingecko.com/en/coins/undead-blocks) 
+
+
+
+When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
+
