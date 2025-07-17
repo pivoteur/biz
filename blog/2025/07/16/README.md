@@ -178,3 +178,24 @@ Both LP UNDEAD/WAVAX and LP UNDEAD/USDC are provisioned on @BlackholeDex.
 ![UNDEAD LPs on Blackhole DEX](imgs/15a-blackhole-lps.png)
 ![Go vote to incentivize these liquidity pools!](imgs/15b-go-vote.png)
 Go to [Blackhole DEX voting page](https://blackhole.xyz/vote) then search for 'UNDEAD' to vote for these liquidity pools to be incentivized!
+
+## HOWTO Vote to incentivize Blackhole LPs
+
+Voting for @BlackholeDex LPs
+
+1. [Swap to $BLACK](https://blackhole.xyz/swap?token0=0xavax&token1=0xcd94a87696fac69edae3a70fe5725307ae1c43f6)
+
+![Swap liquidity to $BLACK](imgs/16a-swap-to-black.png)
+
+2. [Permalock your $BLACK](https://blackhole.xyz/locks) to maximize $BLACK voting-power (locking is required; permalocking is optional)
+
+![Lock $BLACK to vote](imgs/16b-lock-black.png)
+
+3. Confirm lock
+
+![Confirm lock](imgs/16c-confirm.png)
+
+4. Search for UNDEAD LPs and [vote!](https://blackhole.xyz/vote)
+
+![Vote for LPs](imgs/16d-vote-for-lps.png)
+
