@@ -159,3 +159,6 @@ I close 1 pivot for gains of:
 I distribute 80% of the gains to the treasury to BUIDL other pivot pools and liquidity pools.
 
 
+![Seed pivot pool with $UNDEAD liquidity](imgs/12-seed-pool.png) 
+
+I seed this pivot pool on @avax with 800000 $UNDEAD from the Treasury. 
