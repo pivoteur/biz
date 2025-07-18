@@ -121,3 +121,26 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The ETH+UNDEAD pivot pool composition](imgs/07a-comp.png) 
 ![The ETH+UNDEAD pivot pool γ-apportionment](imgs/07b-apport.png) 
+## AVAX+UNDEAD 
+
+![Seed pivot pool with $UNDEAD liquidity](imgs/08-seed-pool.png) 
+
+I seed this pivot pool on @avax with 800000 $UNDEAD from the Treasury. 
+
+### Open AVAX+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/09a-ratio.png) 
+![Positive δ](imgs/09b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/09c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/09d-open-undead-hedge.png) 
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/10a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/10b-apport.png) 
