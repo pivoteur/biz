@@ -162,3 +162,20 @@ I distribute 80% of the gains to the treasury to BUIDL other pivot pools and liq
 ![Seed pivot pool with $UNDEAD liquidity](imgs/12-seed-pool.png) 
 
 I seed this pivot pool on @avax with 800000 $UNDEAD from the Treasury. 
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/013a-ratio.png) 
+![Middling δ](imgs/013b-delta.png) 
+
+The meh δ makes no call, but I open an USDC-on-UNDEAD pivot, anyway. 
+
+![Open USDC pivot](imgs/13c-open-usdc-pivot.png) 
+
+I also open an UNDEAD-on-USDC pivot. 
+
+![Open UNDEAD pivot](imgs/13d-open-undead-pivot.png) 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/14a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/14b-apport.png) 
