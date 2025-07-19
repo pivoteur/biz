@@ -95,3 +95,26 @@ I close 1 pivot for gains of:
 ![Distribute gains](imgs/05b-dist-gains.png)
 
 I distribute 80% of the $ETH gained to the treasury. 
+## ETH+UNDEAD 
+
+
+
+I close 1 pivot for gains of: 
+
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/06a-ratio.png) 
+![Positive δ](imgs/06b-delta.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/06c-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/06d-open-undead-hedge.png) 
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/07a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/07b-apport.png) 
