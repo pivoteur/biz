@@ -1,5 +1,6 @@
 # July, 2025
 
+* [2025-07-19](19)
 * [2025-07-18](18) Spotlight on: Near / $NEAR
 * [2025-07-17](17) Spotlight on: Polkadot / $DOT
 * [2025-07-16](16) Provisioned Blackhole LPs
