@@ -104,3 +104,28 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The ETH+UNDEAD pivot pool composition](imgs/06a-comp.png) 
 ![The ETH+UNDEAD pivot pool γ-apportionment](imgs/06b-apport.png) 
+## AVAX+UNDEAD 
+
+
+
+No close pivots. 
+
+### Open AVAX+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/07a-ratio.png) 
+![Positive δ](imgs/07b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/07c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/07d-open-undead-hedge.png) 
+
+All AVAX+UNDEAD assets are now committed to pivots. 
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/08a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/08b-apport.png) 
