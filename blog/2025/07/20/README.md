@@ -153,6 +153,8 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 # Liquidity pools.
 
+## Uniswap
+
 Here I am, swapping $USDt to $UNDEAD to provide liquidity to a newly created @Uniswap LP UNDEAD/USDC. 
 
 ![Swap $USDt to $UNDEAD](imgs/11a-swap-to-undead.png)
@@ -161,3 +163,19 @@ Here I am, swapping $USDt to $UNDEAD to provide liquidity to a newly created @Un
 ![Uniswap UNDEAD LPs](imgs/11d-uniswap-lps.png)
 
 My @Uniswap $UNDEAD LPs are shown.
+
+## Pharaoh
+
+Let's create $UNDEAD liquidity pools on @PharaohExchange.
+
+![UNDEAD price-quote](imgs/12a-undead-quote.png)
+
+With the $UNDEAD price I have to guestimate how much $UNDEAD I pair against $USDC and then $AVAX. This I do.
+
+![Provide to LP UNDEAD/USDC](imgs/12b-provide-lp.png)
+![Provide to LP AVAX/UNDEAD](imgs/12c-provide-lp.png)
+![UNDEAD LPs on Pharaoh](imgs/12d-pharaoh-lps.png)
+
+I'm starting with a little bit liquidity here, as that's all I have. I'll feed these pools with pivot-gains.
+
+
