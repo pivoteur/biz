@@ -141,3 +141,18 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The AVAX+UNDEAD pivot pool composition](imgs/09a-comp.png) 
 ![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+
+## UNDEAD+USDC
+
+![Close USDC pivot](imgs/10a-close-usdc-pivot.png)
+
+I close 1 pivot for gains of:
+
+* actual ROI: 10.67% / 778.78% APR projected
+* or: 500 $USDC -> $UNDEAD -> 553 $USDC
+
+I distribute 80% of the gains to the treasury addy.
+
+![Distribute Gains](imgs/10b-dist-gains.png)
+
+
