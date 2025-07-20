@@ -150,3 +150,14 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![The UNDEAD+USDC pivot pool composition](imgs/10a-comp.png) 
 ![The UNDEAD+USDC pivot pool γ-apportionment](imgs/10b-apport.png) 
+
+# Liquidity pools.
+
+Here I am, swapping $USDt to $UNDEAD to provide liquidity to a newly created @Uniswap LP UNDEAD/USDC. 
+
+![Swap $USDt to $UNDEAD](imgs/11a-swap-to-undead.png)
+![Create Uniswap LP UNDEAD/USDC](imgs/11b-create-pool.png)
+![Provide Liquidity](imgs/11c-provide-liquidity.png)
+![Uniswap UNDEAD LPs](imgs/11d-uniswap-lps.png)
+
+My @Uniswap $UNDEAD LPs are shown.
