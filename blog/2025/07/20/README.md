@@ -178,4 +178,13 @@ With the $UNDEAD price I have to guestimate how much $UNDEAD I pair against $USD
 
 I'm starting with a little bit liquidity here, as that's all I have. I'll feed these pools with pivot-gains.
 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/13a-dash.png) 
+![Pivot Protocol TVL](imgs/13b-tvl.png) 
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
 
