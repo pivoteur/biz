@@ -125,3 +125,28 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The AVAX+UNDEAD pivot pool composition](imgs/08a-comp.png) 
 ![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/08b-apport.png) 
+## UNDEAD+USDC 
+
+
+
+No close pivots. 
+
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/09a-ratio.png) 
+![Positive δ](imgs/09b-delta.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+![Open USDC pivot](imgs/09c-open-usdc-pivot.png) 
+
+I also open an UNDEAD-on-USDC hedge. 
+
+![Open UNDEAD hedge](imgs/09d-open-undead-hedge.png) 
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/10a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/10b-apport.png) 
