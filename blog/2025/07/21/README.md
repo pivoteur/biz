@@ -74,3 +74,28 @@ Trend? 😎
 
 All assets committed. No close pivots. 
 
+## ETH+UNDEAD 
+
+
+
+No close pivots. 
+
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/03a-ratio.png) 
+![Positive δ](imgs/03b-delta.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/03c-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/03d-open-undead-hedge.png) 
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/04a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png) 
