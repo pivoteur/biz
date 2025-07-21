@@ -66,3 +66,11 @@ Winner: @KyberNetwork (reclaimed top spot)
 ![UNDEAD/USDC swap on Kyber](imgs/02c-kyber.png)
 
 Trend? 😎
+# PIVOTS 
+
+## BTC+UNDEAD 
+
+
+
+All assets committed. No close pivots. 
+
