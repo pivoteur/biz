@@ -114,10 +114,6 @@ The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do.
 
 ![Open AVAX pivot](imgs/05c-open-avax-pivot.png) 
 
-I also open an UNDEAD-on-AVAX hedge. 
-
-![Open UNDEAD hedge](imgs/05d-open-undead-hedge.png) 
-
 All AVAX+UNDEAD assets are now committed to pivots. 
 
 The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
