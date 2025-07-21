@@ -56,3 +56,13 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
 
 Winner: @KyberNetwork (reclaimed top spot) 
+
+# 💥💥💥NEWS FLASH💥💥💥
+
+134k $UNDEAD was my benchmark for 250 $USDC pivot-trades.
+
+134k $UNDEAD is now valued at 300 $USDC.
+
+![UNDEAD/USDC swap on Kyber](imgs/02c-kyber.png)
+
+Trend? 😎
