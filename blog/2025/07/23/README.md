@@ -63,3 +63,18 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/03d-lfj.png) 
 
 Winner: @KyberNetwork (3-day streak) 
+
+# PIVOTS 
+
+All assets committed. No close pivots. 
+
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/04a-dash.png) 
+![Pivot Protocol TVL](imgs/04b-tvl.png) 
+
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
