@@ -88,3 +88,30 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The ETH+UNDEAD pivot pool composition](imgs/04a-comp.png) 
 ![The ETH+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png) 
+## AVAX+UNDEAD 
+
+
+
+All assets committed. No close pivots. 
+## UNDEAD+USDC 
+
+
+
+No close pivots. 
+
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do, after transferring that liquidity from the Treasury.
+
+![Transfer liquidity](imgs/05c-xfer-liquidity.png)
+![Open USDC pivot](imgs/05d-open-usdc-pivot.png) 
+
+All USDC+UNDEAD assets are now committed to pivots. 
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/06a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/06b-apport.png) 
