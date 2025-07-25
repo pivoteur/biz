@@ -70,6 +70,27 @@ Where did I get this $UNDEAD-liquidity? I transferred it from the liquidity orig
 ![Bridge $UNDEAD from operations](imgs/03a-bridge-from-operations.png)
 
 I am dividing that operating capital equally into the 4 pivot pools.
+
+### Open BTC+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/04a-ratio.png) 
+![Positive δ](imgs/04b-delta.png) 
+
+The positive δ calls to open an BTC-on-UNDEAD pivot, which I do. 
+
+![Open BTC pivot](imgs/04c-open-btc-pivot.png) 
+
+I also open an UNDEAD-on-BTC hedge. 
+
+![Open UNDEAD hedge](imgs/04d-open-undead-hedge.png) 
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/05a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/05b-apport.png) 
+
 ## ETH+UNDEAD 
 
 ![Seed pivot pool with $UNDEAD liquidity](imgs/06-seed-pool.png) 
