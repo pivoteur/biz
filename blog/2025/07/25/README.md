@@ -70,3 +70,28 @@ Where did I get this $UNDEAD-liquidity? I transferred it from the liquidity orig
 ![Bridge $UNDEAD from operations](imgs/03a-bridge-from-operations.png)
 
 I am dividing that operating capital equally into the 4 pivot pools.
+## ETH+UNDEAD 
+
+![Seed pivot pool with $UNDEAD liquidity](imgs/06-seed-pool.png) 
+
+I seed this pivot pool on @avax with 1250000 $UNDEAD from the Treasury. 
+
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/07a-ratio.png) 
+![Positive δ](imgs/07b-delta.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/07c-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/07d-open-undead-hedge.png) 
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/08a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/08b-apport.png) 
