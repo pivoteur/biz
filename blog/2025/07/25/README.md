@@ -56,3 +56,17 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
 
 Winner: @KyberNetwork (5-day streak) 
+
+# PIVOTS
+
+## BTC+UNDEAD
+
+I seed this pivot pool on @avax with 1250000 $UNDEAD from the Treasury.
+
+![Seed pivot pool with $UNDEAD liquidity](imgs/03b-seed-pool.png)
+
+Where did I get this $UNDEAD-liquidity? I transferred it from the liquidity originally tagged as operating capital.
+
+![Bridge $UNDEAD from operations](imgs/03a-bridge-from-operations.png)
+
+I am dividing that operating capital equally into the 4 pivot pools.
