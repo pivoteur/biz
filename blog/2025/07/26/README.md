@@ -149,3 +149,20 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The AVAX+UNDEAD pivot pool composition](imgs/09a-comp.png) 
 ![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+
+# Provide Liquidity to UNDEAD stable LP on Uniswap
+
+Before I finish off pivoting with the UNDEAD+USDC pool, 
+
+* I collect the fees from my @Uniswap LP UNDEAD/AVAX and 
+
+![Harvest yields on Uniswap LP UNDEAD/AVAX](imgs/10a-harvest-yields.png)
+
+* swap half to $USDC 
+
+![Swap half to $USDC](imgs/10b-swap-to-usdc.png)
+
+* to provide liquidity to the @Uniswap LP UNDEAD/USDC.
+
+![Provide Liquidity to Uniswap LP UNDEAD/USDC](imgs/10c-provide.png)
+
