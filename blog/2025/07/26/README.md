@@ -166,3 +166,30 @@ Before I finish off pivoting with the UNDEAD+USDC pool,
 
 ![Provide Liquidity to Uniswap LP UNDEAD/USDC](imgs/10c-provide.png)
 
+# PIVOTS, le deuxième part 
+
+## UNDEAD+USDC 
+
+
+
+No close pivots. 
+
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/11a-ratio.png) 
+![Positive δ](imgs/11b-delta.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+![Open USDC pivot](imgs/11c-open-usdc-pivot.png) 
+
+I also open an UNDEAD-on-USDC hedge. 
+
+![Open UNDEAD hedge](imgs/11d-open-undead-hedge.png) 
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/12a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/12b-apport.png) 
