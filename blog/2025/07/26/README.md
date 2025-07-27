@@ -193,3 +193,13 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![The UNDEAD+USDC pivot pool composition](imgs/12a-comp.png) 
 ![The UNDEAD+USDC pivot pool γ-apportionment](imgs/12b-apport.png) 
+# CONCLUSION 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/13a-dash.png) 
+![Pivot Protocol TVL](imgs/13b-tvl.png) 
+![Pivot Protocol pivot pools](imgs/13c-pools.png) 
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
