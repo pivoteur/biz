@@ -129,3 +129,22 @@ I send 80% of the $UNDEAD gained to the treasury.
 
 The remaining 20% of the gain stays in the pivot pool.
 
+### Open AVAX+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/08a-ratio.png) 
+![Positive δ](imgs/08b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/08c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/08d-open-undead-hedge.png) 
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/09a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
