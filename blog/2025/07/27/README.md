@@ -56,3 +56,30 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
 
 Winner: @KyberNetwork (7-day streak) 
+# PIVOTS 
+
+## BTC+UNDEAD 
+
+
+
+No close pivots. 
+
+### Open BTC+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/03a-ratio.png) 
+![Positive δ](imgs/03b-delta.png) 
+
+The positive δ calls to open an BTC-on-UNDEAD pivot, which I do. 
+
+![Open BTC pivot](imgs/03c-open-btc-pivot.png) 
+
+I also open an UNDEAD-on-BTC hedge. 
+
+![Open UNDEAD hedge](imgs/03d-open-undead-hedge.png) 
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/04a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png) 
