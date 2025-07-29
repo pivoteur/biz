@@ -43,7 +43,7 @@ I swap 134000 $UNDEAD for:
 
 ![UNDEAD/USDC swap on Pharaoh](imgs/02a-pharaoh.png) 
 
-2. 219.88 $USDC on @BlackholeDex with 29.43% slippage 
+2. 219.88 $USDC on @BlackholeDex with 27.8% slippage 
 
 ![UNDEAD/USDC swap on Blackhole](imgs/02b-blackhole.png) 
 
