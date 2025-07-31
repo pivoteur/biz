@@ -33,3 +33,20 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $91,453 (δ: -29.93% ) , α: -993.17% 
 
 [2025-07-20 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# State of the Pivot Protocol.
+
+After receiving custody of 50M $UNDEAD from @wagyugames, a price-shift in $UNDEAD today recovered $10k in NAV for the protocol.
+
+![State of Pivot Protocol](imgs/02-state.png)
+
+* 50M $UNDEAD = $109,750.00
+* Pivot Protocol NAV = $112,060.22
+
+This shows the protocol has generated $2,310.22 in value.
+
+## Distributions
+
+![Distributions to stakers](imgs/03-dists.png)
+
+The above does not include the $919.11 distributed to stakers to date, so this report will incorporate distributions, going forward. 
