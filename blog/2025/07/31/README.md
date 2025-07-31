@@ -50,3 +50,26 @@ This shows the protocol has generated $2,310.22 in value.
 ![Distributions to stakers](imgs/03-dists.png)
 
 The above does not include the $919.11 distributed to stakers to date, so this report will incorporate distributions, going forward. 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 4 DEX, 2025-07-31 
+
+I swap 134000 $UNDEAD for: 
+
+1. 265.02 $USDC on @PharaohExchange 
+
+![UNDEAD/USDC swap on Pharaoh](imgs/04a-pharaoh.png) 
+
+2. 233.12 $USDC on @BlackholeDex with 28.51% slippage 
+
+![UNDEAD/USDC swap on Blackhole](imgs/04b-blackhole.png) 
+
+3. 269.72 $USDC on @KyberNetwork 💥 
+
+![UNDEAD/USDC swap on Kyber](imgs/04c-kyber.png) 
+
+4. 269.65 $USDC on @LFJ_gg 
+
+![UNDEAD/USDC swap on LFJ](imgs/04d-lfj.png) 
+
+Winner: @KyberNetwork 💥 Renewed title-winner! 
