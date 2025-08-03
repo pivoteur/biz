@@ -74,3 +74,26 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $154,867 (δ: 63.68% ) , α: 1452.62% 
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 4 DEX, 2025-08-02 
+
+I swap 134000 $UNDEAD for: 
+
+1. 311.88 $USDC on @PharaohExchange 💥 
+
+![UNDEAD/USDC swap on Pharaoh](imgs/05a-pharaoh.png) 
+
+2. 271.29 $USDC on @BlackholeDex with 30.37% slippage 
+
+![UNDEAD/USDC swap on Blackhole](imgs/05b-blackhole.png) 
+
+3. 310.53 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/05c-kyber.png) 
+
+4. 310.66 $USDC on @LFJ_gg 
+
+![UNDEAD/USDC swap on LFJ](imgs/05d-lfj.png) 
+
+Winner: @PharaohExchange 💥 New title-winner! 
