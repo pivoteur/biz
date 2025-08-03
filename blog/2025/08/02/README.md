@@ -97,3 +97,11 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/05d-lfj.png) 
 
 Winner: @PharaohExchange 💥 New title-winner! 
+# State of the Pivot Protocol. 
+
+News: The Pivot Protocol received a 0.1 $BTC-investment to create three new BTC pivot pools and to pivot with. 
+
+* 50M $UNDEAD = $100,450.00 
+* Pivot Protocol NAV = $100,613.71 
+
+This shows the protocol has generated $163.71 in value. 
