@@ -23,3 +23,19 @@ Next, I bridge $UNDEAD from @Ledger. I also harvest yields from the @BlackholeDe
 Slippage is bad for the UNDEAD/USDC-swap, so funding that LP takes priority. 
 
 
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-08-02 
+
+Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. Reminder to go to https://blackhole.xyz/vote and vote for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/03a-vote.png) 
+![Vote for $UNDEAD LPs](imgs/01b-voted.png) LPs](imgs/03b-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) HOWTO vote instructions: https://x.com/pivocateur/status/1945637734682341791 
+
+#IVotedForUNDEAD 
