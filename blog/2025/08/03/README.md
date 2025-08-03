@@ -1,9 +1,9 @@
 # 2025-08-03 Status of @UndeadBlocks / $UNDEAD 
 
-![$UNDEAD rank](imgs/04a-rank.png) 
-![$UNDEAD quote](imgs/04b-quote.png) 
-![$UNDEAD market captalization](imgs/04c-cap.png) 
-![$UNDEAD 24-hour volume](imgs/04d-vol.png) 
+![$UNDEAD rank](imgs/01a-rank.png) 
+![$UNDEAD quote](imgs/01b-quote.png) 
+![$UNDEAD market captalization](imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](imgs/01d-vol.png) 
 
 * rank: 8352 
 * quote: $0.00254 
