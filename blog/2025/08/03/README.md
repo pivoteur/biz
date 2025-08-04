@@ -97,3 +97,27 @@ Due to a [4x price-increase of $UNDEAD](https://x.com/pivocateur/status/19522666
 * ROI (est): 250% / 5k% - 10k% APR projected
 * $5,754.38, or 0.050250 $BTC, gained
 
+## ETH+UNDEAD
+
+I'm leaving new pivots (including for BTC+UNDEAD) for later. First, I'm focusing on closing currently-open pivots.
+
+![Close smol ETH-on-UNDEAD pivot](imgs/06a-close-smol-eth.png)
+
+I close the currently-open ETH-on-UNDEAD pivots for gains around 100% ROI / 1.5k% - 2k% APR projected.
+
+![Close ETH-on-UNDEAD pivot, part 1](imgs/06b-close-eth-part-1.png)
+![Close ETH-on-UNDEAD pivot, part 2](imgs/06c-close-eth-part-2.png)
+
+I subdivide close-pivots with multiple swaps.
+
+## AVAX+UNDEAD
+
+I close the AVAX-on-UNDEAD pivots, combining 4 very small pivots into 1 swap. 
+
+![Close 4 AVAX-on-UNDEAD smol pivots as 1 swap](imgs/07a-close-smol-avax.png)
+
+The other close-pivot swaps are single-swaps, ...
+
+![Close AVAX-on-UNDEAD pivots](imgs/07b-close-avax.png)
+
+...as the exchanges are managing $UNDEAD slippage better now that the price is back to a ha'-penny (1 $UNDEAD is currently $0.005217).
