@@ -74,3 +74,11 @@ I close our first pivot (BTC-on-UNDEAD) for gains of:
 * or: $225-gained on $1,040 pivoted
 
 Très bien! 😎🎉
+
+# 💥💥💥'WHAT THE'-moment💥💥💥
+
+WHAT THE ACTUAL BLOODY HELL????
+
+![UNDEAD just below one penny](imgs/04-undead-penny.png)
+
+$UNDEAD just below 1¢!
