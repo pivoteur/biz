@@ -81,4 +81,19 @@ WHAT THE ACTUAL BLOODY HELL????
 
 ![UNDEAD just below one penny](imgs/04-undead-penny.png)
 
-$UNDEAD just below 1¢!
+$UNDEAD 4x'd to rise to just below 1¢!
+
+## Close remaining BTC-on-UNDEAD pivots
+
+Due to a [4x price-increase of $UNDEAD](https://x.com/pivocateur/status/1952266614222864514), I close 5 more BTC-on-UNDEAD pivots. One I can close without slippage-issues, 
+
+![Close smol BTC-on-UNDEAD pivot](imgs/05a-close-smol-btc.png)
+
+...but the other four, I subdivide into multiple swaps.
+
+![Close BTC-on-UNDEAD pivot, part 1](imgs/05b-close-btc-part-1.png)
+![Close BTC-on-UNDEAD pivot, part 2](imgs/05c-close-btc-part-2.png)
+
+* ROI (est): 250% / 5k% - 10k% APR projected
+* $5,754.38, or 0.050250 $BTC, gained
+
