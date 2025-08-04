@@ -120,4 +120,4 @@ The other close-pivot swaps are single-swaps, ...
 
 ![Close AVAX-on-UNDEAD pivots](imgs/07b-close-avax.png)
 
-...as the exchanges are managing $UNDEAD slippage better now that the price is back to a ha'-penny (1 $UNDEAD is currently $0.005217).
+...as the exchanges are managing $UNDEAD slippage better now that the price is back to a ha'-penny (1 $UNDEAD is currently trading at $0.005217).
