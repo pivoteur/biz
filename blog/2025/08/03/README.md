@@ -58,3 +58,19 @@ I swap 134000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
 
 Winner: @LFJ_gg 💥 Renewed title-winner! 
+
+# PIVOTS
+
+## BTC+UNDEAD
+
+WOOT!
+
+![Close BTC-on-UNDEAD pivot](imgs/03-close-btc-on-undead-pivot.png)
+
+I close our first pivot (BTC-on-UNDEAD) for gains of:
+
+* actual ROI: 11.69% / 355.46% APR projected
+* or: 0.00844 $BTC -> $UNDEAD -> 0.009426 $BTC
+* or: $225-gained on $1,040 pivoted
+
+Très bien! 😎🎉
