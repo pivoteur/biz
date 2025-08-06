@@ -44,3 +44,9 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $89,973 (δ: -4.91% ) , α: -89.60% 
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# State of the Pivot Protocol, 2025-08-06 
+
+![State of the Pivot Protocol, 2025-08-06](imgs/03-state.png) 
+
+News: Rising $UNDEAD price has canceled NAV losses from yesterday and added $4k to protocol NAV. 
