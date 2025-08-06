@@ -1,5 +1,6 @@
 # August, 2025
 
+* [2025-08-06](06): The Ones Who Know: $UNDEAD-fanclub
 * [2025-08-05](05)
 * [2025-08-04](04)
 * [2025-08-03](03): 4x $UNDEAD price-increase had me like ...
