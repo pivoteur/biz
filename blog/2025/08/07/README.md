@@ -1,0 +1,19 @@
+# State of the Pivot Protocol, 2025-08-07
+
+Good morning, Pivoteurs.
+
+hi.
+
+hihi.
+
+hihihihihihi.
+
+Yes, this is an official report.
+
+The Pivot Protocol value went up today by $365k, passing half-a-MILLION USD.
+
+![Change in protocol NAV 15x'd protocol NAV for months](imgs/01a-delta.png)
+
+This is funny to me because the Pivot Protocol VALUE was $25k for MONTHS.
+
+![Portfolio NAV was ~$25k for months](imgs/01b-nav.png)
