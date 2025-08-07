@@ -50,6 +50,9 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 ![State of the Pivot Protocol, 2025-08-06](imgs/03-state.png) 
 
 News: Rising $UNDEAD price has canceled NAV losses from yesterday and added $4k to protocol NAV. 
+
+![UNDEAD price-surge](imgs/04-surge.png)
+
 I THINK ... somebody noticed $UNDEAD. 😎 #UNDEADSurge 
 
 # DEX UNDEAD/USDC-swap Race 
