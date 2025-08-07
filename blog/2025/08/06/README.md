@@ -182,3 +182,28 @@ The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+UNDEAD pivot pool composition](imgs/13a-comp.png) 
 ![The BTC+UNDEAD pivot pool γ-apportionment](imgs/13b-apport.png) 
+## ETH+UNDEAD 
+
+
+
+No close pivots. 
+
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/14a-ratio.png) 
+![Positive δ](imgs/14b-delta.png) 
+
+The negative δ calls to open an UNDEAD-on-ETH pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/14c-open-undead-pivot.png) 
+
+I also open an ETH-on-UNDEAD hedge. 
+
+![Open ETH hedge](imgs/14d-open-eth-hedge.png) 
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/15a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/15b-apport.png) 
