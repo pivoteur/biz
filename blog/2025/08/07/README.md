@@ -106,15 +106,13 @@ No close pivots.
 ![UNDEAD Ratio](imgs/05a-ratio.png) 
 ![Positive δ](imgs/05b-delta.png) 
 
-The positive δ calls to open an BTC-on-ETH pivot, which I do. 
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
 
-![Open BTC pivot](imgs/05c-open-btc-pivot.png) 
+![Open ETH pivot](imgs/05c-open-eth-pivot.png) 
 
-I also open an ETH-on-BTC hedge. 
+I also open an BTC-on-ETH hedge. 
 
-![Open ETH hedge](imgs/05d-open-eth-hedge.png) 
-
-
+![Open BTC hedge](imgs/05d-open-btc-hedge.png) 
 
 The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
 
