@@ -78,18 +78,18 @@ I swap 64000 $UNDEAD for:
 
 1. 351.66 $USDC on @PharaohExchange 
 
-![UNDEAD/USDC swap on Pharaoh](imgs/05a-pharaoh.png) 
+![UNDEAD/USDC swap on Pharaoh](imgs/04a-pharaoh.png) 
 
 2. 1011.37 $USDC on @BlackholeDex 💥 
 
-![UNDEAD/USDC swap on Blackhole](imgs/05b-blackhole.png) 
+![UNDEAD/USDC swap on Blackhole](imgs/04b-blackhole.png) 
 
 3. 1011.34 $USDC on @KyberNetwork 
 
-![UNDEAD/USDC swap on Kyber](imgs/05c-kyber.png) 
+![UNDEAD/USDC swap on Kyber](imgs/04c-kyber.png) 
 
 4. 1011.34 $USDC on @LFJ_gg 
 
-![UNDEAD/USDC swap on LFJ](imgs/05d-lfj.png) 
+![UNDEAD/USDC swap on LFJ](imgs/04d-lfj.png) 
 
 Winner: @BlackholeDex 💥 New title-winner! 
