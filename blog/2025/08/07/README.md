@@ -17,6 +17,24 @@ The Pivot Protocol value went up today by $365k, passing half-a-MILLION USD.
 This is funny to me because the Pivot Protocol VALUE was $25k for MONTHS.
 
 ![Portfolio NAV was ~$25k for months](imgs/01b-nav.png)
+
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-08-07 
+
+Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. Reminder to go to https://blackhole.xyz/vote and vote for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/02a-vote.png) 
+![Vote for $UNDEAD LPs](imgs/02b-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) HOWTO vote instructions: https://x.com/pivocateur/status/1945637734682341791 
+
+#IVotedForUNDEAD 
+
 # 2025-08-07 Status of @UndeadBlocks / $UNDEAD 
 
 ![$UNDEAD rank](imgs/03a-rank.png) 
