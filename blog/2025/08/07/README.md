@@ -93,3 +93,30 @@ I swap 64000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/04d-lfj.png) 
 
 Winner: @BlackholeDex 💥 New title-winner! 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+No close pivots. 
+
+### Open BTC+ETH pivots 
+
+![UNDEAD Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The positive δ calls to open an BTC-on-ETH pivot, which I do. 
+
+![Open BTC pivot](imgs/05c-open-btc-pivot.png) 
+
+I also open an ETH-on-BTC hedge. 
+
+![Open ETH hedge](imgs/05d-open-eth-hedge.png) 
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/06a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/06b-apport.png) 
