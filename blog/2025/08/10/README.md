@@ -17,3 +17,26 @@
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 4 DEX, 2025-08-10 
+
+I swap 64000 $UNDEAD for: 
+
+1. 809.19 $USDC on @PharaohExchange 💥 
+
+![UNDEAD/USDC swap on Pharaoh](imgs/05a-pharaoh.png) 
+
+2. 808.40 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/05b-blackhole.png) 
+
+3. 808.63 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/05c-kyber.png) 
+
+4. 808.76 $USDC on @LFJ_gg 
+
+![UNDEAD/USDC swap on LFJ](imgs/05d-lfj.png) 
+
+Winner: @PharaohExchange 💥 New title-winner! 
