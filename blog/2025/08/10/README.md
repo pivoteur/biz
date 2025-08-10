@@ -69,3 +69,20 @@ I harvest the yields from the LPs on @BlackholeDex and @Uniswap, swap the yields
 
 We're about half-way there with the UNDEAD/USDC LP at $9k liquidity and the UNDEAD/AVAX LP at $19k liquidity. 
 
+# PIVOTS
+
+## BTC+ETH 
+
+### 💥💥💥 FIRST CLOSE HEDGE💥💥💥
+
+![Close BTC-on-ETH hedge](imgs/04-close-btc-on-eth-hedge.png)
+
+I close 1 hedge for gains of:
+
+* actual ROI: 12.66% / 1154.87% APR projected
+* or: 0.0045 $BTC -> $ETH -> 0.0051 $BTC 💥
+* or: $67-gain on a $510 hedge
+
+I distribute/reinvest 80% of the $BTC gain, the rest stays in the pool.
+
+
