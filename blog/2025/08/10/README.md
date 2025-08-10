@@ -86,3 +86,30 @@ I close 1 hedge for gains of:
 I distribute/reinvest 80% of the $BTC gain, the rest stays in the pool.
 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+I close 1 pivot for gains of: 
+
+### Open BTC+ETH pivots 
+
+![UNDEAD Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/05c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/05d-open-btc-hedge.png) 
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/06a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/06b-apport.png) 
