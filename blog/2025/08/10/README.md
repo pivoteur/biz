@@ -57,3 +57,15 @@ I swap 64000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
 
 Winner: @PharaohExchange 💥 New title-winner! 
+
+# Liquidity Pools
+
+I harvest the yields from the LPs on @BlackholeDex and @Uniswap, swap the yields to $USDC, then provide liquidity to the @Uniswap LP UNDEAD/USDC.
+
+![Harvest UNDEAD LP yields](imgs/03a-claim.png)
+![Swap BLACK to $USDC](imgs/03b-swap.png)
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/03c-provide.png)
+![Uniswap UNDEAD Liquidity Pools](imgs/03d-lps.png)
+
+We're about half-way there with the UNDEAD/USDC LP at $9k liquidity and the UNDEAD/AVAX LP at $19k liquidity. 
+
