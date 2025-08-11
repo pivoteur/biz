@@ -42,3 +42,13 @@ Find assets that work for you and stick to the Plan.
 * 24-hr volume: $93,277 (δ: -1.42% ) , α: -20.69% 
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+### Commentary
+
+Commentary
+
+So: $UNDEAD.
+
+Down 50%? Or up 285%?
+
+Both are correct. It's a matter of perspective. What is the company doing? What is the [token's value](https://logicalgraphs.blogspot.com/2022/03/value-dialog.html)? Does it fit in your portfolio, or not? These are the questions to ask. 
