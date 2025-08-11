@@ -17,3 +17,12 @@
 
 When we get LPs funded on multiple blockchains, what will $UNDEAD look like? 
 
+## Comment
+
+OH, NOES! $UNDEAD is down 50%! IS IT OVER? AM I FIRED?
+
+Down 50% from what? If you can only have a token be up-only, then this may be too much for your constitution, even $BTC may be too much. "Down 50%" is not the whole story.
+
+Find assets that work for you and stick to the Plan.
+
+
