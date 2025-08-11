@@ -26,3 +26,19 @@ Down 50% from what? If you can only have a token be up-only, then this may be to
 Find assets that work for you and stick to the Plan.
 
 
+## $UNDEAD performance analysis, 2025-08-11 
+
+* "δ" indicates change since 2025-07-17 
+* "α" is annualized since 2025-07-17 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 6872 (δ: 18.96% ) , α: 276.85% 
+* quote: $0.00852 (δ: 285.48% ) , α: 4168.03% 
+* market cap: $127,839 (δ: 285.21% ) , α: 4164.07% 
+* 24-hr volume: $93,277 (δ: -1.42% ) , α: -20.69% 
+
+[2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
