@@ -52,3 +52,26 @@ So: $UNDEAD.
 Down 50%? Or up 285%?
 
 Both are correct. It's a matter of perspective. What is the company doing? What is the [token's value](https://logicalgraphs.blogspot.com/2022/03/value-dialog.html)? Does it fit in your portfolio, or not? These are the questions to ask. 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 4 DEX, 2025-08-11 
+
+I swap 64000 $UNDEAD for: 
+
+1. 543.81 $USDC on @PharaohExchange 
+
+![UNDEAD/USDC swap on Pharaoh](imgs/02a-pharaoh.png) 
+
+2. 543.92 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/02b-blackhole.png) 
+
+3. 544.10 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/02c-kyber.png) 
+
+4. 544.18 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/02d-lfj.png) 
+
+Winner: @LFJ_gg 💥 Renewed title-holder! 
