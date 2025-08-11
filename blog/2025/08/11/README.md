@@ -94,6 +94,33 @@ The Uniswap UNDEAD LPs are as shown.
 # State of the Pivot Protocol, 2025-08-11 
 
 ![State of the Pivot Protocol, 2025-08-11](imgs/04a-state.png) 
-![Pivot protocol NAV chart](imgs/04b-chart.png) chart](imgs/04b-chart.png) 
+![Pivot protocol NAV chart](imgs/04b-chart.png)
 
-News: Down $125K? Oof! But were sitting at 10x - 20x up from where we were for months. Ill take it. 
+News: Down $125K? Oof! But were sitting at 10x - 20x up from where we were for months. I'll take it. 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+No close pivots. 
+
+### Open BTC+ETH pivots 
+
+![UNDEAD Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/05c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/05d-open-btc-hedge.png) 
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/06a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/06b-apport.png) 
