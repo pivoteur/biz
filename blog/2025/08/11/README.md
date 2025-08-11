@@ -91,3 +91,9 @@ Winner: @LFJ_gg 💥 Renewed title-holder!
 ![Uniswap UNDEAD LPs](imgs/03d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
+# State of the Pivot Protocol, 2025-08-11 
+
+![State of the Pivot Protocol, 2025-08-11](imgs/04a-state.png) 
+![Pivot protocol NAV chart](imgs/04b-chart.png) chart](imgs/04b-chart.png) 
+
+News: Down $125K? Oof! But were sitting at 10x - 20x up from where we were for months. Ill take it. 
