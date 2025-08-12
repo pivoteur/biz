@@ -174,3 +174,19 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+USDC pivot pool composition](imgs/10a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/10b-apport.png) 
+
+## BTC+UNDEAD
+
+![Close UNDEAD-on-BTC pivot](imgs/11a-close-undead-pivot.png)
+
+I close 1 UNDEAD-on-BTC pivot for gains of:
+
+* actual ROI: 119.27% / 7255.71% APR projected
+* 57.5k $UNDEAD -> $BTC -> 126k $UNDEAD
+* $557.94-gains on a $980 pivot
+
+![Swap to stable](imgs/11b-swap-to-stable.png)
+![Distribute gains](imgs/11c-dist-gains.png)
+
+I distribute 80% of the gains as a stable. 
+
