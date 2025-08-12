@@ -75,3 +75,9 @@ Winner: @LFJ_gg (2-day streak)
 ![Uniswap UNDEAD LPs](imgs/03d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
+# State of the Pivot Protocol, 2025-08-12 
+
+![State of the Pivot Protocol, 2025-08-12](imgs/04a-state.png) 
+![Pivot protocol NAV chart](imgs/04b-chart.png) 
+
+News: Down another $12k? The thing is, earlier this morning, I was down $24k, but a price-increase of 0.0002 USD on $UNDEAD made back $12k, just like that. Also, we are still 10x, so I am not down $12k overall, I am up $300k+. #perspective 
