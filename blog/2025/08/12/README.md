@@ -81,3 +81,40 @@ The Uniswap UNDEAD LPs are as shown.
 ![Pivot protocol NAV chart](imgs/04b-chart.png) 
 
 News: Down another $12k? The thing is, earlier this morning, I was down $24k, but a price-increase of 0.0002 USD on $UNDEAD made back $12k, just like that. Also, we are still 10x, so I am not down $12k overall, I am up $300k+. #perspective 
+
+# PIVOTS
+
+## BTC+ETH
+
+![Close BTC-on-ETH hedge](imgs/05a-close-btc-on-eth-hedge.png)
+
+I close 1 BTC-on-ETH hedge for gains of:
+
+* actual ROI: 13.50% / 985.32% APR projected
+* or: 0.0042 $BTC -> $ETH -> 0.0048 $BTC
+* or: $69-gain on $491 hedge
+
+![Distribute or reinvest gains to stakers](imgs/05b-dist-gains.png)
+
+I distribute to or reinvest 80% of the gains for stakers, the rest of the gains are returned to the pool.
+
+### Open BTC+ETH pivots 
+
+![UNDEAD Ratio](imgs/06a-ratio.png) 
+![Positive δ](imgs/06b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/06c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/07a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/07b-apport.png) 
+
