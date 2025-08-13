@@ -168,3 +168,28 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+USDC pivot pool composition](imgs/11a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
+## BTC+UNDEAD 
+
+
+
+No close pivots. 
+
+### Open BTC+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/12a-ratio.png) 
+![Positive δ](imgs/12b-delta.png) 
+
+The negative δ calls to open an UNDEAD-on-BTC pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/12c-open-undead-pivot.png) 
+
+I also open an BTC-on-UNDEAD hedge. 
+
+![Open BTC hedge](imgs/12d-open-btc-hedge.png) 
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/13a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/13b-apport.png) 
