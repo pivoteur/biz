@@ -246,3 +246,19 @@ I close 1 UNDEAD-on-AVAX pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+## UNDEAD+USDC 
+
+![Close UNDEAD-on-USDC pivot](imgs/20a-close-undead-on-usdc-pivot.png) 
+
+I close 1 UNDEAD-on-USDC pivot for gains of: 
+
+
+* actual ROI: 103.49% / 6295.55% APR projected 
+* or: 51000 $UNDEAD -> $USDC -> 103779 $UNDEAD 
+* or: $495.01 gain on a pivot of $966.70 
+
+![Swap gains to stable](imgs/20b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/20c-dist-gains.png) 
+
+I distribute 80% of the gains to stakers. 
+
