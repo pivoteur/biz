@@ -211,3 +211,22 @@ I must be a magician because what is this wizardry?
 
 I distribute 80% gains as stable liquidity.
 
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/15a-ratio.png) 
+![Positive δ](imgs/15b-delta.png) 
+
+The negative δ calls to open an UNDEAD-on-ETH pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/15c-open-undead-pivot.png) 
+
+I also open an ETH-on-UNDEAD hedge. 
+
+![Open ETH hedge](imgs/15d-open-eth-hedge.png) 
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/16a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/16b-apport.png) 
