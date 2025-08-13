@@ -303,3 +303,17 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 
 ![The UNDEAD+USDC pivot pool composition](imgs/22a-comp.png) 
 ![The UNDEAD+USDC pivot pool γ-apportionment](imgs/22b-apport.png) 
+# CONCLUSION, 2025-08-12 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/23a-dash.png) 
+![Pivot Protocol TVL](imgs/23b-tvl.png) 
+![Pivot Protocol pivot pools](imgs/23c-pools.png) 
+![Pivot Distributions](imgs/23d-dists.png) 
+
+* gains distributed to stakers or reinvested, total: $12,926.79 
+* protocol NAV: $378,114.66 
+* protocol 24-hour volume: $42,147.84 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
