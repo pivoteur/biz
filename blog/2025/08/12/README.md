@@ -282,3 +282,24 @@ I close 1 UNDEAD-on-USDC pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/21a-ratio.png) 
+![Positive δ](imgs/21b-delta.png) 
+
+The positive δ calls to open an UNDEAD-on-USDC pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/21c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD hedge. 
+
+![Open USDC hedge](imgs/21d-open-usdc-hedge.png) 
+
+* We are in the red for the $USDC-asset, so I must watch that for future pivots. 
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/22a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/22b-apport.png) 
