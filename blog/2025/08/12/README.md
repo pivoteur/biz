@@ -246,6 +246,26 @@ I close 1 UNDEAD-on-AVAX pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+### Open AVAX+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/18a-ratio.png) 
+![Positive δ](imgs/18b-delta.png) 
+
+The negative δ calls to open an UNDEAD-on-AVAX pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/18c-open-undead-pivot.png) 
+
+I also open an AVAX-on-UNDEAD hedge. 
+
+![Open AVAX hedge](imgs/18d-open-avax-hedge.png) 
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/19a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/19b-apport.png) 
+
 ## UNDEAD+USDC 
 
 ![Close UNDEAD-on-USDC pivot](imgs/20a-close-undead-on-usdc-pivot.png) 
