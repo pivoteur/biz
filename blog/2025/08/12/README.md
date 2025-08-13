@@ -193,3 +193,21 @@ The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+UNDEAD pivot pool composition](imgs/13a-comp.png) 
 ![The BTC+UNDEAD pivot pool γ-apportionment](imgs/13b-apport.png) 
+
+## ETH+UNDEAD
+
+![Close UNDEAD-on-ETH pivot](imgs/14a-close-undead-on-eth-pivot.png)
+
+I close 1 UNDEAD-on-ETH pivot for gains of:
+
+* actual ROI: 170.12% / 6899.16% APR projected
+* or: 52.5k $UNDEAD -> $ETH -> 141.8k $UNDEAD HOLY!! 🎉🎉🎉
+* or: $810-gained on $1,024 pivoted
+
+I must be a magician because what is this wizardry?
+
+![Swap 80% of gains to stable](imgs/14b-swap-gains-to-stable.png)
+![Distribute gains](imgs/14c-dist-gains.png)
+
+I distribute 80% gains as stable liquidity.
+
