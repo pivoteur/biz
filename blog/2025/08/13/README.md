@@ -63,3 +63,19 @@ I swap 50000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/03d-lfj.png) 
 
 Winner: @LFJ_gg (3-day streak) 
+# Liquidity Pools 
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap 
+
+![Claim LP yields](imgs/04a-claim.png) 
+
+* swap the yields to $USDC, 
+
+![Swap BLACK to USDC](imgs/04b-swap.png) 
+
+* then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
+
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/04c-provide.png) 
+![Uniswap UNDEAD LPs](imgs/04d-lps.png) 
+
+The Uniswap UNDEAD LPs are as shown. 
