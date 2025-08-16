@@ -319,19 +319,22 @@ The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The AVAX+UNDEAD pivot pool composition](imgs/20a-comp.png) 
 ![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/20b-apport.png) 
+
 ## UNDEAD+USDC 
 
-![Close USDC-on-UNDEAD pivot](imgs/21a-close-usdc-on-undead-pivot.png) 
+![Close UNDEAD-on-USDC pivot](imgs/21a-close-undead-on-usdc-pivot.png) 
 
-I close 1 USDC-on-UNDEAD pivot for gains of: 
+I close 1 UNDEAD-on-USDC pivot for gains of: 
 
 
 * actual ROI: 120.10% / 14611.98% APR projected 
-* or: 110700 $USDC -> $UNDEAD -> 243649 $USDC 
+* or: 110700 $UNDEAD -> $USDC -> 243649 $UNDEAD 
 * or: $546.95 gain on a pivot of $1,001.17 
 
 ![Swap gains to stable](imgs/21b-swap-gains-to-stable.png) 
 ![Distribute gains to stakers](imgs/21c-dist-gains.png) 
 
 I distribute 80% of the gains to stakers. 
+
+
 
