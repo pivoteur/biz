@@ -74,3 +74,59 @@ I swap 110000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/04d-lfj.png) 
 
 Winner: @LFJ_gg (5-day streak) 
+# Liquidity Pools 
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap 
+
+![Claim LP yields](imgs/05a-claim.png) 
+
+* swap the yields to $USDC, 
+
+![Swap BLACK to USDC](imgs/05b-swap.png) 
+
+* then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
+
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/05c-provide.png) 
+![Uniswap UNDEAD LPs](imgs/05d-lps.png) 
+
+The Uniswap UNDEAD LPs are as shown. 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+ETH pivots 
+
+![UNDEAD Ratio](imgs/06a-ratio.png) 
+![Positive δ](imgs/06b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/06c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/07a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/07b-apport.png) 
