@@ -336,6 +336,28 @@ I close 1 UNDEAD-on-USDC pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD Ratio](imgs/22a-ratio.png) 
+![Middling δ](imgs/22b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/22c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD pivot. 
+
+![Open USDC pivot](imgs/22d-open-usdc-pivot.png) 
+
+
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/23a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/23b-apport.png) 
+
 
 
 # CONCLUSION, 2025-08-15 
