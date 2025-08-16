@@ -168,3 +168,59 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+AVAX pivot pool composition](imgs/09a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/09b-apport.png) 
+
+## BTC+USDC 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+USDC pivots 
+
+![UNDEAD Ratio](imgs/10a-ratio.png) 
+![Middling δ](imgs/10b-delta.png) 
+
+The meh δ makes no call, but I open an USDC-on-BTC pivot, anyway. 
+
+![Open USDC pivot](imgs/10c-open-usdc-pivot.png) 
+
+I also open an BTC-on-USDC pivot. 
+
+![Open BTC pivot](imgs/10d-open-btc-pivot.png) 
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/11a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
+
+## BTC+UNDEAD 
+
+![Close UNDEAD-on-BTC pivot](imgs/12a-close-undead-on-btc-pivot.png) 
+
+I close 1 UNDEAD-on-BTC pivot for gains of: 
+
+
+* actual ROI: 115.71% / 10558.42% APR projected 
+* or: 113000 $UNDEAD -> $BTC -> 243746 $UNDEAD 
+* or: $541.99 gain on a pivot of $990.21 
+
+![Swap gains to stable](imgs/12b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/12c-dist-gains.png) 
+
+I distribute 80% of the gains to stakers. 
+
