@@ -338,3 +338,18 @@ I distribute 80% of the gains to stakers.
 
 
 
+# CONCLUSION, 2025-08-15 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/24a-dash.png) 
+![Pivot Protocol TVL](imgs/24b-tvl.png) 
+![Pivot Protocol pivot pools](imgs/24c-pools.png) 
+![Pivot Distributions](imgs/24d-dists.png) 
+
+* gains distributed to stakers or reinvested, total: $14,578.00 
+* protocol NAV: $237,387.78 
+* protocol 24-hour volume: $130,636.68 
+* transactions executed: 58 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
