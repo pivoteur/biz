@@ -224,3 +224,24 @@ I close 1 UNDEAD-on-BTC pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+### Open BTC+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/13a-ratio.png) 
+![Middling δ](imgs/13b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-BTC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/13c-open-undead-pivot.png) 
+
+I also open an BTC-on-UNDEAD pivot. 
+
+![Open BTC pivot](imgs/13d-open-btc-pivot.png) 
+
+
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/14a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/14b-apport.png) 
