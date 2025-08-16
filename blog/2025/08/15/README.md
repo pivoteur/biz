@@ -261,3 +261,24 @@ I close 1 UNDEAD-on-ETH pivot for gains of:
 
 I distribute 80% of the gains to stakers. 
 
+### Open ETH+UNDEAD pivots 
+
+![UNDEAD Ratio](imgs/16a-ratio.png) 
+![Middling δ](imgs/16b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-ETH pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/16c-open-undead-pivot.png) 
+
+I also open an ETH-on-UNDEAD pivot. 
+
+![Open ETH pivot](imgs/16d-open-eth-pivot.png) 
+
+
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/17a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/17b-apport.png) 
