@@ -44,3 +44,47 @@ To prepare for opening pivots with little liquidity left in some pivot pools, I 
 ![Transfer UNDEAD from the treasury to a pivot pool](imgs/03b-xfer.png)
 
 I created an [youtube HOWTO](https://x.com/pivocateur/status/1957223276775915766), demonstrating bridging $UNDEAD.
+
+## BTC+ETH 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/04a-ratio.png) 
+![Negative δ](imgs/04b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/04c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/04d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/05a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/05b-apport.png) 
+
+* actual ROI: 6.55% / 132.75% APR projected
+
+... not bad, ... not bad at all for the BTC+ETH pool.
+
