@@ -33,3 +33,14 @@ When we get LPs funded on multiple blockchains, what will $UNDEAD look like?
 * 24-hr volume: $21,127 (δ: -77.67% ) , α: -914.52% 
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+
+# PIVOTS
+
+## Bridging $UNDEAD HOWTO
+
+To prepare for opening pivots with little liquidity left in some pivot pools, I bridge $UNDEAD over from my @ethereum @Ledger wallet to my treasury on @avax using the @veraswapio bridge.
+
+![Bridge UNDEAD from Ethereum using the Vera Bridge](imgs/03a-bridge.png)
+![Transfer UNDEAD from the treasury to a pivot pool](imgs/03b-xfer.png)
+
+I created an [youtube HOWTO](https://x.com/pivocateur/status/1957223276775915766), demonstrating bridging $UNDEAD.
