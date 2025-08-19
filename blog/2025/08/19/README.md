@@ -71,3 +71,12 @@ I swap 118000 $UNDEAD for:
 ![UNDEAD/USDC swap on LFJ](imgs/03d-lfj.png) 
 
 Winner: @LFJ_gg (9-day streak) 
+
+# Liquidity Pools.
+
+First up, the $UNDEAD LPs on @PharaohExchange have earned neither yields nor fees since incept.
+
+![Remove $UNDEAD LP liquidity from Pharaoh DEX](imgs/03a-remove.png)
+![Remove $UNDEAD LP liquidity from Pharaoh DEX](imgs/03b-remove.png)
+
+I remove liquidity from these pools on this DEX. 
