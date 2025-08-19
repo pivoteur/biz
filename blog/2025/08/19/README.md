@@ -80,3 +80,20 @@ First up, the $UNDEAD LPs on @PharaohExchange have earned neither yields nor fee
 ![Remove $UNDEAD LP liquidity from Pharaoh DEX](imgs/04b-remove.png)
 
 I remove liquidity from these pools on this DEX. 
+
+## Liquidity pools maintenance
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap 
+
+![Claim LP yields](imgs/05a-claim.png) 
+
+* swap the yields to $USDC, 
+
+![Swap BLACK to USDC](imgs/05b-swap.png) 
+
+* then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
+
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/05c-provide.png) 
+![Uniswap UNDEAD LPs](imgs/05d-lps.png) 
+
+The Uniswap UNDEAD LPs are as shown. 
