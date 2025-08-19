@@ -97,3 +97,43 @@ I remove liquidity from these pools on this DEX.
 ![Uniswap UNDEAD LPs](imgs/05d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/06a-ratio.png) 
+![Negative δ](imgs/06b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/06c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/07a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/07b-apport.png) 
