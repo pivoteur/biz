@@ -88,3 +88,46 @@ Winner: @LFJ_gg (10-day streak)
 ![Uniswap UNDEAD LPs](imgs/05d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
+
+# PIVOTS 
+
+Let's start with the $UNDEAD pivot pools today.
+
+## BTC+UNDEAD 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+UNDEAD pivots 
+
+![BTC+UNDEAD Ratio](imgs/06a-ratio.png) 
+![Middling δ](imgs/06b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-BTC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/06c-open-undead-pivot.png) 
+
+I also open an BTC-on-UNDEAD pivot. 
+
+![Open BTC pivot](imgs/06d-open-btc-pivot.png) 
+
+
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/07a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/07b-apport.png) 
