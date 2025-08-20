@@ -37,3 +37,19 @@ News:
 
 When we get LPs funded on multiple blockchains, the game released, and the Pivot protocol launched, what will $UNDEAD look like? 
 
+## $UNDEAD performance analysis, 2025-08-20 
+
+* "δ" indicates change since 2025-07-17 
+* "α" is annualized since 2025-07-17 
+
+![$UNDEAD rank](/blog/snapshot/imgs/01a-rank.png) 
+![$UNDEAD quote](/blog/snapshot/imgs/01b-quote.png) 
+![$UNDEAD market captalization](/blog/snapshot/imgs/01c-cap.png) 
+![$UNDEAD 24-hour volume](/blog/snapshot/imgs/01d-vol.png) 
+
+* rank: 8035 (δ: 5.25% ) , α: 56.33% 
+* quote: $0.00408 (δ: 84.40% ) , α: 906.02% 
+* market cap: $61,125 (δ: 84.19% ) , α: 903.76% 
+* 24-hr volume: $22,858 (δ: -75.84% ) , α: -814.19% 
+
+[2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
