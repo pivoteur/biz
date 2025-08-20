@@ -16,5 +16,5 @@ News:
 ![Swap yields to $BTC](imgs/02a-swap-yields-to-btc.png)
 ![Establish Vault and fund with $BTC](imgs/02b-xfer-btc-to-vault.png)
 
-* We have established a vault for the protocol with our first asset, 0.00005 $BTC, generated from yields on assets held.
+* We have established a vault for the protocol with our first asset, 0.0005 $BTC, generated from yields on assets held.
 
