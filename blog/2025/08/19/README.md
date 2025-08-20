@@ -175,3 +175,19 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+AVAX pivot pool composition](imgs/09a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/09b-apport.png) 
+## BTC+UNDEAD 
+
+![Close BTC-on-UNDEAD pivot](imgs/12a-close-btc-on-undead-pivot.png) 
+
+I close 1 BTC-on-UNDEAD pivot for gains of: 
+
+
+* actual ROI: 10.86% / 991.23% APR projected 
+* or: 0.004261 $BTC -> $UNDEAD -> 0.004724 $BTC 
+* or: $53.03 gain on a pivot of $521.08 
+
+![Swap gains to stable](imgs/12b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/12c-dist-gains.png) 
+
+I distribute 80% of the gains to stakers. 
+
