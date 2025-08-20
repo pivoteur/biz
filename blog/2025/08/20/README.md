@@ -53,3 +53,22 @@ When we get LPs funded on multiple blockchains, the game released, and the Pivot
 * 24-hr volume: $22,858 (δ: -75.84% ) , α: -814.19% 
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-08-20 
+
+I swap 127000 $UNDEAD for: 
+
+1. 500.64 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/04a-blackhole.png) 
+
+2. 500.29 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/04b-kyber.png) 
+
+3. 505.02 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/04c-lfj.png) 
+
+Winner: @LFJ_gg (10-day streak) 
