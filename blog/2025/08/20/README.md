@@ -131,3 +131,41 @@ The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+UNDEAD pivot pool composition](imgs/07a-comp.png) 
 ![The BTC+UNDEAD pivot pool γ-apportionment](imgs/07b-apport.png) 
+## AVAX+UNDEAD 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open AVAX+UNDEAD pivots 
+
+![AVAX+UNDEAD Ratio](imgs/10a-ratio.png) 
+![Middling δ](imgs/10b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-AVAX pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/10c-open-undead-pivot.png) 
+
+I also open an AVAX-on-UNDEAD pivot. 
+
+![Open AVAX pivot](imgs/10d-open-avax-pivot.png) 
+
+
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/11a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/11b-apport.png) 
