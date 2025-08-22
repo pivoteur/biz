@@ -3,7 +3,7 @@
 ![UNDEAD price chart](imgs/01a-undead.png) 
 ![State of the Pivot Protocol, 2025-08-22](imgs/01b-dash.png) 
 ![Pivot protocol NAV chart](imgs/01c-nav.png) 
-![Pivot Protocol Treasury](imgs/0dd-treasury.png) 
+![Pivot Protocol Treasury](imgs/01d-treasury.png) 
 
 Good day, pivoteurs! 
 
