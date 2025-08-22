@@ -1,5 +1,6 @@
 # August, 2025
 
+* [2025-08-22](22)
 * [2025-08-21](21)
 * [2025-08-20](20)
 * [2025-08-19](19): 6-month report on the State of the Pivot Protocol
