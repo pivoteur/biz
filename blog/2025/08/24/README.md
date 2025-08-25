@@ -77,3 +77,13 @@ The Uniswap UNDEAD LPs are as shown.
 * I send this $BTC.b to the vault 
 
 ![Send BTC to vault](imgs/04b-xfer.png) 
+# State of the Pivot Protocol, 2025-08-24 
+
+![UNDEAD price chart](imgs/05a-undead.png) 
+![State of the Pivot Protocol, 2025-08-24](imgs/05b-assets.png) 
+![Pivot protocol NAV chart](imgs/05c-nav.png) 
+
+
+Good day, pivoteurs! 
+
+News: An uptick on $BTC and a slight uptick for $UNDEAD not only covers the losses from the past two days, but makes those losses gains. The Pivot protocol has a balanced portfolio, aiming for gains, regardless of market-conditions. 
