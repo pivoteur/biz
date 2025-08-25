@@ -95,7 +95,7 @@ The Pivot protocol has a balanced portfolio, aiming for gains, regardless of mar
 
 ## BTC+ETH 
 
-![Close BTC-on-ETH hedges](imgs/12a-close-btc-on-eth-hedge.png) 
+![Close BTC-on-ETH hedges](imgs/06a-close-btc-on-eth-hedge.png) 
 
 I close 6 BTC-on-ETH hedges for gains of: 
 
@@ -104,8 +104,8 @@ I close 6 BTC-on-ETH hedges for gains of:
 * or: 0.034187 $BTC -> $ETH -> 0.039223 $BTC 
 * or: $577.60 gain on hedges of $4,052.65 
 
-![Swap gains to stable](imgs/12b-swap-gains-to-stable.png) 
-![Distribute gains to stakers](imgs/12c-dist-gains.png) 
+![Swap gains to stable](imgs/06b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/06c-dist-gains.png) 
 
 I reinvest the gains or distribute 80% to stakers. 
 
