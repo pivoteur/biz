@@ -68,3 +68,12 @@ Winner: @LFJ_gg (14-day streak)
 ![Uniswap UNDEAD LPs](imgs/03d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/04a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/04b-xfer.png) 
