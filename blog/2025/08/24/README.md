@@ -109,6 +109,28 @@ I close 6 BTC-on-ETH hedges for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/07a-ratio.png) 
+![Negative δ](imgs/07b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/07c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/07d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/08a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/08b-apport.png) 
+
 # CONCLUSION, 2025-08-24 
 
 This concludes pivot-activity for today. 
