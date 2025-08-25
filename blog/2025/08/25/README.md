@@ -80,3 +80,14 @@ The Uniswap UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/04b-xfer.png) 
 
+# State of the Pivot Protocol, 2025-08-25 
+
+![UNDEAD price chart](imgs/05a-undead.png) 
+![State of the Pivot Protocol, 2025-08-25](imgs/05b-assets.png) 
+![Pivot protocol NAV chart](imgs/05c-nav.png) 
+
+
+Good day, pivoteurs! 
+
+News: $BTC down; $UNDEAD down; ... it looks like there will be some pivot-opportunities today! 😎 
+
