@@ -86,4 +86,26 @@ The Uniswap UNDEAD LPs are as shown.
 
 Good day, pivoteurs! 
 
-News: An uptick on $BTC and a slight uptick for $UNDEAD not only covers the losses from the past two days, but makes those losses gains. The Pivot protocol has a balanced portfolio, aiming for gains, regardless of market-conditions. 
+News: An uptick on $BTC and a slight uptick for $UNDEAD not only covers the losses from the past two days, but makes those losses gains. 
+
+The Pivot protocol has a balanced portfolio, aiming for gains, regardless of market-conditions. 
+
+
+# PIVOTS 
+
+## BTC+ETH 
+
+![Close BTC-on-ETH hedges](imgs/12a-close-btc-on-eth-hedge.png) 
+
+I close 6 BTC-on-ETH hedges for gains of: 
+
+
+* actual ROI: 14.73% / 537.64% APR projected 
+* or: 0.034187 $BTC -> $ETH -> 0.039223 $BTC 
+* or: $577.60 gain on hedges of $4,052.65 
+
+![Swap gains to stable](imgs/12b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/12c-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
