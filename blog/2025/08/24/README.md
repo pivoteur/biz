@@ -109,3 +109,21 @@ I close 6 BTC-on-ETH hedges for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+# CONCLUSION, 2025-08-24 
+
+This concludes pivot-activity for today. 
+
+![Pivot Protocol dashboard](imgs/09a-dash.png) 
+![Pivot Protocol NAV](imgs/09b-nav.png) 
+![Pivot Protocol pivot pools](imgs/09c-pools.png) 
+![Pivot Distributions](imgs/09d-dists.png) 
+
+* gains distributed to stakers or reinvested, total: $15,082.51 
+* protocol NAV: $322,375.39 
+* protocol 24-hour volume: $28,517.48 
+* transactions executed: 22 
+
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
+
