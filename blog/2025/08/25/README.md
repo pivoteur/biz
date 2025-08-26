@@ -191,3 +191,24 @@ I reinvest the gains or distribute 80% to stakers.
 ### Analysis
 
 The BTC+USDC pivot pool, specifically, and the -stable pivot pools, generally, are marvelous protectors of principal invested, for, when $BTC crashes, the pivot pool makes BANK, and this pivot is exemplar of how the pivot pool protects the $BTC amount and its (USD) value.
+### Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/12a-ratio.png) 
+![Negative δ](imgs/12b-delta.png) 
+
+The negative δ calls to open an USDC-on-BTC pivot, which I do. 
+
+![Open USDC pivot](imgs/12c-open-usdc-pivot.png) 
+
+I also open an BTC-on-USDC hedge. 
+
+![Open BTC hedge](imgs/12d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/13a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/13b-apport.png) 
