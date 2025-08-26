@@ -171,6 +171,7 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+AVAX pivot pool composition](imgs/10a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/10b-apport.png) 
+
 ## BTC+USDC 
 
 ![Close BTC-on-USDC pivot](imgs/11a-close-btc-on-usdc-pivot.png) 
@@ -187,3 +188,6 @@ I close 1 BTC-on-USDC pivot for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Analysis
+
+The BTC+USDC pivot pool, specifically, and the -stable pivot pools, generally, are marvelous protectors of principal invested, for, when $BTC crashes, the pivot pool makes BANK, and this pivot is exemplar of how the pivot pool protects the $BTC amount and its (USD) value.
