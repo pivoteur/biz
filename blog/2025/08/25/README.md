@@ -250,3 +250,21 @@ The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted.
 
 ![The BTC+UNDEAD pivot pool composition](imgs/15a-comp.png) 
 ![The BTC+UNDEAD pivot pool γ-apportionment](imgs/15b-apport.png) 
+# CONCLUSION 
+
+This concludes pivot-activity for 2025-08-25 
+
+![Pivot Protocol dashboard](imgs/16a-dash.png) 
+![Pivot Protocol NAV](imgs/16b-nav.png) 
+![Pivot Protocol pivot pools](imgs/16c-pools.png) 
+![Pivot Distributions](imgs/16d-dists.png) 
+
+* gains distributed to stakers or reinvested, total: $15,237.93 
+* protocol NAV: $315,610.81 
+* protocol 24-hour volume: $167,506.98 
+* transactions executed: 39 
+
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
+
