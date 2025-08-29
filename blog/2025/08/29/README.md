@@ -82,3 +82,24 @@ The Uniswap UNDEAD LPs are as shown.
 ![Send BTC to vault](imgs/04b-xfer.png) 
 
 
+# State of the Pivot Protocol, 2025-08-29 
+
+![State of the Pivot Protocol, 2025-08-29](imgs/05b-assets.png) 
+![Pivot protocol NAV chart](imgs/05c-nav.png) 
+
+
+Good day, pivoteurs! 
+
+News: I am sad to report that the Pivot protocol is up only 12-fold. jk. Some people look at price-fluctuations as the End of the World. 
+
+![UNDEAD price chart](imgs/05a-undead.png) 
+
+Yes, this is the first time in 25 days that the $UNDEAD reserve has fallen below $100k. Am I worried? No. To me, this is another Friday, where I am up 12-fold. #perspective 
+
+* 50M $UNDEAD = $170,600.00 reserve 
+* 1 $BTC and 3M $UNDEAD = $118,856.00 invested 
+
+* Pivot Protocol = $290,039.37 NAV 
+
+This shows the protocol has generated $583.37 in value. 
+
