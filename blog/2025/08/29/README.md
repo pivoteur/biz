@@ -54,3 +54,14 @@ I swap 160000 $UNDEAD for:
 
 Winner: @LFJ_gg (3-day streak) 
 
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/04a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/04b-xfer.png) 
+
+
