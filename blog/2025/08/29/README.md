@@ -34,3 +34,23 @@ When we get LPs funded on multiple blockchains, the game released, and the Pivot
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-08-29 
+
+I swap 160000 $UNDEAD for: 
+
+1. 503.28 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/02a-blackhole.png) 
+
+2. 507.70 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/02b-kyber.png) 
+
+3. 507.83 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/02c-lfj.png) 
+
+Winner: @LFJ_gg (3-day streak) 
+
