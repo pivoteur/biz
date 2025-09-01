@@ -109,3 +109,28 @@ Good day, pivoteurs!
 
 News: While the $UNDEAD reserves settle just below $100k, the protocol NAV levels with the EMA-20 at just under $290k, finding its value independent of $UNDEAD token-price. Value-gains going forward will be investments and pivots. 
 
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/07a-nav.png) 
+![Protocol value by token](imgs/07b-by-token.png) 
+![Protocol dapp allocation](imgs/07c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $163,450 
+
+### Investments 
+
+* 1 $BTC = $108,776 
+* 3.501M $UNDEAD = $11,445 
+
+total: $283,671 
+
+
+### Pivot Protocol 
+
+* NAV = $288,559 
+* reinvestments/distributions = $15,238 
+
+This shows the protocol has generated $20,126 in value. 
+
