@@ -98,3 +98,14 @@ The Uniswap UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/05b-xfer.png) 
 
+# State of the Pivot Protocol, 2025-09-01 
+
+![UNDEAD price chart](imgs/06a-undead.png) 
+![State of the Pivot Protocol, 2025-09-01](imgs/06b-assets.png) 
+![Pivot protocol NAV chart](imgs/06c-nav.png) 
+
+
+Good day, pivoteurs! 
+
+News: While the $UNDEAD reserves settle just below $100k, the protocol NAV levels with the EMA-20 at just under $290k, finding its value independent of $UNDEAD token-price. Value-gains going forward will be investments and pivots. 
+
