@@ -75,16 +75,16 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 * I harvest the yields from the LPs on @BlackholeDex and @Uniswap 
 
-![Claim LP yields](imgs/03a-claim.png) 
+![Claim LP yields](imgs/04a-claim.png) 
 
 * swap the yields to $USDC, 
 
-![Swap BLACK to USDC](imgs/03b-swap.png) 
+![Swap BLACK to USDC](imgs/04b-swap.png) 
 
 * then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
 
-![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/03c-provide.png) 
-![Uniswap UNDEAD LPs](imgs/03d-lps.png) 
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/04c-provide.png) 
+![Uniswap UNDEAD LPs](imgs/04d-lps.png) 
 
 The Uniswap UNDEAD LPs are as shown. 
 
