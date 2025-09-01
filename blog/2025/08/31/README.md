@@ -78,4 +78,17 @@ Let's start off by bridging that liquidity to @avax from @ethereum using @verasw
 
 I cover how to bridge $UNDEAD in this [youtube video](https://www.youtube.com/watch?v=EDaooLvVB-s).
 
+![Transfer UNDEAD to pivot pool](imgs/05-xfer.png)
 
+I transfer a portion of the liquidity to a pivot pool (in this case BTC+ETH). 
+
+Then I set up a pivot and hedge using that liquidity, as well as the pool's liquidity.
+
+![BTC+ETH Ratio](imgs/06a-ratio.png) 
+![Negative δ](imgs/06b-delta.png) 
+![Open ETH pivot](imgs/06c-open-eth-pivot.png) 
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
+
+From this, I calculate the investor's stake in the pivot pool. 
+
+I will establish positions for investor τ in the UNDEAD pivot pools tomorrow. G'nite! 😴
