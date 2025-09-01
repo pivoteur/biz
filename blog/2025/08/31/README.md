@@ -64,3 +64,18 @@ Winner: @LFJ_gg (5-day streak)
 
 ![Send BTC to vault](imgs/03b-xfer.png) 
 
+
+# 💥💥💥BREAKING!💥💥💥
+
+We have a new investor providing $UNDEAD-liquidity into the Pivot Protocol, designated investor τ.
+
+Let's start off by bridging that liquidity to @avax from @ethereum using @veraswapio. 
+
+![Transfer UNDEAD from Donor wallet](imgs/04a-xfer.png)
+![Bridge UNDEAD to Avalanche from Ethereum](imgs/04b-bridge-1.png)
+![Review bridge request](imgs/04c-review.png)
+![Bridged assets](imgs/04d-bridging.png)
+
+I cover how to bridge $UNDEAD in this [youtube video](https://www.youtube.com/watch?v=EDaooLvVB-s).
+
+
