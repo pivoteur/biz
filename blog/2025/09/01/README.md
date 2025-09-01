@@ -34,3 +34,40 @@ When we get LPs funded on multiple blockchains, the game released, and the Pivot
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-09-01 
+
+I swap 177000 $UNDEAD for: 
+
+1. 501.12 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/02a-blackhole.png) 
+
+2. 507.45 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/02b-kyber.png) 
+
+3. 508.24 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/02c-lfj.png) 
+
+Winner: @LFJ_gg (6-day streak) 
+
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-09-01 
+
+Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. Reminder to go to https://blackhole.xyz/vote and vote for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/03a-vote.png) 
+![Vote for $UNDEAD LPs](imgs/03b-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) HOWTO vote instructions: https://x.com/pivocateur/status/1945637734682341791 
+
+#IVotedForUNDEAD 
+
