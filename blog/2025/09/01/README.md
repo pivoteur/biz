@@ -134,3 +134,44 @@ total: $283,671
 
 This shows the protocol has generated $20,126 in value. 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/08a-ratio.png) 
+![Negative δ](imgs/08b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/08c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/08d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/09a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/09b-apport.png) 
+
