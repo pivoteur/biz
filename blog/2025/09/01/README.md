@@ -253,3 +253,21 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 ![The BTC+USDC pivot pool composition](imgs/13a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/13b-apport.png) 
 
+# CONCLUSION 
+
+This concludes pivot-activity for 2025-09-01 
+
+![Pivot Protocol dashboard](imgs/14a-dash.png) 
+![Pivot Protocol NAV](imgs/14b-nav.png) 
+![Pivot Protocol pivot pools](imgs/14c-pools.png) 
+
+
+* gains distributed to stakers or reinvested, total: $15,238 
+* protocol NAV: $288,608 
+* protocol 24-hour volume: $118,784 
+* transactions executed: 34 
+
+No distributions today. 
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
+
