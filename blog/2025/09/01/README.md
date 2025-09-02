@@ -175,3 +175,42 @@ The BTC+ETH pivot pool composition and γ-apportionment are as charted.
 ![The BTC+ETH pivot pool composition](imgs/09a-comp.png) 
 ![The BTC+ETH pivot pool γ-apportionment](imgs/09b-apport.png) 
 
+## BTC+AVAX 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+AVAX pivots 
+
+![BTC+AVAX Ratio](imgs/10a-ratio.png) 
+![Negative δ](imgs/10b-delta.png) 
+
+The negative δ calls to open an AVAX-on-BTC pivot, which I do. 
+
+![Open AVAX pivot](imgs/10c-open-avax-pivot.png) 
+
+I also open an BTC-on-AVAX hedge. 
+
+![Open BTC hedge](imgs/10d-open-btc-hedge.png) 
+
+
+
+
+
+The BTC+AVAX pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+AVAX pivot pool composition](imgs/11a-comp.png) 
+![The BTC+AVAX pivot pool γ-apportionment](imgs/11b-apport.png) 
+
