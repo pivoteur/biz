@@ -34,3 +34,13 @@ When we get LPs funded on multiple blockchains, the game released, and the Pivot
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
 
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/04a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/04b-sned.png) 
+
