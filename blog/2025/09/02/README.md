@@ -135,3 +135,25 @@ I close 3 UNDEAD-on-BTC pivots for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Open BTC+UNDEAD pivots 
+
+![BTC+UNDEAD Ratio](imgs/08a-ratio.png) 
+![Positive δ](imgs/08b-delta.png) 
+
+The positive δ calls to open an BTC-on-UNDEAD pivot, which I do. 
+
+![Open BTC pivot](imgs/08c-open-btc-pivot.png) 
+
+I also open an UNDEAD-on-BTC hedge. 
+
+![Open UNDEAD hedge](imgs/08d-open-undead-hedge.png) 
+
+
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/09a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+
