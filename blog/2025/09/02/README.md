@@ -122,10 +122,9 @@ This shows the protocol has generated $29,172 in value.
 
 ## BTC+UNDEAD 
 
-![Close UNDEAD-on-BTC hedges](imgs/07a-close-undead-on-btc-hedge.png) 
+![Close UNDEAD-on-BTC pivots](imgs/07a-close-undead-on-btc-pivot.png) 
 
-I close 3 UNDEAD-on-BTC hedges for gains of: 
-
+I close 3 UNDEAD-on-BTC pivots for gains of: 
 
 * actual ROI: 31.49% / 884.26% APR projected 
 * or: 382000 $UNDEAD -> $BTC -> 502,295 $UNDEAD 
