@@ -69,3 +69,39 @@ Before moving onto pivoting, I transfer 1M $UNDEAD to each $BTC pivot pool. With
 ![Send 1M $UNDEAD to BTC+AVAX](imgs/05b-sned.png)
 ![Send 1M $UNDEAD to BTC+USDC](imgs/05c-sned.png)
 
+# State of the Pivot Protocol, 2025-09-03 
+
+![UNDEAD price chart](imgs/06a-undead.png) 
+![State of the Pivot Protocol, 2025-09-03](imgs/06b-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/06c-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: The pivots yesterday only slightly improved $UNDEAD token-price, but generated distributions for our stakers and improved the protocol position by $3k. Let us see what the pivots today do. 
+
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/07a-nav.png) 
+![Protocol value by token](imgs/07b-by-token.png) 
+![Protocol dapp allocation](imgs/07c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $145,250 
+
+### Investments 
+
+* 1 $BTC = $111,384 
+* 3.501M $UNDEAD = $10,170 
+
+total: $266,804 
+
+
+### Pivot Protocol 
+
+* NAV = $280,225 
+* reinvestments/distributions = $15,513 
+
+This shows the protocol has generated $28,933 in value. 
+
