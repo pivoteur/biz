@@ -61,3 +61,11 @@ The Uniswap UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/04b-sned.png) 
 
+# Housekeeping
+
+Before moving onto pivoting, I transfer 1M $UNDEAD to each $BTC pivot pool. With this liquidity, I can add a few more pivots to each $BTC pivot pool. 
+
+![Send 1M $UNDEAD to BTC+ETH](imgs/05a-sned.png)
+![Send 1M $UNDEAD to BTC+AVAX](imgs/05b-sned.png)
+![Send 1M $UNDEAD to BTC+USDC](imgs/05c-sned.png)
+
