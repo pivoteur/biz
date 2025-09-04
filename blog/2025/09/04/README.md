@@ -54,3 +54,17 @@ I swap 185000 $UNDEAD for:
 
 Winner: @LFJ_gg (9-day streak) 
 
+# Liquidity Pools
+
+![Blackhole DEX staked LP yields are meh](imgs/03a-staked-yields.png)
+![$BLACK price-quote](imgs/03b-black.png)
+
+Staking LPs on Blackhole DEX is no longer a winning proposition: we are paying more to other providers than we are earning in $BLACK yields.
+
+So, I've unstaked the LPs and will see if fees are a more efficacious use on this DEX. 
+
+![Unstake LPs](imgs/03c-unstake.png)
+![LPs on Blackhole DEX](imgs/03d-unstaked.png)
+
+
+This is an experiment.
