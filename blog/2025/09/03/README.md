@@ -162,3 +162,25 @@ I close 2 UNDEAD-on-ETH pivots for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Open ETH+UNDEAD pivots 
+
+![ETH+UNDEAD Ratio](imgs/11a-ratio.png) 
+![Positive δ](imgs/11b-delta.png) 
+
+The positive δ calls to open an ETH-on-UNDEAD pivot, which I do. 
+
+![Open ETH pivot](imgs/11c-open-eth-pivot.png) 
+
+I also open an UNDEAD-on-ETH hedge. 
+
+![Open UNDEAD hedge](imgs/11d-open-undead-hedge.png) 
+
+
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/12a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/12b-apport.png) 
+
