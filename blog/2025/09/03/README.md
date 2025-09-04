@@ -184,3 +184,21 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 ![The ETH+UNDEAD pivot pool composition](imgs/12a-comp.png) 
 ![The ETH+UNDEAD pivot pool γ-apportionment](imgs/12b-apport.png) 
 
+# CONCLUSION 
+
+This concludes pivot-activity for 2025-09-03 
+
+![Pivot Protocol dashboard](imgs/13a-dash.png) 
+![Pivot Protocol NAV](imgs/13b-nav.png) 
+![Pivot Protocol pivot pools](imgs/13c-pools.png) 
+![Pivot Distributions](imgs/13d-dists.png) 
+
+* gains distributed to stakers or reinvested, total: $15,715 
+* protocol NAV: $280,355 
+* protocol 24-hour volume: $98,648 
+* transactions executed: 38 
+
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
+
