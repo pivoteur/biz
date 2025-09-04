@@ -93,3 +93,39 @@ The Uniswap UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/05b-sned.png) 
 
+# State of the Pivot Protocol, 2025-09-04 
+
+![UNDEAD price chart](imgs/06a-undead.png) 
+![State of the Pivot Protocol, 2025-09-04](imgs/06b-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/06c-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: Small price movements. Let us see what pivoting brings today. 
+
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/07a-nav.png) 
+![Protocol value by token](imgs/07b-by-token.png) 
+![Protocol dapp allocation](imgs/07c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $148,050 
+
+### Investments 
+
+* 1 $BTC = $110,847 
+* 3.501M $UNDEAD = $10,366 
+
+total: $269,263 
+
+
+### Pivot Protocol 
+
+* NAV = $281,423 
+* reinvestments/distributions = $15,715 
+
+This shows the protocol has generated $27,874 in value. 
+
