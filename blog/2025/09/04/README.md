@@ -129,3 +129,21 @@ total: $269,263
 
 This shows the protocol has generated $27,874 in value. 
 
+# PIVOTS 
+
+## AVAX+UNDEAD 
+
+![Close UNDEAD-on-AVAX pivots](imgs/08a-close-undead-on-avax-pivot.png) 
+
+I close 2 UNDEAD-on-AVAX pivots for gains of: 
+
+
+* actual ROI: 42.13% / 878.68% APR projected 
+* or: 256000 $UNDEAD -> $AVAX -> 363848 $UNDEAD 
+* or: $313.62 gain on 2 pivots totalling $1,008.77 
+
+
+![Distribute gains to stakers](imgs/08b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
