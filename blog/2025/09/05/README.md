@@ -94,3 +94,38 @@ Winner: @LFJ_gg (10-day streak)
 
 ![Send BTC to vault](imgs/05b-sned.png) 
 
+# State of the Pivot Protocol, 2025-09-05 
+
+![UNDEAD price chart](imgs/06a-undead.png) 
+![State of the Pivot Protocol, 2025-09-05](imgs/06b-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/06c-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: Inch Tme Foot Gem. Protocol growth progresses apace, as the pivots pay off. 
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/07a-nav.png) 
+![Protocol value by token](imgs/07b-by-token.png) 
+![Protocol dapp allocation](imgs/07c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $145,550 
+
+### Investments 
+
+* 1 $BTC = $112,508 
+* 3.501M $UNDEAD = $10,191 
+
+total: $268,249 
+
+
+### Pivot Protocol 
+
+* NAV = $282,241 
+* reinvestments/distributions = $15,969 
+
+This shows the protocol has generated $29,961 in value. 
+
