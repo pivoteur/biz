@@ -53,7 +53,14 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 ![Blackhole DEX voting page](imgs/02a-vote.png) 
 ![Vote for $UNDEAD LPs](imgs/02b-voted.png) 
 
-[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) HOWTO vote instructions: https://x.com/pivocateur/status/1945637734682341791 
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791)
 
 #IVotedForUNDEAD 
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/03a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/03b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
