@@ -103,7 +103,7 @@ Winner: @LFJ_gg (10-day streak)
 
 Good day, pivoteurs! 
 
-News: Inch Tme Foot Gem. Protocol growth progresses apace, as the pivots pay off. 
+News: Inch Time Foot Gem. Protocol growth progresses apace, as the pivots pay off. 
 ## Pivot Protocol Snapshot 
 
 ![Protocol NAV](imgs/07a-nav.png) 
@@ -128,4 +128,22 @@ total: $268,249
 * reinvestments/distributions = $15,969 
 
 This shows the protocol has generated $29,961 in value. 
+
+# PIVOTS 
+
+## UNDEAD+USDC 
+
+![Close UNDEAD-on-USDC pivots](imgs/08a-close-undead-on-usdc-pivot.png) 
+
+I close 2 UNDEAD-on-USDC pivots for gains of: 
+
+
+* actual ROI: 31.24% / 616.45% APR projected 
+* or: 258000 $UNDEAD -> $USDC -> 338610 $UNDEAD 
+* or: $236.19 gain on 2 pivots totalling $998.92 
+
+
+![Distribute gains to stakers](imgs/08b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
 
