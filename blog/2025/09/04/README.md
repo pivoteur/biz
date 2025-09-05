@@ -147,3 +147,24 @@ I close 2 UNDEAD-on-AVAX pivots for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+# CONCLUSION 
+
+This concludes pivot-activity for 2025-09-04 
+
+![Pivot Protocol dashboard](imgs/11a-dash.png) 
+![Pivot Protocol NAV](imgs/11b-nav.png) 
+![Pivot Protocol pivot pools](imgs/11c-pools.png) 
+![Pivot Distributions](imgs/11d-dists.png) 
+
+* gains distributed to stakers or reinvested: $15,969 total 
+* protocol NAV: $281,531 
+
+Over the last 24 hours: 
+
+* protocol volume: $5,306 
+* transactions executed: 28 
+
+
+
+[The Pivot protocol](https://pivoteur.github.io/#) 
+
