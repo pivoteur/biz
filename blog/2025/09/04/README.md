@@ -147,6 +147,29 @@ I close 2 UNDEAD-on-AVAX pivots for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Open AVAX+UNDEAD pivots 
+
+![AVAX+UNDEAD Ratio](imgs/09a-ratio.png) 
+![Positive δ](imgs/09b-delta.png) 
+
+The positive δ calls to open an AVAX-on-UNDEAD pivot, which I do. 
+
+![Open AVAX pivot](imgs/09c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX hedge. 
+
+![Open UNDEAD hedge](imgs/09d-open-undead-hedge.png) 
+
+
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/10a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/10b-apport.png) 
+
+
 # CONCLUSION 
 
 This concludes pivot-activity for 2025-09-04 
