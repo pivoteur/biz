@@ -42,15 +42,15 @@ I swap 185000 $UNDEAD for:
 
 1. 500.62 $USDC on @BlackholeDex 
 
-![UNDEAD/USDC swap on Blackhole](imgs/04a-blackhole.png) 
+![UNDEAD/USDC swap on Blackhole](imgs/02a-blackhole.png) 
 
 2. 513.50 $USDC on @KyberNetwork 
 
-![UNDEAD/USDC swap on Kyber](imgs/04b-kyber.png) 
+![UNDEAD/USDC swap on Kyber](imgs/02b-kyber.png) 
 
 3. 513.63 $USDC on @LFJ_gg 💥 
 
-![UNDEAD/USDC swap on LFJ](imgs/04c-lfj.png) 
+![UNDEAD/USDC swap on LFJ](imgs/02c-lfj.png) 
 
 Winner: @LFJ_gg (13-day streak) 
 
