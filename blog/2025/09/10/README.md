@@ -53,3 +53,28 @@ I also have also Pivot protocol goals of:
 ![Pivot protocol NAV-vs-EMA20 chart](imgs/02c-ema.png) 
 
 You will note the Protocol NAV today crossed above the EMA-20, meaning that, even self-regulated, the protocol makes gains, showing a good balance of assets pivoted and liquidity in reserve.
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/03a-nav.png) 
+![Protocol value by token](imgs/03b-by-token.png) 
+![Protocol dapp allocation](imgs/03c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $146,450 
+
+### Investments 
+
+* 1 $BTC = $113,194 
+* 3.501M $UNDEAD = $10,254 
+
+total: $269,898 
+
+
+### Pivot Protocol 
+
+* NAV = $285,741 
+* reinvestments/distributions = $16,158 
+
+This shows the protocol has generated $32,000 in value. 
+
