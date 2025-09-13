@@ -34,3 +34,20 @@ When we get LPs funded on multiple blockchains, the game released, and the Pivot
 
 [2025-07-17 $UNDEAD report (archived)](https://github.com/pivoteur/biz/tree/main/blog/snapshot) 
 
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-09-12 
+
+Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/02a-vote.png) 
+![Vote for $UNDEAD LPs](imgs/02b-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) 
+
+#IVotedForUNDEAD 
+
