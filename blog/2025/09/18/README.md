@@ -13,7 +13,7 @@ New article posted on LinkedIn: "[Dimensionality and Interactivity of Data Visua
 
 ![Bar chart (1-dimensional)](imgs/01a-bar.png)
 ![Pie chart (1-dimensional)](imgs/01b-pie.png)
-!]Stacked Bar chart (2-dimensional)](imgs/01c-stacked.png)
+![Stacked Bar chart (2-dimensional)](imgs/01c-stacked.png)
 ![Venn Diagram (2-dimenionsl)](imgs/01d-venn.png)
 
 # 💥💥💥NEWSFLASH💥💥💥
