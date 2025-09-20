@@ -72,3 +72,13 @@ Winner: @LFJ_gg (25-day streak)
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/06a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/06b-sned.png) 
+
