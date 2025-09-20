@@ -48,3 +48,27 @@ I swap 193000 $UNDEAD for:
 
 Winner: @LFJ_gg (25-day streak) 
 
+# Liquidity Pools 
+
+@BlackholeDex $BLACK price-chart on @coingecko 
+
+![Blackhole DEX $BLACK price](imgs/04a-black.png) 
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap 
+
+![Claim LP yields](imgs/04b-claim.png) 
+
+* swap the yields to $USDC, 
+
+![Swap BLACK to USDC](imgs/04c-swap.png) 
+
+* then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
+
+![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/04d-provide.png) 
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/05a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/05b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
