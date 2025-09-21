@@ -82,3 +82,38 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/06b-sned.png) 
 
+# State of the Pivot Protocol, 2025-09-20 
+
+
+![State of the Pivot Protocol, 2025-09-20](imgs/07a-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/07b-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: Good progress since the last report: both $UNDEAD metrics and the profile portal are up. I am now working on automating which pivots to close on the backend. 
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/08a-nav.png) 
+![Protocol value by asset](imgs/08b-by-asset.png) 
+![Protocol dapp allocation](imgs/08c-by-dapp.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $145,550 
+
+### Investments 
+
+* 1 $BTC = $116,074 
+* 3750999 $UNDEAD = $10,919 
+
+total: $272,543 
+
+
+### Pivot Protocol 
+
+* NAV = $295,446 
+* reinvestments/distributions = $16,158 
+
+This shows the protocol has generated $39,061 in value. 
+
