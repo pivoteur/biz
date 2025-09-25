@@ -4,7 +4,7 @@ Do you remember when you joined X? I do! #MyXAnniversary
 
 Happy 1st to the [Pivot Protocol](https://pivoteur.github.io/)!
 
-![Pivot Protocol Dashboard](imgs/01a-dash.png
+![Pivot Protocol Dashboard](imgs/01a-dash.png)
 ![Pivot Protocol Net Asset Value (NAV)](imgs/01b-nav.png)
 ![Pivot Pools Assets](imgs/01c-pools.png)
 
