@@ -15,3 +15,23 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 #IVotedForUNDEAD 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-09-30 
+
+I swap 188000 $UNDEAD for: 
+
+1. 499.34 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/01a-blackhole.png) 
+
+2. 510.26 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/01b-kyber.png) 
+
+3. 510.47 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/01c-lfj.png) 
+
+Winner: @LFJ_gg (35-day streak) 
+
