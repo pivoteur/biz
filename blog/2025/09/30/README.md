@@ -8,8 +8,8 @@ A new day; a new Epoch on @BlackholeDex.
 
 Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
 
-![Blackhole DEX voting page](imgs/02a-vote.png) 
-![Vote for $UNDEAD LPs](imgs/02b-voted.png) 
+![Blackhole DEX voting page](imgs/01a-vote.png) 
+![Vote for $UNDEAD LPs](imgs/01b-voted.png) 
 
 [HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) 
 
@@ -23,15 +23,15 @@ I swap 188000 $UNDEAD for:
 
 1. 499.34 $USDC on @BlackholeDex 
 
-![UNDEAD/USDC swap on Blackhole](imgs/01a-blackhole.png) 
+![UNDEAD/USDC swap on Blackhole](imgs/02a-blackhole.png) 
 
 2. 510.26 $USDC on @KyberNetwork 
 
-![UNDEAD/USDC swap on Kyber](imgs/01b-kyber.png) 
+![UNDEAD/USDC swap on Kyber](imgs/02b-kyber.png) 
 
 3. 510.47 $USDC on @LFJ_gg 💥 
 
-![UNDEAD/USDC swap on LFJ](imgs/01c-lfj.png) 
+![UNDEAD/USDC swap on LFJ](imgs/02c-lfj.png) 
 
 Winner: @LFJ_gg (35-day streak) 
 
