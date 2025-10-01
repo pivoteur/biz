@@ -52,3 +52,10 @@ Winner: @LFJ_gg (35-day streak)
 * then provide liquidity to the @Uniswap LP UNDEAD/USDC. 
 
 ![Provide liquidity to the Uniswap LP UNDEAD/USDC](imgs/03d-provide.png) 
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/04a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/04b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
