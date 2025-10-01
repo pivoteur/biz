@@ -87,3 +87,25 @@ I close 1 ETH-on-BTC pivot for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/07a-ratio.png) 
+![Positive δ](imgs/07b-delta.png) 
+
+The positive δ calls to open an BTC-on-ETH pivot, which I do. 
+
+![Open BTC pivot](imgs/07c-open-btc-pivot.png) 
+
+I also open an ETH-on-BTC hedge. 
+
+![Open ETH hedge](imgs/07d-open-eth-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/08a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/08b-apport.png) 
+
