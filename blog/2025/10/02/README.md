@@ -18,3 +18,12 @@ I swap 191000 $UNDEAD for:
 
 Winner: @LFJ_gg (37-day streak) 
 
+# Liquidity Pools 
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/02a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/02b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
