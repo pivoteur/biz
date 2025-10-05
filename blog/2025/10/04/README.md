@@ -23,15 +23,24 @@ I swap 186000 $UNDEAD for:
 
 1. 491.07 $USDC on @BlackholeDex 
 
-![UNDEAD/USDC swap on Blackhole](imgs/01a-blackhole.png) 
+![UNDEAD/USDC swap on Blackhole](imgs/02a-blackhole.png) 
 
 2. 501.08 $USDC on @KyberNetwork 
 
-![UNDEAD/USDC swap on Kyber](imgs/01b-kyber.png) 
+![UNDEAD/USDC swap on Kyber](imgs/02b-kyber.png) 
 
 3. 501.28 $USDC on @LFJ_gg 💥 
 
-![UNDEAD/USDC swap on LFJ](imgs/01c-lfj.png) 
+![UNDEAD/USDC swap on LFJ](imgs/02c-lfj.png) 
 
 Winner: @LFJ_gg (39-day streak) 
+
+# Liquidity Pools 
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/03a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/03b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
