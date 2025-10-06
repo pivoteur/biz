@@ -27,3 +27,44 @@ Winner: @LFJ_gg (40-day streak)
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/03a-ratio.png) 
+![Middling δ](imgs/03b-delta.png) 
+
+The meh δ makes no call, but I open an BTC-on-ETH pivot, anyway. 
+
+![Open BTC pivot](imgs/03c-open-btc-pivot.png) 
+
+I also open an ETH-on-BTC pivot. 
+
+![Open ETH pivot](imgs/03d-open-eth-pivot.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/04a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/04b-apport.png) 
+
