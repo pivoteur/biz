@@ -11,3 +11,29 @@ Now. let's. do. a. speed. run.
 Let's see how many we can do pivot arbitrage on in 1 hour.
 
 Ready. Steady. GO!
+
+# PIVOTS
+
+Time: 7:29 am, end-time: 8:29 am. Alarm: set
+
+## BTC+ETH
+
+![BTC+ETH: 0 pivots](imgs/02-btc-eth-0.png)
+
+No pivots. Next.
+## BTC+AVAX 
+
+![Close BTC-on-AVAX pivots](imgs/03a-close-btc-on-avax-pivot.png) 
+
+I close 6 BTC-on-AVAX pivots for gains of: 
+
+
+* actual ROI: 14.87% / 417.58% APR projected 
+* or: 0.034430 $BTC -> $AVAX -> 0.039550 $BTC 
+* or: $637.75 gain on 6 pivots totalling $3,984.11 
+
+
+
+
+I will distribute gains and open new pivots after the speed-run. 
+
