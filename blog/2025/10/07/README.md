@@ -37,3 +37,19 @@ I close 6 BTC-on-AVAX pivots for gains of:
 
 I will distribute gains and open new pivots after the speed-run. 
 
+## BTC+USDC 
+
+![Close USDC-on-BTC pivot](imgs/04a-close-usdc-on-btc-pivot.png) 
+
+I close 1 USDC-on-BTC pivot for gains of: 
+
+
+* actual ROI: 11.77% / 99.89% APR projected 
+* or: 3000.00 $USDC -> $BTC -> 3353.03 $USDC 
+* or: $353.05 gain on a pivot totalling $3,000.00 
+
+
+
+
+I will distribute gains and open new pivots after the speed-run. 
+
