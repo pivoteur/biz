@@ -53,3 +53,21 @@ I close 1 USDC-on-BTC pivot for gains of:
 
 I will distribute gains and open new pivots after the speed-run. 
 
+## ETH+UNDEAD
+
+![ETH+UNDEAD: no close pivots](imgs/06-eth-undead-0.png)
+
+No close pivots.
+
+# End of speed-run
+
+* Total pools pivoted: 5
+* Total gains: $1,100.84*
+* Total volume traded: $7,984.82
+* ROI: 13.79%
+
+So, that means the protocol just made $1,000 in an hour, at ~14% ROI on ~$8,000 assets traded.
+
+PRET. TY. GOOD! 😎
+
+* 80% to be distributed to stakers or reinvested.
