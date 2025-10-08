@@ -53,6 +53,22 @@ I close 1 USDC-on-BTC pivot for gains of:
 
 I will distribute gains and open new pivots after the speed-run. 
 
+## BTC+UNDEAD 
+
+![Close UNDEAD-on-BTC hedges](imgs/05a-close-undead-on-btc-hedge.png) 
+
+I close 2 UNDEAD-on-BTC hedges for gains of: 
+
+
+* actual ROI: 11.11% / 117.57% APR projected 
+* or: 358000 $UNDEAD -> $BTC -> 397,783 $UNDEAD 
+* or: $110.04 gain on 2 hedges totalling $1,000.71 
+
+
+
+
+I will distribute gains and open new pivots after the speed-run. 
+
 ## ETH+UNDEAD
 
 ![ETH+UNDEAD: no close pivots](imgs/06-eth-undead-0.png)
