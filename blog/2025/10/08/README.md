@@ -6,4 +6,4 @@ Are we still early? Is it too late?
 
 ![Worldwide Cryptocurrency Adoption](imgs/01-early.png)
 
-I've published an article on @LinkedIn: "It's Still Early ... Yet!" for you FOMO'rs out there. https://www.linkedin.com/feed/update/urn:li:activity:7381824484632104962/
+I've published an article on @LinkedIn: "[It's Still Early ... Yet!](https://www.linkedin.com/feed/update/urn:li:activity:7381824484632104962/)" for you FOMO'rs out there. 
