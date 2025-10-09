@@ -1,6 +1,6 @@
 Pivoteurs! G'day! 2025-10-08
 
-@cz_binance says we're in the "I wish I bought ___ early"-stage of #cryptocurrency.
+[@cz_binance says](https://x.com/cz_binance/status/1975280864595746911) we're in the "I wish I bought ___ early"-stage of #cryptocurrency.
 
 Are we still early? Is it too late?
 
