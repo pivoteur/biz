@@ -29,3 +29,42 @@ I close 1 UNDEAD-on-AVAX hedge for gains of:
 
 I will distribute gains and open new pivots after all close-pivots are finalized. 
 
+## UNDEAD+USDC 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+### Open UNDEAD+USDC pivots 
+
+![UNDEAD+USDC Ratio](imgs/03a-ratio.png) 
+![Negative δ](imgs/03b-delta.png) 
+
+The negative δ calls to open an USDC-on-UNDEAD pivot, which I do. 
+
+![Open USDC pivot](imgs/03c-open-usdc-pivot.png) 
+
+I also open an UNDEAD-on-USDC hedge. 
+
+![Open UNDEAD hedge](imgs/03d-open-undead-hedge.png) 
+
+
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/04a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/04b-apport.png) 
+
