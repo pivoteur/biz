@@ -68,3 +68,17 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 ![The UNDEAD+USDC pivot pool composition](imgs/04a-comp.png) 
 ![The UNDEAD+USDC pivot pool γ-apportionment](imgs/04b-apport.png) 
 
+## Done with pivoting for today
+
+It's past the stroke of midnight. Enough pivoting for today, ... welllllll: yesterday.
+
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/05a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/05b-sned.png) 
+
