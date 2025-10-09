@@ -10,7 +10,7 @@ I've published an article on @LinkedIn: "[It's Still Early ... Yet!](https://www
 
 # PIVOTS
 
-Finishing up pivot arbitrage from [the speed-run from earlier today](https://x.com/pivocateur/status/1975884465441529951) ...
+Finishing up pivot arbitrage from [the speed-run from earlier today](https://github.com/pivoteur/biz/tree/main/blog/2025/10/07) ...
 
 
 ## AVAX+UNDEAD 
