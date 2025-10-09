@@ -7,3 +7,25 @@ Are we still early? Is it too late?
 ![Worldwide Cryptocurrency Adoption](imgs/01-early.png)
 
 I've published an article on @LinkedIn: "[It's Still Early ... Yet!](https://www.linkedin.com/feed/update/urn:li:activity:7381824484632104962/)" for you FOMO'rs out there. 
+
+# PIVOTS
+
+Finishing up pivot arbitrage from [the speed-run from earlier today](https://x.com/pivocateur/status/1975884465441529951) ...
+
+
+## AVAX+UNDEAD 
+
+![Close UNDEAD-on-AVAX hedge](imgs/02a-close-undead-on-avax-hedge.png) 
+
+I close 1 UNDEAD-on-AVAX hedge for gains of: 
+
+
+* actual ROI: 9.43% / 101.19% APR projected 
+* or: 172000 $UNDEAD -> $AVAX -> 188,212 $UNDEAD 
+* or: $44.84 gain on a hedge totalling $485.10 
+
+
+
+
+I will distribute gains and open new pivots after all close-pivots are finalized. 
+
