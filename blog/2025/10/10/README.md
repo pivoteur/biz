@@ -50,3 +50,20 @@ This process is 100% manual, but the data quality is unique.
 
 I have collected these metrics for over 300 days.
 
+## Git-as-database
+
+I don't just hold these data locally. I move all data collated to git as TSV-files.
+
+![Copy data from spreadsheet](imgs/03a-copy.png)
+![Paste data into repository](imgs/03b-paste.png)
+![Data visualization on spreadsheet](imgs/03c-spreadsheet.png)
+![Update git](imgs/03d-git.png)
+
+Primitive database? You betcha.<br/>
+Does it work? For now.
+
+Should I use cloud databases and automated integration? Absolutely!
+
+"Some day"* I'll do that.
+
+* some day, n. indef.: ... when I have time
