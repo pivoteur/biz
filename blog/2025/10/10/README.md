@@ -31,3 +31,22 @@ This quote-collection automation saves me hours per day from before!
 
 Collating these quotes into the protocol for analysis is still a manual process, relying on 12 spreadsheets.
 
+# UNDEAD
+
+![UNDEAD stats on coingecko](imgs/02a-undead.png)
+
+Next up, I collect data specifically on the $UNDEAD-token. I collect:
+
+* rank
+* price
+* market cap
+* 24-hour volume
+
+Then update my spreadsheet with these values. 
+
+![Update spreadsheet](imgs/02b-update.png)
+
+This process is 100% manual, but the data quality is unique.
+
+I have collected these metrics for over 300 days.
+
