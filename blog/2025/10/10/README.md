@@ -67,3 +67,17 @@ Should I use cloud databases and automated integration? Absolutely!
 "Some day"* I'll do that.
 
 * some day, n. indef.: ... when I have time
+
+# Protocol metrics
+
+"Does it work?"
+
+What even does that mean, in light of all this time and effort? 
+
+The payoff for me, and the protocol's stakers, is we have up-to-date metrics on the pivot pools, the protocol, and the $UNDEAD-token. 
+
+![Protocol dashboard](imgs/04a-dash.png)
+![UNDEAD chart](imgs/04b-undead.png)
+![UNDEAD report](imgs/04c-undead-report.png)
+![Pivot pools](imgs/04d-pools.png)
+
