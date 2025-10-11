@@ -150,9 +150,29 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 Did somebody instigate a run on $USDt? #Tether 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+![Close ETH-on-BTC pivots](imgs/10a-close-eth-on-btc-pivot.png) 
+
+I close 7 ETH-on-BTC pivots for gains of: 
+
+
+* actual ROI: 15.39% / 117.05% APR projected 
+* or: 2.50 $ETH -> $BTC -> 2.88 $ETH 
+* or: $1,462.71 gain on 7 pivots totalling $10,924.44 
+
+
+![Distribute gains to stakers](imgs/10b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
+
+
 ... and that --^ is how to PROFIT ~$1.5k during a turbulent market. 
 
-Open BTC+ETH pivots 
+## Open BTC+ETH pivots 
 
 ![BTC+ETH Ratio](imgs/11a-ratio.png) 
 ![Positive δ](imgs/11b-delta.png) 
