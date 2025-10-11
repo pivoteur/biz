@@ -125,3 +125,12 @@ I swap 202000 $UNDEAD for:
 
 TIE! between @KyberNetwork and @LFJ_gg 
 
+# Liquidity Pools 
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/07a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/07b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
