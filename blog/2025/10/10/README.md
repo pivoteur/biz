@@ -144,3 +144,9 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/08b-sned.png) 
 
+# Tether
+
+![Price spike on $USDt](imgs/09-usdt.png)
+
+Did somebody instigate a run on $USDt? #Tether 
+
