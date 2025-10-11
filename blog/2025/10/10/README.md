@@ -89,18 +89,39 @@ Not yet.
 
 I have a spreadsheet that guides my work:
 
-![DEX-race template](imgs/05a-spr-dex.png)
 
 1. DEX-race.
 
-![LPs template](imgs/05b-spr-lps.png)
+![DEX-race template](imgs/05a-spr-dex.png)
 
 2. LPs
 
-![BTC vault template](imgs/05c-spr-btc.png)
+![LPs template](imgs/05b-spr-lps.png)
 
 3. BTC Vault
+
+![BTC vault template](imgs/05c-spr-btc.png)
 
 4. ... THEN pivoting.
 
 Let's go.
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-10-10 
+
+I swap 202000 $UNDEAD for: 
+
+1. 476.59 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/06a-blackhole.png) 
+
+2. 514.55 $USDC on @KyberNetwork 💥 
+
+![UNDEAD/USDC swap on Kyber](imgs/06b-kyber.png) 
+
+3. 514.55 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/06c-lfj.png) 
+
+TIE! between @KyberNetwork and @LFJ_gg 
+
