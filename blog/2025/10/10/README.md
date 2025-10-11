@@ -81,3 +81,26 @@ The payoff for me, and the protocol's stakers, is we have up-to-date metrics on 
 ![UNDEAD report](imgs/04c-undead-report.png)
 ![Pivot pools](imgs/04d-pools.png)
 
+# Other Protocol Housekeeping
+
+Does that mean we're ready to pivot?
+
+Not yet.
+
+I have a spreadsheet that guides my work:
+
+![DEX-race template](imgs/05a-spr-dex.png)
+
+1. DEX-race.
+
+![LPs template](imgs/05b-spr-lps.png)
+
+2. LPs
+
+![BTC vault template](imgs/05c-spr-btc.png)
+
+3. BTC Vault
+
+4. ... THEN pivoting.
+
+Let's go.
