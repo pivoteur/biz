@@ -150,3 +150,27 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 Did somebody instigate a run on $USDt? #Tether 
 
+... and that --^ is how to PROFIT ~$1.5k during a turbulent market. 
+
+Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/11a-ratio.png) 
+![Positive δ](imgs/11b-delta.png) 
+
+The positive δ calls to open an BTC-on-ETH pivot, which I do. 
+
+![Open BTC pivot](imgs/11c-open-btc-pivot.png) 
+
+I also open an ETH-on-BTC hedge. 
+
+![Open ETH hedge](imgs/11d-open-eth-hedge.png) 
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/12a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/12b-apport.png) 
+
