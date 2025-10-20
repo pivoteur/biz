@@ -19,6 +19,25 @@ I swap 191000 $UNDEAD for:
 
 Winner: @LFJ_gg 💥 Renewed title-holder! 
 
+# Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/02a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/02b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
+# Bitcoin vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/03a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/03b-sned.png) 
+
+
+
 # PIVOTS 
 
 ## BTC+ETH 
