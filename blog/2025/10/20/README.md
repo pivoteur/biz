@@ -79,6 +79,22 @@ The BTC+ETH pivot pool composition and γ-apportionment are as charted.
 ![The BTC+ETH pivot pool composition](imgs/05a-comp.png) 
 ![The BTC+ETH pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+## BTC+AVAX 
+
+![Close AVAX-on-BTC pivots](imgs/06a-close-avax-on-btc-pivot.png) 
+
+I close 3 AVAX-on-BTC pivots for gains of: 
+
+
+* actual ROI: 14.48% / 92.72% APR projected 
+* or: 205.8758 $AVAX -> $BTC -> 235.687745 $AVAX 
+* or: $605.77 gain on 3 pivots totalling $4,868.69 
+
+
+![Distribute gains to stakers](imgs/06b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
 ## Open BTC+AVAX pivots 
 
 ![BTC+AVAX Ratio](imgs/07a-ratio.png) 
