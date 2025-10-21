@@ -77,3 +77,44 @@ total: $250,662
 
 This shows the protocol has generated $49,797 in value. 
 
+# PIVOTS 
+
+## BTC+USDC 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+## Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/06a-ratio.png) 
+![Positive δ](imgs/06b-delta.png) 
+
+The positive δ calls to open an BTC-on-USDC pivot, which I do. 
+
+![Open BTC pivot](imgs/06c-open-btc-pivot.png) 
+
+I also open an USDC-on-BTC hedge. 
+
+![Open USDC hedge](imgs/06d-open-usdc-hedge.png) 
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/07a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/07b-apport.png) 
+
