@@ -101,15 +101,13 @@ No close pivots.
 ![BTC+USDC Ratio](imgs/06a-ratio.png) 
 ![Positive δ](imgs/06b-delta.png) 
 
-The positive δ calls to open an BTC-on-USDC pivot, which I do. 
+The negative δ calls to open an USDC-on-BTC pivot, which I do. 
 
-![Open BTC pivot](imgs/06c-open-btc-pivot.png) 
+![Open USDC pivot](imgs/06c-open-usdc-pivot.png) 
 
-I also open an USDC-on-BTC hedge. 
+I also open an BTC-on-USDC hedge. 
 
-![Open USDC hedge](imgs/06d-open-usdc-hedge.png) 
-
-
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
 
 
 
