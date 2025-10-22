@@ -155,3 +155,31 @@ The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted.
 ![The BTC+UNDEAD pivot pool composition](imgs/09a-comp.png) 
 ![The BTC+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
 
+## ETH+UNDEAD 
+
+![Close UNDEAD-on-ETH hedge](imgs/10a-close-undead-on-eth-hedge.png) 
+
+I close 1 UNDEAD-on-ETH hedge for gains of: 
+
+
+* actual ROI: 14.86% / 113.02% APR projected 
+* or: 175000 $UNDEAD -> $ETH -> 201013 $UNDEAD 
+* or: $67.34 gain on a hedge totalling $509.08 
+
+
+![Distribute gains to stakers](imgs/10b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
+
+
+# An $UNDEAD-Milestone
+
+![Distributions/Reinvestments](imgs/11a-dists.png)
+![1 Million $UNDEAD distributed](imgs/11b-milestone.png)
+
+A cumulative 1 MILLION $UNDEAD distributed or reinvested?
+
+I'd call that a milestone for the Pivot Protocol.
+
+Article on @LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:7386640446866796544/).
