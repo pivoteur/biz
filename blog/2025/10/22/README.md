@@ -42,3 +42,44 @@ Winner: @LFJ_gg (3-day streak)
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# PIVOTS 
+
+## AVAX+UNDEAD 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+## Open AVAX+UNDEAD pivots 
+
+![AVAX+UNDEAD Ratio](imgs/04a-ratio.png) 
+![Middling δ](imgs/04b-delta.png) 
+
+The meh δ makes no call, but I open an AVAX-on-UNDEAD pivot, anyway. 
+
+![Open AVAX pivot](imgs/04c-open-avax-pivot.png) 
+
+I also open an UNDEAD-on-AVAX pivot. 
+
+![Open UNDEAD pivot](imgs/04d-open-undead-pivot.png) 
+
+
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/05a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/05b-apport.png) 
+
