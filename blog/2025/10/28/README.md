@@ -41,3 +41,20 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 #IVotedForUNDEAD 
 
+# Pivot Arbitrage 
+
+2025-10-28 Good day! 
+
+Which way, pivoteurs? 
+
+![DIY++ chart](imgs/03a-diy.png) 
+![$BTC chart](imgs/03b-btc.png) 
+![$ETH chart](imgs/03c-eth.png) 
+
+- [ ] $BTC 
+- [ ] $ETH 
+- [ ] both 
+- [ ] Can you do the pivot arbitrage for me, al geophf?* 
+
+*yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=BTC&t2=ETH). 😎 
+
