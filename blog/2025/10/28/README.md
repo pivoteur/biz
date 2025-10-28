@@ -58,3 +58,27 @@ Which way, pivoteurs?
 
 *yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=BTC&t2=ETH). 😎 
 
+# Liquidity Pools 
+
+@BlackholeDex $BLACK price-chart on @coingecko 
+
+![Blackhole DEX $BLACK price](imgs/05a-black.png) 
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap; the LPs have reached parity. 
+
+![Claim LP yields](imgs/05b-claim.png) 
+
+* swap half the yields to $BTC, 
+
+![Swap yields to BTC](imgs/05c-swap.png) 
+
+* then I will move the $UNDEAD and $BTC liquidity to the vault 
+
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/06a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/06b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
