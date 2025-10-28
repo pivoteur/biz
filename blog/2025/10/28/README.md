@@ -58,6 +58,28 @@ Which way, pivoteurs?
 
 *yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=BTC&t2=ETH). 😎 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-10-28 
+
+I swap 194000 $UNDEAD for: 
+
+1. 474.79 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/04a-blackhole.png) 
+
+2. 483.51 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/04b-kyber.png) 
+
+3. 483.69 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/04c-lfj.png) 
+
+
+Winner: @LFJ_gg (9-day streak) 
+
+
 # Liquidity Pools 
 
 @BlackholeDex $BLACK price-chart on @coingecko 
