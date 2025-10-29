@@ -114,3 +114,44 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/07b-sned.png) 
 
+# PIVOTS 
+
+## UNDEAD+USDC 
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+## Open UNDEAD+USDC pivots 
+
+![UNDEAD+USDC Ratio](imgs/08a-ratio.png) 
+![Middling δ](imgs/08b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/08c-open-undead-pivot.png) 
+
+I also open an USDC-on-UNDEAD pivot. 
+
+![Open USDC pivot](imgs/08d-open-usdc-pivot.png) 
+
+
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/09a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/09b-apport.png) 
+
