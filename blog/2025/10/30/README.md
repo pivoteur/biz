@@ -62,3 +62,40 @@ Winner: @LFJ_gg (11-day streak)
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# State of the Pivot Protocol, 2025-10-30 
+
+![UNDEAD price chart](imgs/05a-undead.png) 
+![State of the Pivot Protocol, 2025-10-30](imgs/05b-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/05c-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: Thanks to the stake from a new investor, ι, the protocol saw a surge of NAV-growth. Not only that, but $UNDEAD, as well, has seen increased volume, perhaps indicating increased interest, with its first, organic, $100k 24-hour volume. 
+
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/06a-nav.png) 
+![Protocol value by asset](imgs/06b-by-asset.png) 
+![Protocol dapp allocation](imgs/06c-by-dapp.png) 
+![Protocol distributions](imgs/06d-dists.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $133,750 
+
+### Investments 
+
+* 1.5 $BTC = $162,498 
+* 4980999 $UNDEAD = $13,324 
+
+total: $309,572 
+
+
+### Pivot Protocol 
+
+* NAV = $339,442 
+* reinvestments/distributions = $18,967 
+
+This shows the protocol has generated $48,836 in value. 
+
