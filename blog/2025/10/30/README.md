@@ -64,7 +64,7 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 # State of the Pivot Protocol, 2025-10-30 
 
-![UNDEAD price chart](imgs/05a-undead.png) 
+![UNDEAD price chart](imgs/05a-undead-100k.png) 
 ![State of the Pivot Protocol, 2025-10-30](imgs/05b-assets.png) 
 ![Pivot protocol NAV-vs-EMA20 chart](imgs/05c-ema.png) 
 
