@@ -15,3 +15,22 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 #IVotedForUNDEAD 
 
+# Pivot Arbitrage 
+
+2025-10-30 Good day! 
+
+Which way, pivoteurs? 
+
+![DIY++ chart](imgs/02a-diy.png) 
+![$HBAR chart](imgs/02b-hbar.png) 
+![$USDC chart](imgs/02c-usdc.png) 
+
+- [ ] $HBAR 
+- [ ] $USDC 
+- [ ] both 
+- [ ] Can you do the pivot arbitrage for me, al geophf?* 
+
+*yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=HBAR&t2=USDC). 😎 
+
+
+
