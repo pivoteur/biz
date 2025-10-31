@@ -165,3 +165,32 @@ This reasoning bears out:
 
 ![HeliSwap](imgs/09g-heliswap.png)
 
+## Open HBAR+USDC pivots 
+
+![HBAR+USDC Ratio](imgs/10a-ratio.png) 
+![Middling δ](imgs/10b-delta.png) 
+
+The meh δ makes no call, but I open an HBAR-on-USDC pivot, anyway. 
+
+![Open HBAR pivot](imgs/10c-open-hbar-pivot.png) 
+
+I also open an USDC-on-HBAR pivot. 
+
+![Open USDC pivot](imgs/10d-open-usdc-pivot.png) 
+
+## Getting liquidity to Hedera
+
+"Open two pivots on @hedera" sounds easy enough, but, as all the liquidity is on @avax, I first swap liquidity there to $USDC, send it to Coinbase, then swap to $HBAR on Coinbase, so I can send this liquidity to Hedera.
+
+![Swap liquidity to USDC](imgs/10e-swap1.png)
+![Swap liquidity to USDC](imgs/10f-swap2.png)
+![Send to Coinbase](imgs/10g-sned.png)
+![Swap USDC to HBAR](imgs/10h-swap.png)
+
+Only then can I do the above swaps (PT) to open the pivots.
+
+The HBAR+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The HBAR+USDC pivot pool composition](imgs/11a-comp.png) 
+![The HBAR+USDC pivot pool γ-apportionment](imgs/11b-apport.png) 
+
