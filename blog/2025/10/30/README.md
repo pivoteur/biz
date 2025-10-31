@@ -121,3 +121,19 @@ HashPack is standard wallet that Hedera apps accept.
 
 You can link your EVM address and add Hedera to your EVM wallet, as well, but not all apps accept the latter.
 
+## HBAR+USDC 
+
+![Close HBAR-on-USDC hedge](imgs/09a-close-hbar-on-usdc-hedge.png) 
+
+I close 1 HBAR-on-USDC hedge for gains of: 
+
+
+* actual ROI: 13.76% / 132.21% APR projected 
+* or: 1,135.40 $HBAR -> $USDC -> 1295 $HBAR 
+* or: $29.66 gain on a hedge totalling $249.79 
+
+
+![Distribute gains to stakers](imgs/09b-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
