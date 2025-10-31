@@ -137,3 +137,31 @@ I close 1 HBAR-on-USDC hedge for gains of:
 
 I reinvest the gains or distribute 80% to stakers. 
 
+## Defillama info on Hedera
+
+It is instructive to note that choosing the DEX changes the amount received from the swap significantly.
+
+@DefiLlama shows (some) of the [apps on @hedera and their TVLs](https://defillama.com/chain/hedera).
+
+![Defillama Hedera info](imgs/09c-defillama.png)
+![Hedera apps and their TVLs](imgs/09d-hedera-apps.png]
+
+It would stand to reason that those apps with larger liquidity render better swaps.
+
+
+## Hedera DEXen
+
+This reasoning bears out: 
+
+1. @SaucerSwapLabs DEX, with the highest TVL, has the most efficacious HBAR -> USDC swap.
+
+![Saucer Swap](imgs/09e-saucer.png)
+
+2. @HSuiteNetwork DEX wasn't close.
+
+![HSuite](imgs/09f-hsuite.png)
+
+3. @HeliSwap_DEX I couldn't connect HashPack, but the swap resulted in 150 $HBAR less for the same amount of $USDC swapped. 
+
+![HeliSwap](imgs/09g-heliswap.png)
+
