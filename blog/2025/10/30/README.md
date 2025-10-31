@@ -99,3 +99,12 @@ total: $309,572
 
 This shows the protocol has generated $48,836 in value. 
 
+# PIVOTS!
+
+Let's go to @hedera.
+
+![Hedera](imgs/07-hedera.png)
+
+I'm not supposed to say: "I'm not familiar with this blockchain," ...but we all start somewhere, ne? I'm not familiar with this blockchain, so: let's learn together.
+
+I'm open to hearing if you know better ways to do things on @hedera than what I do.
