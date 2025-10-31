@@ -108,3 +108,16 @@ Let's go to @hedera.
 I'm not supposed to say: "I'm not familiar with this blockchain," ...but we all start somewhere, ne? I'm not familiar with this blockchain, so: let's learn together.
 
 I'm open to hearing if you know better ways to do things on @hedera than what I do.
+
+## Hedera wallets
+
+First off, @hedera isn't like an EVM, as it's a hashed-graph, not a block-chain, so you get a hash, not an address.
+
+![HashPack wallet](imgs/08a-hashpack.png)
+
+HashPack is standard wallet that Hedera apps accept.
+
+![Linked EVM wallet](imgs/08b-evm.png)
+
+You can link your EVM address and add Hedera to your EVM wallet, as well, but not all apps accept the latter.
+
