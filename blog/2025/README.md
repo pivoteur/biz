@@ -2,6 +2,7 @@
 
 ## 2025 entries
 
+* [November, 2025](11)
 * [October, 2025](10)
 * [September, 2025](09)
 * [August, 2025](08)
