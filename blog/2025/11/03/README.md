@@ -43,3 +43,39 @@ Winner: @LFJ_gg (15-day streak)
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# State of the Pivot Protocol, 2025-11-03 
+
+![UNDEAD price chart](imgs/04a-undead.png) 
+![State of the Pivot Protocol, 2025-11-03](imgs/04b-assets.png) 
+![Pivot protocol NAV-vs-EMA20 chart](imgs/04c-ema.png) 
+
+
+Good day, pivoteurs! 
+
+News: Protocol transition to Hedera proceeds apace whilst maintaining pivot pools on Avalanche. What I find delightful is that even though as I deploy UNDEAD-liquidity to the pivot pools and to Hedera, the value of UNDEAD in the protocol is 4x now from months ago. 
+## Pivot Protocol Snapshot 
+
+![Protocol NAV](imgs/05a-nav.png) 
+![Protocol value by asset](imgs/05b-by-asset.png) 
+![Protocol dapp allocation](imgs/05c-by-dapp.png) 
+![Protocol distributions](imgs/05d-dists.png) 
+
+### Custody 
+
+* 50M $UNDEAD = $130,700 
+
+### Investments 
+
+* 1.5 $BTC = $161,787 
+* 4980999 $UNDEAD = $13,020 
+
+total: $305,507 
+
+
+### Pivot Protocol 
+
+* NAV = $333,850 
+* reinvestments/distributions = $18,992 
+
+This shows the protocol has generated $47,334 in value. 
+
