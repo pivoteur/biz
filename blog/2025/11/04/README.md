@@ -30,3 +30,15 @@ Welp, we did our best.
 
 Next time, let's hold hands harder for that sub-$3k $ETH, eh?
 
+# UNDEAD price-action
+
+Question:
+
+![UNDEAD price-drop](imgs/04-undead.png)
+
+Did $UNDEAD just drop price by 10% because it didn't want to make the rest of the Market look bad?
+
+Asking for a friend.
+
+Seriously, $UNDEAD: you can do you own thing, you know? You don't need to copy $BTC price-action, candle for candle, like those other crypto wannabes
+
