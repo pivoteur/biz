@@ -19,3 +19,14 @@ YES! CALLED IT! $BTC below $100k! WOOT! 🎉
 ![$BTC below $100k; $ETH to go below $3k?](imgs/02-btc.png)
 
 Now, can we get $ETH below $3k? I think we can if we all hold hands and squeeze really hard! 
+
+# $ETH stays above $3k, ... durn it!
+
+Awww, shucks!
+
+![$ETH remains +$3k-bouyant](imgs/03-eth.png)
+
+Welp, we did our best.
+
+Next time, let's hold hands harder for that sub-$3k $ETH, eh?
+
