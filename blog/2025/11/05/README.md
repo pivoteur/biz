@@ -13,9 +13,7 @@ Which way, pivoteurs?
 - [ ] both 
 - [ ] Can you do the pivot arbitrage for me, al geophf?* 
 
-*yes. Yes, I can. 😎 
-
-https://pivoteur.github.io/diy.html?t1=BTC&t2=HBAR 
+*yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=BTC&t2=HBAR). 😎 
 
 # DEX UNDEAD/USDC-swap Race 
 
