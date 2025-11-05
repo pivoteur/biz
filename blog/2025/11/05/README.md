@@ -51,9 +51,6 @@ Winner: @LFJ_gg (17-day streak)
 
 ![Swap yields to BTC](imgs/03d-swap.png) 
 
-* then I will move the $UNDEAD and $BTC liquidity to the vault 
-
-
 ## Liquidity Pool Positions 
 
 ![Blackhole UNDEAD LPs](imgs/04a-blackhole-lps.png) 
