@@ -113,3 +113,86 @@ I started with 0.636 $ETH, pivoted to $BTC, then ended up with 0.73 $ETH.
 
 Or: pivoting on $BTC I created more $ETH from the $ETH I pivoted.
 
+## Exit Strategy/Reinvestment
+
+So, we made a gain from a pivot. Great!
+
+Or did we?
+
+As the SEC has declared for some cryptocurrency, they are not securities, so
+they don't secure your liquidity.
+
+So what does secure your liquidity?
+
+One approach: an exit strategy.
+
+I've learned over time that, just as one DCA ('dollar cost average') the way
+into a position to ride its gains, one should also DCA out of position to reap
+the benefits of those gains. But when to exit?
+
+The close pivot, itself, provides a perfect time to DCA gains out of a position.
+
+Take the above pivot: a 0.0935 $ETH-gain from a 0.636 position means, in effect,
+that that 0.0935 $ETH is 'free money.'
+
+### Inflation
+
+* So, do I exit with all the gain?
+
+Sure, that's one strategy. The downside to that approach is that your pivot pool
+does not grow over time. But inflation grows over time, as these last four years
+have very visibly demonstrated to us.
+
+Not reinvesting into the pivot pools shrink their efficacy over time.
+
+### Burn the house down
+
+* Then do I reinvest everything, going all-in?
+
+This appoarch is tempting, especially seeing the gains. So why not add more fuel
+to the fire and let it all burn?
+
+You see how I answered my question with the question, itself?
+
+More than once, a well-established token, or even blockchain, has shut down or
+hit an absolute low from which it doesn't recover. Your high-ride turns to ash
+when the blockchain, itself, goes down in flames.
+
+Terra. Harmony. Phatom Opera.
+
+These are blockchains that crashed so hard, the devs straight-up gave up on 
+them.
+
+$BTC. $USDC.
+
+These are tokens that crashed so hard, people and institutions lost millions and
+more in positions.
+
+So, that's a reason to DCA out of a position: safety.
+
+### The Middle Ground
+
+Then, there's the reason that this is my livelyhood. I have no income other than
+this, so I'm using pivot arbitrage to generate income from principal assets.
+
+How much income?
+
+I've computed my monthly expenses, so I have a monthly target. How do I meet 
+that target.
+
+For now, I'm exiting with 80% of the pivot-gains and reinvesting 20% of the 
+gains. As living situations change and the pivot pools change, I'll adjust these
+amounts reinvested and exited.
+
+I also leave this up to the investors. Currently, the [Pivot 
+Protocol](https://pivoteur.github.io/#) is in pre-release α-state, so all
+investments are manual. That said, I give the option to investors to reinvest
+their yields, take them as dividends, or do both as a percentage reinvested.
+
+When the protocol goes live, there will be an option for an investor to 
+reinvest their dividends automatically, which will be the default. They can 
+change the reinvestment option at any time. If they instead choose to receive
+dividends, then the standard mechanic for harvesting yields will be theirs to
+exercise.
+
+
