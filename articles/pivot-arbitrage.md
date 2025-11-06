@@ -70,3 +70,46 @@ consistent in throwing curveballs against any strategy tried against them. This
 strategy has been working well in both Bear and Bull markets, and then I put the
 pivoted assets into yield-bearing money markets, so when the markets are flat, 
 I'm earning interest against the assets.
+
+## Close pivots
+
+The above explains, generally, how I open pivots, one asset pivoting against the
+other.
+
+How do I close pivots?
+
+Easy!
+
+I look up how much I make if I trade back from the open pivot.
+
+* If I make a 10% gain, or more, I close the pivot
+* If I don't make a 10% gain or would lose, I keep the pivot open.
+
+Hedges are pivots in the reverse direction, so the same rules apply.
+
+How does this play out in the Markets? Let's walk through a real pivot.
+
+### BTC+ETH pivot
+
+1. On 2025-08-24, I opened a (virtual) ETH-on-BTC pivot, swapping 0.636 $ETH for
+0.02659 $BTC, because the BTC/ETH ratio was below the (red) EMA-20-line, calling
+for a $BTC BUY.
+
+![Open ETH-on-BTC pivot](imgs/arb/03a-open.png)
+
+2. On 2025-09-30, the BTC/ETH ratio swung above the EMA-20 line, and a trade
+of 0.02659 $BTC would give 0.73 $ETH, exceeding a 10% ROI, so [I execute that
+swap](https://snowtrace.io/tx/0x4aeb8fe752dd52d5fb3f3a362cb735ce7c6cf6cc2fdc216f29deabe345373c70), closing the pivot.
+
+![Close ETH-on-BTC pivot](imgs/arb/03b-close.png)
+
+Result:
+
+* actual ROI: 14.70% / 145.04% APR projected 
+
+Great! But: what happened, practically?
+
+I started with 0.636 $ETH, pivoted to $BTC, then ended up with 0.73 $ETH.
+
+Or: pivoting on $BTC I created more $ETH from the $ETH I pivoted.
+
