@@ -194,3 +194,19 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 ![The BTC+AVAX pivot pool composition](imgs/12a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/12b-apport.png) 
 
+## BTC+USDC 
+
+![Close BTC-on-USDC pivots](imgs/13a-close-btc-on-usdc-pivot.png) 
+
+I close 4 BTC-on-USDC pivots for gains of: 
+
+
+* actual ROI: 14.98% / 63.56% APR projected 
+* or: 0.025189 $BTC -> $USDC -> 0.028962 $BTC 
+* or: $387.17 gain on 4 pivots totalling $2,996.22 
+
+![Swap gains to stable](imgs/13b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/13c-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
