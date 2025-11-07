@@ -195,4 +195,98 @@ change the reinvestment option at any time. If they instead choose to receive
 dividends, then the standard mechanic for harvesting yields will be theirs to
 exercise.
 
+Now that we've explained pivot arbitrage – what it is and the mechanics of it –
+let's return to the original question.
+
+## "I'm not selling!"
+
+In the Bitcoin-community, there is the rallying cry of "HODL!" – originally a
+typo, now cooped to mean "HODL On for Dear Life!" – that is: no matter what the
+price-movement of $BTC, don't sell! HODL! HODL On for Dear Life!
+
+That certainly is a valid straegy for a token that always goes up (verses 
+what? in this case, verses the USD).
+
+To show the HODL-strategy, I first looked at $BTC back in November of 2013 when
+it was trading a $200-per (so expensive!). Let's say I buy 5 $BTC and HODL.
+
+![$BTC at $200-per in November, 2013](imgs/arb/01-btc.png)
+
+For my $1,000 investment, my assets today would be worth $505,000. 
+
+That's a Return on Investment (ROI) of 50,000%, annualized to 4,200%.
+
+That's not bad in anyone's book, I'd say.
+
+All investment strategies have their plusses and minus, and the HODL-strategy
+has a weakness in that it doesn not take advantage of $BTC's own price-movement.
+
+Because unlike what was stated before, $BTC is not an up-only asset.
+
+The HODL strategy is not perfect.
+
+What is a perfect strategy?
+
+I'm not going to answer that question, because I hold that strategies can be
+improved over time.
+
+What is a better strategy?
+
+Here we go.
+
+### Pivot Arbitrage
+
+So, how do we take advantage of price-movement of an asset. That's where pivot 
+arbitrage comes in.
+
+The way pivot arbitrage works is to pivot the principal asset (say, $BTC) 
+against the pivot asset (say, $USDC) when the price of the principal asset
+is high, relative to the pivot asset, then, when market conditions reverse a 
+day, a week, a month, a year later, we close the pivot with a trade the other
+way.
+
+Simple enough idea. How does this approach bear out in practice.
+
+Let's look at an example from the [Pivot 
+Protocol](https://pivoteur.github.io/#)'s arbitrage history.
+
+### A BTC-on-USDC pivot example
+
+* On 2025-08-06 and 2025-08-11, I opened two BTC-on-USDC pivots (one an 
+[hedge](https://snowtrace.io/tx/0x88b9f33b8f96c8b7d65295c361f39c980abf35501b2851d36f6b8df91aa41daa),
+the other a [pivot](https://snowtrace.io/tx/0xb617d6dc5c94439693ddd8b358712a5364f8af60424685f5d6ea052b6b2d9a1e)).
+
+![Open BTC-on-USDC hedge](imgs/arb/04a-open-hedge.png)
+![Open BTC-on-USDC pivot](imgs/arb/04b-open-pivot.png)
+
+Then what happened? The $BTC-crash.
+
+* On 2025-11-05, I closed those two pivots (and others) for gains of
+actual ROI: 14.70% / 145.04% APR projected.
+
+![Close BTC-on-USDC pivots](imgs/arb/04c-close.png)
+
+More specifically, I pivoted
+
+* 0.025189 $BTC -> $USDC -> 0.028962 $BTC
+* or: $387.17 gain on 4 pivots totalling $2,996.22
+
+So, instead of HODL'n my (and the investors') $BTC, I pivoted the $BTC *away*
+to $USDC, of all things, anticipating an eventual dip ($BTC does dip from time
+to time) (shocker!), then, when that dip did occur, I swapped back from $USDC,
+buying $BTC at a discount from what I sold it at.
+
+In essence, pivot arbitrage allowed me to 'create' 0.029 $BTC from 0.025 $BTC.
+
+If I had simple HODL'd, I'd have my 0.025 $BTC, ... which is nice, but having
+more $BTC is nicer.
+
+> note: Pivot Arbitrage is not, and never was, a 'backtested theory.' These are 
+actual transactions, recorded on the (Avalanche) Blockchain.
+
+-----
+
+The [Pivot Protocol](https://pivoteur.github.io/#) is currently in
+pre-release α. β release is targeted for end-of-month, November, 2025.
+Production go-live is scheduled for end-of-year, 2025.
 
