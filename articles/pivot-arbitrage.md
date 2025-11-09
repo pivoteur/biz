@@ -289,4 +289,3 @@ actual transactions, recorded on the (Avalanche) Blockchain.
 The [Pivot Protocol](https://pivoteur.github.io/#) is currently in
 pre-release α. β release is targeted for end-of-month, November, 2025.
 Production go-live is scheduled for end-of-year, 2025.
-
