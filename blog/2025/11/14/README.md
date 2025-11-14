@@ -50,3 +50,29 @@ I swap 243000 $UNDEAD for:
 
 Winner: @LFJ_gg (26-day streak) 
 
+# Liquidity Pools 
+
+
+
+
+
+* I harvest the yields from the LPs on @BlackholeDex and @Uniswap; the LPs have reached parity. 
+
+![Claim Blackhole LP yields](imgs/04a-blackhole-claim.png) 
+![Claim Uniswap LP yields](imgs/04b-uniswap-claim.png) 
+
+* swap the yields to $AVAX 
+
+![Swap yields to USDC](imgs/04c-swap.png) 
+![Swap yields to AVAX](imgs/04d-swap.png) 
+
+
+
+
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/05a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/05b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
