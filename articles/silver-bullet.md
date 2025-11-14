@@ -38,7 +38,7 @@ What are these characteristics?
 
 * stable pivot pools: capture gains and protect against principal asset loss, but underperforms the markets against just the principal asset only.
 
-![BTC+protocol asset pivot pool](imts/silver/02c-protocol.png)
+![BTC+protocol asset pivot pool](imgs/silver/02c-protocol.png)
 
 * protocol pivot pools (e.g. AVAX or HBAR or UNDEAD pivot pools): high 
 volatility, high risk, high return.
