@@ -48,3 +48,14 @@ Future work notwithstanding, I am rolling out `chihuahua` into my daily pivot
 arbitrage workflow, starting today, anticipating saving hours each day in my 
 daily operations and maintence of the Pivot Protocol.
 
+# PIVOTS
+
+Okay, so! Let's use the automation of the chihuahua dapp to help with pivot 
+arbitrage.
+
+![`chihuahua` runs](imgs/01-chihuahua.png)
+
+The runs on BTC+ETH and BTC+AVAX pivot pools have no recommended close pivots, 
+but the BTC+USDC pivot pools has 8 close pivot calls.
+
+Let's look at those recommendations.
