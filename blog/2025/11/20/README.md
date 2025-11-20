@@ -18,3 +18,10 @@ AND we closed a pivot!
 
 ![Moe, Moe, Kyuu!](imgs/02-moe-moe.png)
 
+## Checksum
+
+To this end, that end being 'self-policing,' I've added checksums to the automated recommendations, so that I can quickly check that the internal Rust-model is the same as the active pivots I have on the pivot pool being analyzed.
+
+![Embedded checksums](imgs/03-checksum.png)
+
+Still very manual, but a step toward automation.
