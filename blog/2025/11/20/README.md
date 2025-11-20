@@ -25,3 +25,20 @@ To this end, that end being 'self-policing,' I've added checksums to the automat
 ![Embedded checksums](imgs/03-checksum.png)
 
 Still very manual, but a step toward automation.
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-11-20 
+
+![BLACK price chart](imgs/04a-black.png) Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/04b-vote.png) 
+![Vote for $UNDEAD LPs](imgs/04c-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) 
+
+#IVotedForUNDEAD 
+
