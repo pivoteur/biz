@@ -59,3 +59,17 @@ The runs on BTC+ETH and BTC+AVAX pivot pools have no recommended close pivots,
 but the BTC+USDC pivot pools has 8 close pivot calls.
 
 Let's look at those recommendations.
+
+## BTC+USDC
+
+Doing the first "semi-automated" close pivot on the BTC+USDC pivot pool was educational.
+
+The repository was out-of-synch with the pool's pivots, so I 'over-pivoted' assets which I had to trade back.
+
+![Overswap to close BTC-on-USDC hedges](imgs/03a-overtrade.png)
+![Swap back over-traded USDC](imgs/03b-trade-back.png)
+
+Overall, a good pivot!
+
+* actual ROI: 20.27% / 102.05% APR projected
+
