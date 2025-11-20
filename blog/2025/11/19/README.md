@@ -89,3 +89,30 @@ The answer turned out to be yes with one more pivot:
 
 I swap to stable to distribute to stakers and reinvest gained $BTC for other stakers.
 
+## Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/05a-ratio.png) 
+![Negative δ](imgs/05b-delta.png) 
+
+The negative δ calls to open an USDC-on-BTC pivot, which I do. 
+
+![Open USDC pivot](imgs/05c-open-usdc-pivot.png) 
+
+I also open an BTC-on-USDC hedge. 
+
+![Open BTC hedge](imgs/05d-open-btc-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/06a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/06b-apport.png) 
+
