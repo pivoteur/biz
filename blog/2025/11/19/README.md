@@ -73,3 +73,19 @@ Overall, a good pivot!
 
 * actual ROI: 20.27% / 102.05% APR projected
 
+### Automation missed close pivot call
+
+But this 'out-of-synch' repository got me thinking: did I miss an open pivot that I could close?
+
+The answer turned out to be yes with one more pivot:
+
+![Missed close BTC-on-USDC hedge](imgs/04a-missed-hedge.png)
+![Close BTC-on-USDC hedge](imgs/04b-close-btc-on-usdc-hedge.png)
+
+* actual ROI: 10% / 262.37% APR projected 
+
+![Swap gains to stable](imgs/04c-swap.png)
+![Distribute and reinvest gaines](imgs/04d-sned.png)
+
+I swap to stable to distribute to stakers and reinvest gained $BTC for other stakers.
+
