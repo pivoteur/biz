@@ -61,3 +61,24 @@ Which way, pivoteurs?
 
 
 
+# DEX UNDEAD/USDC-swap Race 
+
+Same swap; 3 DEX, 2025-11-20 
+
+I swap 261000 $UNDEAD for: 
+
+1. 471.99 $USDC on @BlackholeDex 
+
+![UNDEAD/USDC swap on Blackhole](imgs/06a-blackhole.png) 
+
+2. 482.46 $USDC on @KyberNetwork 
+
+![UNDEAD/USDC swap on Kyber](imgs/06b-kyber.png) 
+
+3. 482.71 $USDC on @LFJ_gg 💥 
+
+![UNDEAD/USDC swap on LFJ](imgs/06c-lfj.png) 
+
+
+Winner: @LFJ_gg (32-day streak) 
+
