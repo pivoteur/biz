@@ -29,9 +29,9 @@ Okay, now I have two directions for future work:
 
 Which way, pivoteurs? 
 
-![DIY++ chart](imgs/05a-diy.png) 
-![$ETH chart](imgs/05b-eth.png) 
-![$USDC chart](imgs/05c-usdc.png) 
+![DIY++ chart](imgs/03a-diy.png) 
+![$ETH chart](imgs/03b-eth.png) 
+![$USDC chart](imgs/03c-usdc.png) 
 
 - [ ] $ETH 
 - [ ] $USDC 
