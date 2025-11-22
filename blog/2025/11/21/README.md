@@ -50,3 +50,13 @@ Some people panic when The Dip™️hits.
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# Vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/05a-swap.png) 
+
+* I send this $BTC.b to the vault 
+
+![Send BTC to vault](imgs/05b-sned-btc.png) 
+
