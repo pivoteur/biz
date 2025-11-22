@@ -106,3 +106,16 @@ The BTC+ETH pivot pool composition and γ-apportionment are as charted.
 ![The BTC+ETH pivot pool composition](imgs/08a-comp.png) 
 ![The BTC+ETH pivot pool γ-apportionment](imgs/08b-apport.png) 
 
+## BTC+AVAX
+
+Automation, besides showing which pivots to close (and why), also shows when no pivots are candidates for closing.
+
+![No close pivots for BTC+AVAX](imgs/09-no-closes-btc-avax.png)
+
+Which is nice.
+
+# Au revoir
+
+8:00 AM (ET) means it's the start of a new work-day for me, ... but after a nap.
+
+G'nite! ... sorta. 😅😴
