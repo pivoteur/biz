@@ -40,3 +40,6 @@ Which way, pivoteurs?
 
 *yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=ETH&t2=USDC). 😎 
 
+Some people panic when The Dip™️hits.
+Me? I smell opportunity, ... and get to WORK!
+
