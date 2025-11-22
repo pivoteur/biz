@@ -60,3 +60,22 @@ The Blackhole and Uniswap $UNDEAD LPs are as shown.
 
 ![Send BTC to vault](imgs/05b-sned-btc.png) 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+![Automation calls](imgs/06a-automation.png) 
+![Close ETH-on-BTC pivots](imgs/06b-close-eth-on-btc-pivot.png) 
+
+Automation calls to close 2 ETH-on-BTC pivots (which I manually confirm) for gains of: 
+
+
+* actual ROI: 12.28% / 70.02% APR projected 
+* or: 0.844200 $ETH -> $BTC -> 0.947774 $ETH 
+* or: $283.22 gain on 2 pivots totalling $3,569.89 
+
+
+![Distribute gains to stakers](imgs/06c-dist-gains.png) 
+
+I reinvest the gains or distribute 80% to stakers. 
+
