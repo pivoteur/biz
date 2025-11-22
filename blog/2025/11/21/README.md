@@ -43,3 +43,10 @@ Which way, pivoteurs?
 Some people panic when The Dip™️hits.
 <br/>Me? I smell opportunity, ... and get to WORK!
 
+# Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/04a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/04b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
