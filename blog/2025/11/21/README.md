@@ -20,3 +20,23 @@ Okay, now I have two directions for future work:
 
 2. Automagically interate over all pivot pools to make a daily recommendation en masse, collating all assets to pivot.
 
+... but before this coder gets carried away doing his favorite thing (spoiler: coding), let's do the daily workflow.
+
+
+# Pivot Arbitrage 
+
+2025-11-21 Good day! 
+
+Which way, pivoteurs? 
+
+![DIY++ chart](imgs/05a-diy.png) 
+![$ETH chart](imgs/05b-eth.png) 
+![$USDC chart](imgs/05c-usdc.png) 
+
+- [ ] $ETH 
+- [ ] $USDC 
+- [ ] both 
+- [ ] Can you do the pivot arbitrage for me, al geophf?* 
+
+*yes. [Yes, I can](https://pivoteur.github.io/diy.html?t1=ETH&t2=USDC). 😎 
+
