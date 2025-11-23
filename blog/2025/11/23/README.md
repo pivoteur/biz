@@ -58,8 +58,6 @@ The BTC+ETH pivot pool composition and γ-apportionment are as charted.
 ![The BTC+ETH pivot pool composition](imgs/03a-comp.png) 
 ![The BTC+ETH pivot pool γ-apportionment](imgs/03b-apport.png) 
 
-# PIVOTS 
-
 ## BTC+AVAX 
 
 * There are 7 open pivots for the BTC+AVAX pivot pool. 
