@@ -19,3 +19,15 @@ I swap 3000 $HBAR for:
 
 Winner: @SaucerSwapLabs 💥 New title-holder! 
 
+> Today is the first day where we do the DEX-race on @hedera. 
+
+# PIVOTS 
+
+## BTC+ETH 
+
+* There are 30 open pivots for the BTC+ETH pivot pool. 
+* The last entry is on 2025-11-22. 
+* Recommendations are made for token quotes on 2025-11-23. 
+
+> No close pivot recommendations for BTC+ETH pivot pool. 
+
