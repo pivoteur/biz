@@ -93,3 +93,38 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 ![The BTC+AVAX pivot pool composition](imgs/05a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+## BTC+USDC 
+
+* There are 10 open pivots for the BTC+USDC pivot pool. 
+* The last entry is on 2025-11-20. 
+* Recommendations are made for token quotes on 2025-11-23. 
+
+> No close pivot recommendations for BTC+USDC pivot pool. 
+
+## Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/06a-ratio.png) 
+![Negative δ](imgs/06b-delta.png) 
+
+The negative δ calls to open an USDC-on-BTC pivot, which I do. 
+
+![Open USDC pivot](imgs/06c-open-usdc-pivot.png) 
+
+I also open an BTC-on-USDC hedge. 
+
+![Open BTC hedge](imgs/06d-open-btc-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/07a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/07b-apport.png) 
+
