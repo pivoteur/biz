@@ -137,3 +137,35 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 > No close pivot recommendations for BTC+UNDEAD pivot pool. 
 
 I DID do open pivots for BTC+UNDEAD, but my eyes are closing, so I'll record and report those data tomorrow.
+## Open BTC+UNDEAD pivots 
+
+![BTC+UNDEAD Ratio](imgs/08a-ratio.png) 
+![Middling δ](imgs/08b-delta.png) 
+
+The meh δ makes no call, but I open an BTC-on-UNDEAD pivot, anyway. 
+
+![Open BTC pivot](imgs/08c-open-btc-pivot.png) 
+
+I also open an UNDEAD-on-BTC pivot. 
+
+![Open UNDEAD pivot](imgs/08d-open-undead-pivot.png) 
+
+
+
+
+
+
+
+
+
+
+The BTC+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+UNDEAD pivot pool composition](imgs/09a-comp.png) 
+![The BTC+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+
+# Conclusion
+
+Will TODAY's pivots go faster?
+
+Theoretically, yes. Let's see how that turns out in practice, ... but after lunchage!
