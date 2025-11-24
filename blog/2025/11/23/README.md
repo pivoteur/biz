@@ -128,3 +128,12 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 ![The BTC+USDC pivot pool composition](imgs/07a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/07b-apport.png) 
 
+## BTC+UNDEAD 
+
+* There are 14 open pivots for the BTC+UNDEAD pivot pool. 
+* The last entry is on 2025-10-21. 
+* Recommendations are made for token quotes on 2025-11-23. 
+
+> No close pivot recommendations for BTC+UNDEAD pivot pool. 
+
+I DID do open pivots for BTC+UNDEAD, but my eyes are closing, so I'll record and report those data tomorrow.
