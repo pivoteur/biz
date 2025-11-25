@@ -9,8 +9,6 @@ I know of three ways to move liquidity from @avax to @hedera:
 
 ### SimpleSwap
 
-I know of three ways to move liquidity from @avax to @hedera:
-
 1. @avax $USDC -> @hedera $HBAR using @SimpleSwap_io, which has its own bridge, with its own associated (invisible) fees that show up as less $HBAR received.
 
 ![Bridge liquidity using SimpleSwap](imgs/01-simple.png)
@@ -37,5 +35,30 @@ Then, swap to $HBAR using either:
 
 ![HSuite](imgs/02d-hsuite.png)
 
-(102 $HBAR less!)
+(102 $HBAR less! or a $19 hit!)
+
+### Coinbase
+
+3. via @coinbase: @avax $USDC -> @coinbase swap to $HBAR
+
+![Send $USDC to Coinbase from Avalanche](imgs/03a-send-from-avax.png)
+![Swap to HBAR](imgs/03b-coinbase.png)
+
+1,000 $USDC -> 6,827 $HBAR
+
+### Recap
+
+But it's been hours since the last set of swaps, so the revised swaps are now:
+
+* Saucer: -> 6,823.12
+
+![Saucer swap](imgs/03c-saucer-update.png)
+
+* Simple: -> 6,806.38
+
+![Simple swap-and-bridge](imgs/03d-simple-update.png)
+
+* and coinbase, as you see: -> 6,827
+
+Coinbase is the winner.
 
