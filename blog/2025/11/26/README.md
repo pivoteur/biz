@@ -61,3 +61,8 @@ Once there (nearly instantanious), I swap to $BTC and $ETH.
 
 BTC+ETH pivots are now on @hedera.
 
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/06a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/06b-apport.png) 
+
