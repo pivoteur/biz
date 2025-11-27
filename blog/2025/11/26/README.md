@@ -59,6 +59,10 @@ Once there (nearly instantanious), I swap to $BTC and $ETH.
 ![Swap to BTC](imgs/04c-btc.png)
 ![Swap to ETH](imgs/04d-eth.png)
 
+The BTC-on-ETH and ETH-on-BTC pivots that are now on @hedera are marked with a gray highlight in the open-pivot log.
+
+![Gray highlights for pivots on Hedera](imgs/05-gray.png)
+
 BTC+ETH pivots are now on @hedera.
 
 The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
