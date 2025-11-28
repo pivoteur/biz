@@ -37,3 +37,14 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 The Blackhole and Uniswap $UNDEAD LPs are as shown. 
 
+# Vault 
+
+* I swap some accumulated $AVAX to $BTC.b 
+
+![Swap to $BTC](imgs/04a-swap.png) 
+
+* I send this $BTC.b and $UNDEAD accumulated from the LP-yields on Uniswap to the vault 
+
+![Send BTC to vault](imgs/04b-sned-btc.png) 
+![Send UNDEAD to vault](imgs/04c-sned-undead.png) 
+
