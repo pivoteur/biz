@@ -30,3 +30,10 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 ![Swap yields to AVAX](imgs/02d-swap.png) 
 
+## Liquidity Pool Positions 
+
+![Blackhole UNDEAD LPs](imgs/03a-blackhole-lps.png) 
+![Uniswap UNDEAD LPs](imgs/03b-uniswap-lps.png) 
+
+The Blackhole and Uniswap $UNDEAD LPs are as shown. 
+
