@@ -1,5 +1,7 @@
 # Articles
 
+* 2025-11-29: [Gradually transitioning](transition.md) very disparate assets 
+across blockchains
 * 2025-11-05: [Is "I'm not selling!" a good strategy?](pivot-arbitrage.md)
 * 2024-11-17: [Precomputing pivot gains distributions](distributions.md)
 * 2024-11-10: [Funding new pivot-pools](funding-pools.md)
