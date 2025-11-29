@@ -34,7 +34,8 @@ is preexisting with entrenched open pivots.
 ![BTC+AVAX open pivots](imgs/trans/02-open-pivots.png)
 
 To close those pivots now would 
-incur a loss, and I can 'lateral' those open pivots to their new home on Hedera.
+incur a loss, and, given what's stated above, I can't 'lateral' those open 
+pivots to their new home on Hedera.
 
 
 
@@ -48,7 +49,7 @@ ratios for BTC+AVAX and BTC+HBAR, ...
 ![BTC+AVAX ratio](imgs/trans/03a-btc-avax.png)
 ![BTC+HBAR ratio](imgs/trans/03b-btc-hbar.png)
 
-... you see that they are the same, that is 
+... you see that they are similar, that is:
 'meh,' meaning that a pivot I open now for either start at the same place on 
 their respective charts.
 
@@ -56,8 +57,8 @@ their respective charts.
 
 My plan of attack for this transition is to open new pivots on Hedera and 
 sunset the BTC+AVAX pivot pool as I close the open pivots on Avalanche, 
-gradually moving liquidity from open blockchain to they other with minimal 
-impact, as the liquidity moves, the investors' apportionments also transition 
+gradually moving liquidity from one blockchain to the other with minimal 
+impact. As the liquidity moves, the investors' apportionments also transition 
 from the old to the new pivot pool.
 
 
