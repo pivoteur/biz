@@ -29,8 +29,8 @@ nothing alike.
 ![AVAX chart](imgs/trans/01b-avax.png)
 ![HBAR chart](imgs/trans/01c-hbar.png)
 
-That's one problem. The next problem is that the existing BTC+AVAX pivot pool 
-is preexisting with entrenched open pivots. 
+That's one problem. The next problem is that the BTC+AVAX pivot pool 
+is preexisting on Avalanche with entrenched open pivots. 
 
 ![BTC+AVAX open pivots](imgs/trans/02-open-pivots.png)
 
