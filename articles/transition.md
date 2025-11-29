@@ -13,7 +13,8 @@ How does that work?
 
 Well, for things that translate 1-to-1, the transition isn't that hard to 
 figure out. Case-in-point: I now have 4 pivots, equivalent to $20k, from the 
-BTC+ETH pivot pool. BTC and ETH are the same across chains. A similar 
+BTC+ETH pivot pool moved from Avalanche, established now on Hedera. BTC and ETH 
+are the same across chains. A similar 
 transition will occur for the BTC+USDC pivot pool, as USDC, the USD 
 cryptocurrency, is practically universal.
 
