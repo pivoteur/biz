@@ -57,7 +57,7 @@ their respective charts.
 
 
 My plan of attack for this transition is to open new pivots on Hedera and 
-sunset the BTC+AVAX pivot pool as I close the open pivots on Avalanche, 
+to sunset the BTC+AVAX pivot pool as I close the open pivots on Avalanche, 
 gradually moving liquidity from one blockchain to the other with minimal 
 impact. As the liquidity moves, the investors' apportionments also transition 
 from the old to the new pivot pool.
