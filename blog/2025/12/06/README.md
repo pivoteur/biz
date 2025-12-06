@@ -27,3 +27,10 @@ I run `hound` against the open pivots and it comes up with three recommendations
 
 So! Work to be done! I'll go through EVERY pivot pool and add blockchain info
 
+## Human-readable `hound`-runoff 
+
+BTW, the `hound`-runoff is CSV so is human-readable from a spreadsheet.
+
+![`hound`-report](imgs/03-tabled.png)
+
+Here's what the output looks like, cleaned-up.
