@@ -34,3 +34,20 @@ BTW, the `hound`-runoff is CSV so is human-readable from a spreadsheet.
 ![`hound`-report](imgs/03-tabled.png)
 
 Here's what the output looks like, cleaned-up.
+# Vote for $UNDEAD LPs on Blackhole 
+
+2025-12-06 
+
+![BLACK price chart](imgs/05a-black.png) Good day, pivoteurs! 
+
+A new day; a new Epoch on @BlackholeDex. 
+
+Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD liquidity pools on that DEX. 
+
+![Blackhole DEX voting page](imgs/05b-vote.png) 
+![Vote for $UNDEAD LPs](imgs/05c-voted.png) 
+
+[HOWTO vote instructions](https://x.com/pivocateur/status/1945637734682341791) 
+
+#IVotedForUNDEAD 
+
