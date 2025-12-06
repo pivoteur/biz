@@ -15,3 +15,15 @@ GET TO WORK!
 
 Today's quotes for tokens pivoted: collected! ✅
 
+# Step 2: wulf, jr (`hound`, actually)
+
+![`hound` recommendations](imgs/02-hound.png)
+
+I run `hound` against the open pivots and it comes up with three recommendations:
+
+* BTC+UNDEAD (on Avalanche)
+* HBAR+USDC (on Hedera)
+* UNDEAD+USDC (on Avalanche)
+
+So! Work to be done! I'll go through EVERY pivot pool and add blockchain info
+
