@@ -34,6 +34,17 @@ BTW, the `hound`-runoff is CSV so is human-readable from a spreadsheet.
 ![`hound`-report](imgs/03-tabled.png)
 
 Here's what the output looks like, cleaned-up.
+
+## Lunchage
+
+I'll be getting to pivot arbitrage, but after LUNCHAGE at Kajiken! I'm thinking 
+the Sukiyaki today. 
+
+![Sukiyaki](imgs/04-sukiyaki.png)
+
+kthxbai!
+
+
 # Vote for $UNDEAD LPs on Blackhole 
 
 2025-12-06 
