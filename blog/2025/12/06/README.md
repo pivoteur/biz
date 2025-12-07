@@ -49,3 +49,71 @@ Reminder to go [vote](https://blackhole.xyz/vote) for the @UndeadBlocks $UNDEAD 
 
 #IVotedForUNDEAD 
 
+# PIVOTS 
+
+## BTC+ETH 
+
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+## Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/06a-ratio.png) 
+![Middling δ](imgs/06b-delta.png) 
+
+The meh δ makes no call, but I open an BTC-on-ETH pivot, anyway. 
+
+![Open BTC pivot](imgs/06c-open-btc-pivot.png) 
+
+I also open an ETH-on-BTC pivot. 
+
+![Open ETH pivot](imgs/06d-open-eth-pivot.png) 
+
+
+
+
+
+
+
+
+
+
+
+### Move pivots to Hedera 
+
+* I swap 0.0554 BTC to USDC 
+
+
+
+* I swap 1.1376 ETH to USDC. 
+
+
+![Send to Coinbase](imgs/07a-sned.png) 
+![Swap to HBAR](imgs/07b-swap-to-hbar.png) 
+
+and bridge that liquidity to Hedera as HBAR, where I swap back to BTC and ETH 
+
+![Swap to BTC](imgs/07c-swap-to-btc.png) 
+![Swap to ETH](imgs/07d-swap-to-eth.png) 
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/08a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/08b-apport.png) 
+
+You see that the assets' blockchains are now part of the pool's composition-data.
+
+
