@@ -2,7 +2,7 @@
 
 We present an evolution in pivot arbitrage automation:
 
-`hound` version 1.03
+> `hound` version 1.03
 
 ![Compact reportage of close pivots](imgs/01-automation.png)
 
