@@ -1,5 +1,7 @@
 # Articles
 
+* 2025-12-13: [Does Pivot Arbitrage Work?](work.md) ... yes. Yes, it does.
+* 2025-12-10: [Pivot Protocol is now Multichain](multichain.md)
 * 2025-11-29: [Gradually transitioning](transition.md) very disparate assets 
 across blockchains
 * 2025-11-05: [Is "I'm not selling!" a good strategy?](pivot-arbitrage.md)
