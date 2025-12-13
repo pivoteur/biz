@@ -11,16 +11,13 @@ The benefits of Pivot Arbitrage are a two-edged sword:
 
 
 1. It benefits the arbiteur in profits exceeding other investment-approaches, for: if it didn't, the arbiteur would look elsewhere to achieve financial goals.
-
-
-
 2. It benefits the arbitraged asset.
 
 
 
 A sword is an useful tool: otherwise, it wouldn't exist.
 
-
+## Benefit to arbiteur
 
 Proving 1. is easy: simply audit each and every pivot-trade, then compare the audited results against other investment approaches.
 
@@ -57,8 +54,9 @@ But how are the arbitraged assets doing?
 Again, that's simple to prove, and I now have the proof.
 
 
+## Benefit to arbitraged asset
 
-## Case study: $UNDEAD
+### Case study: $UNDEAD
 
 
 
@@ -66,7 +64,7 @@ $UNDEAD, this past while, has been floating around 0.14¢ (Yes. You read that pr
 
 
 
-Yesterday, I executed 9 trades to close a $4.5k UNDEAD+USDC pivot.
+Yesterday, I executed 9 trades to close a $4.5k UNDEAD+USDC pivot, trade reported [here](https://x.com/pivocateur/status/1999770963324657992).
 
 
 
