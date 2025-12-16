@@ -8,13 +8,13 @@ Some interesting pivots available today. I'll start with @hedera.
 ## HBAR+USDC 
 
 
-![Close USDC-on-HBAR pivot](imgs/02a-close-usdc-on-hbar-pivot.png) 
+![Close HBAR-on-USDC pivot](imgs/02a-close-hbar-on-usdc-pivot.png) 
 
-Automation calls to close 1 USDC-on-HBAR pivot (which I manually confirm) for gains of: 
+Automation calls to close 1 HBAR-on-USDC pivot (which I manually confirm) for gains of: 
 
 
 * actual ROI: 69.43% / 550.89% APR projected 
-* or: 2569 $USDC -> $HBAR -> 4371 $USDC 
+* or: 2569 $HBAR -> $USDC -> 4371 $HBAR 
 * or: $211.00 gain on a pivot totalling $496.00 
 
 
