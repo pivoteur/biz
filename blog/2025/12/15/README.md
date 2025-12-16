@@ -22,3 +22,48 @@ Automation calls to close 1 HBAR-on-USDC pivot (which I manually confirm) for ga
 
 I reinvest the gains or distribute 80% to stakers. 
 
+## Open HBAR+USDC pivots 
+
+![HBAR+USDC Ratio](imgs/03a-ratio.png) 
+![Negative δ](imgs/03b-delta.png) 
+
+The negative δ calls to open an USDC-on-HBAR pivot, which I do. 
+
+![Open USDC pivot](imgs/03c-open-usdc-pivot.png) 
+
+I also open an HBAR-on-USDC hedge. 
+
+![Open HBAR hedge](imgs/03d-open-hbar-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The HBAR+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The HBAR+USDC pivot pool composition](imgs/04a-comp.png) 
+![The HBAR+USDC pivot pool γ-apportionment](imgs/04b-apport.png) 
+
