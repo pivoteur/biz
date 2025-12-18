@@ -7,3 +7,11 @@ I've upgraded `hound` to `phound` to reflect the new app takes a different input
 ![`phound`-report](imgs/01-phound.png)
 
 We have three close-pivot opportunities today. Let's look. 
+
+## the Fallout
+
+... AAANDDDDD! a massive headache put me OOC for today. I guess I forgot to write:
+
+انشاالل
+
+in my last post. 🙄🤕
