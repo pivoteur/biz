@@ -42,3 +42,17 @@ Automation calls to close 1 HBAR-on-BTC hedge (which I manually confirm) for gai
 
 I reinvest or distribute the gains. 
 
+### Move pivots to Hedera 
+
+* I swap 0.0227 BTC to USDC 
+
+![Swap BTC to USDC](imgs/04a-swap-btc.png) 
+
+* I swap 327 AVAX to USDC. 
+
+![Swap AVAX to USDC](imgs/04b-swap-avax.png) 
+![Send to Coinbase](imgs/04a-sned.png) 
+![Swap to HBAR](imgs/04b-swap-to-hbar.png) 
+
+and bridge that liquidity to Hedera as HBAR, where I swap back to BTC 
+
