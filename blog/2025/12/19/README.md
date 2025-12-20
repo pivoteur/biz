@@ -25,3 +25,20 @@ I also open an AVAX-on-BTC hedge.
 
 ![Open AVAX hedge](imgs/02d-open-avax-hedge.png) 
 
+## BTC+HBAR 
+
+
+![Close HBAR-on-BTC hedge](imgs/03a-close-hbar-on-btc-hedge.png) 
+
+Automation calls to close 1 HBAR-on-BTC hedge (which I manually confirm) for gains of: 
+
+
+* actual ROI: 14.95% / 454.62% APR projected 
+* or: 18506 $HBAR -> $BTC -> 21270 $HBAR 
+* or: $303.76 gain on a hedge totalling $2,468.70 
+
+
+![Distribute gains to stakers](imgs/03b-dist-gains.png) 
+
+I reinvest or distribute the gains. 
+
