@@ -56,3 +56,13 @@ I reinvest or distribute the gains.
 
 and bridge that liquidity to Hedera as HBAR, where I swap back to BTC 
 
+## BTC+AVAX finalization
+
+... which finally brings us back around to the BTC+AVAX pivot pool.
+
+The BTC+AVAX pivot pool composition and γ-apportionment are as charted, adjusted for liquidity moved to @hedera. 
+
+
+![The BTC+AVAX pivot pool composition](imgs/07a-comp.png) 
+![The BTC+AVAX pivot pool γ-apportionment](imgs/07b-apport.png) 
+
