@@ -51,8 +51,8 @@ I reinvest or distribute the gains.
 * I swap 327 AVAX to USDC. 
 
 ![Swap AVAX to USDC](imgs/04b-swap-avax.png) 
-![Send to Coinbase](imgs/04a-sned.png) 
-![Swap to HBAR](imgs/04b-swap-to-hbar.png) 
+![Send to Coinbase](imgs/04c-sned.png) 
+![Swap to HBAR](imgs/04d-swap-to-hbar.png) 
 
 and bridge that liquidity to Hedera as HBAR, where I swap back to BTC 
 
