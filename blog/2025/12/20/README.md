@@ -2,6 +2,8 @@
 
 Good morning, pivoteur!
 
+## Development Update: open-pivots automation
+
 The [first step in open-pivot automation](https://github.com/pivoteur/protocol/tree/open-pivots/quizzes/quiz06/a_pool_table): 
 reading the pivot pool assets...
 
@@ -9,4 +11,12 @@ reading the pivot pool assets...
 
 ... looking toward determining asset-state of committed to pivots or available 
 for pivoting.
+
+## Close pivot calls
+
+... speaking of automation.
+
+![`dusk`-report](imgs/02-dusk.png)
+
+`dusk` calls to close 2 smallish pivots. 
 
