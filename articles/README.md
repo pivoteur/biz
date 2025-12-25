@@ -1,5 +1,6 @@
 # Articles
 
+* 2025-12-25: [End of year, 2025, report](xmas.md)
 * 2025-12-13: [Does Pivot Arbitrage Work?](work.md) ... yes. Yes, it does.
 * 2025-12-10: [Pivot Protocol is now Multichain](multichain.md)
 * 2025-11-29: [Gradually transitioning](transition.md) very disparate assets 

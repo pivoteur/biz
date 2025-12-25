@@ -12,7 +12,7 @@ The Pivot Protocol has a Christmas gift For our $UNDEAD investors: $UNDEAD gains
 from a close UNDEAD-on-BTC pivot! (tweet: 
 https://x.com/pivocateur/status/2004196407612408033)
 
-![UNDEAD-on-BTC close pivot](imgs/01-undead-yields.png)
+![UNDEAD-on-BTC close pivot](imgs/xmas/01-undead-yields.png)
 
 Besides pivot-gains, which, to be fair, is the raison d'être for the protocol,
 we have much to look forward to in the coming year. Let's take a look as to
@@ -23,7 +23,7 @@ what's cooking.
 As the 2025 year closes, we are just going to squeak in with a Protocol-launch
 on the Hedera HashGraph (blockchain). *whew!*
 
-![Protocol Token-assets](imgs/02a-tokens.png)
+![Protocol Token-assets](imgs/xmas/02a-tokens.png)
 
 What does this mean for the Protocol and its investors?
 
@@ -49,14 +49,14 @@ I can make $BTC off my $UNDEAD? Huh!" Some of those gamers will convert to
 investors into the Pivot Protocol, benefiting the protocol and the $UNDEAD
 token.
 
-![Protocol TVL](imgs/02b-tvl.png)
+![Protocol TVL](imgs/xmas/02b-tvl.png)
 
 Pivot Protoocol TVL growth due to the above points translates into more pivot
 pools, more pivots, and larger pivots, at that. This directly benefits stakers
 who, going forward, will be receiving yields more often, and yields of larger
 amounts as the size of the pivots grow.
 
-![Pivot pools](imgs/03-pivot-pools.png)
+![Pivot pools](imgs/xmas/03-pivot-pools.png)
 
 -----
 
