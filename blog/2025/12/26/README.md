@@ -11,3 +11,8 @@ Time to make 'no close pivots' explicit.
 
 Time for a `dusk`-revision.
 
+!["no close pivots" reported explicitly](imgs/02-no-close-pivots.png)
+
+* "no close pivots": 
+[done](https://github.com/pivoteur/protocol/tree/main/dapps/dusk). ✅ 
+
