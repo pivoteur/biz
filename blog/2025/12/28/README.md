@@ -8,7 +8,7 @@
 
 ![`dusk` needs token-aliasing](imgs/02-aliases.png)
 
-So: I need to backpropagate aliases from `assets` to dusk. 
+So: I need to backpropagate aliases from `assets` to `dusk`. 
 
 # TODOs
 
