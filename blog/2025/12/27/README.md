@@ -12,14 +12,20 @@ I'll continue working on open-pivots automation today.
 
 # Development
 
-"I did some work today"* and got `assets` running. 
+"I did some work today"[1](#note-1) and got `assets` running. 
 
 ![Very first `assets`-report](imgs/02-assets.png)
 
 With `assets` I now have a 
 snapshot of the protocol's pivot pools, partitioned by TVL.
 
-*"I did some work today" eheh. Well: yeah. Duh. 🙄 It's not like it's Christmas, or anything.**
+## Notes
 
-**it actually is the Octave of Christmas.
+### Note 1
+
+"I did some work today" eheh. Well: yeah. Duh. 🙄 It's not like it's Christmas, or anything.[2](#note-2)
+
+### Note 2
+
+It actually is the Octave of Christmas.
 
