@@ -25,3 +25,15 @@ There may be a way to transliterate BTC+AVAX to BTC+HBAR if $AVAX and $HBAR
 share ratio-characteristics when the pivots were opened: I'll investigate this 
 possibility.
 
+# AUTOMATION ANNOUNCEMENT
+
+I've released a new revision of 
+[`dusk`](https://github.com/pivoteur/protocol/tree/main/dapps/dusk), 
+version 1.08:
+
+![`dusk` revision compacting report and handling wrapped tokens and 
+synthetics](imgs/04-dusk-revision.png)
+
+* it now aliases tokens, meaning that it handles synthetics and wrapped tokens
+* it compacts no-close-calls pivot pools, reducing the size of the report. 
+
