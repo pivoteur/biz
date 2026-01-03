@@ -33,3 +33,16 @@ Automation calls to close 1 BTC-on-AVAX pivot (which I manually confirm) for gai
 
 I reinvest and distribute the gains. 
 
+# Bridge BTC
+
+Instead of opening new BTC+AVAX pivots, I take the uncommitted $BTC for this pool, create an @avax core wallet, send 1 $AVAX and the $BTC to it.
+
+![Send $AVAX to Avalanche Core Wallet](imgs/03a-avax.png)
+![Send $BTC to Avalanche Core Wallet](imgs/03b-btc.png)
+
+I bridge $BTC to Bitcoin, with an eye to bridge that $BTC to @hedera.
+
+![Bridge $BTC to Bitcoin](imgs/03c-bridge.png)
+
+See you when the bridge is confirmed in 8-or-so hours.
+
