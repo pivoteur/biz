@@ -61,3 +61,9 @@ How do I bridge my $WBTC from @ethereum to @hedera?
 
 Much obliged. 
 
+For context @HashportNetwork, your own metrics have $WBTC with the same contract address 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599 listed as one of the tokens you have. 
+
+![WBTC contract tracted on hashport](imgs/05-wbtc-contract.png)
+
+What gives? 
+
