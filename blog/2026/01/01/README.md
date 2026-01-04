@@ -46,3 +46,18 @@ I bridge $BTC to Bitcoin, with an eye to bridge that $BTC to @hedera.
 
 See you when the bridge is confirmed in 8-or-so hours.
 
+# No Joy bridging BTC using hashport
+
+Dear @HashportNetwork,
+
+I'm trying to bridge $WBTC from @ethereum to @hedera.
+
+Your UX shows my $WBTC balance correctly, but it says $WBTC does not exist. So, I enter the contract address. Still no joy.
+
+![Fails to bridge $WBTC from Ethereum](imgs/04a-no-joy-1.png)
+![Fails to recognize $WBTC on Ethereum](imgs/04b-no-joy-2.png)
+
+How do I bridge my $WBTC from @ethereum to @hedera?
+
+Much obliged. 
+
