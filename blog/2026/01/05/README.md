@@ -30,7 +30,7 @@ I reinvested all gains.
 
 The positive δ calls to open an -on- pivot, which I do. 
 
-![Open pivot](imgs/03c-open--pivot.png) 
+![Open pivot](imgs/03c-open-hbar-pivot.png) 
 
 
 
