@@ -23,3 +23,48 @@ The pivot is good, so I execute it, using $HBARX from @staderlabs to close this 
 
 I reinvested all gains.
 
+## Open HBAR+USDC pivots 
+
+![HBAR+USDC Ratio](imgs/03a-ratio.png) 
+![Positive δ](imgs/03b-delta.png) 
+
+The positive δ calls to open an -on- pivot, which I do. 
+
+![Open pivot](imgs/03c-open--pivot.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+All + assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The HBAR+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The HBAR+USDC pivot pool composition](imgs/04a-comp.png) 
+![The HBAR+USDC pivot pool γ-apportionment](imgs/04b-apport.png) 
+
