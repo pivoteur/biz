@@ -43,7 +43,7 @@ The positive δ calls to open an -on- pivot, which I do.
 
 
 
-All + assets are now committed to pivots. 
+All HBAR+USDC assets are now committed to pivots. 
 
 
 
