@@ -30,7 +30,7 @@ years now!
 
 Fortunately for me, I factored my code so that adding the user-agent header to the REST request was simple enough to do.
 
-![user-agent added to reqeust-header](02-gecko-fixed.png)
+![user-agent added to request-header](imgs/02-gecko-fixed.png)
 
 bae fixed: ✅ 
 
