@@ -2,8 +2,8 @@
 
 ## HBAR+USDC 
 
-
-![Close HBAR-on-USDC pivot](imgs/01a-close-hbar-on-usdc-pivot.png) 
+![`dusk` report](imgs/01a-dusk.png)
+![Close HBAR-on-USDC pivot](imgs/01b-close-hbar-on-usdc-pivot.png) 
 
 Automation calls to close 1 HBAR-on-USDC pivot (which I manually confirm) for gains of: 
 
@@ -13,7 +13,7 @@ Automation calls to close 1 HBAR-on-USDC pivot (which I manually confirm) for ga
 * or: $29.47 gain on a pivot totalling $243.78 
 
 
-![Distribute gains to stakers](imgs/01b-dist-gains.png) 
+![Distribute gains to stakers](imgs/01c-dist-gains.png) 
 
 I reinvest and distribute the gains. 
 
