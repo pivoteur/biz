@@ -85,3 +85,7 @@ The BTC+HBAR pivot pool composition and γ-apportionment are as charted.
 ![The BTC+HBAR pivot pool composition](imgs/05a-comp.png) 
 ![The BTC+HBAR pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+# Automation
+
+... and I continue to work on open-pivot automation. The above BTC+HBAR open pivot was discovered and computed manually. Some day, soon, that process will be automated.
+
