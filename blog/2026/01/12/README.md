@@ -22,3 +22,66 @@ The HBAR/USDC ratio vs the EMA 20 is meh, so we rest.
 The HBAR+USDC pivot pool composition and γ-apportionment are as charted. 
 ![The HBAR+USDC pivot pool composition](imgs/03a-comp.png) 
 ![The HBAR+USDC pivot pool γ-apportionment](imgs/03b-apport.png) 
+## BTC+HBAR 
+
+
+
+
+
+No close pivots. 
+
+
+
+
+
+
+
+
+
+
+
+## Open BTC+HBAR pivots 
+
+![BTC+HBAR Ratio](imgs/04a-ratio.png) 
+![Positive δ](imgs/04b-delta.png) 
+
+The positive δ calls to open an BTC-on-HBAR pivot, which I do. 
+
+![Open BTC pivot](imgs/04c-open-btc-pivot.png) 
+
+I also open an HBAR-on-BTC hedge. 
+
+![Open HBAR hedge](imgs/04d-open-hbar-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The BTC+HBAR pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+HBAR pivot pool composition](imgs/05a-comp.png) 
+![The BTC+HBAR pivot pool γ-apportionment](imgs/05b-apport.png) 
+
