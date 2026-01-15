@@ -61,7 +61,7 @@ ahead and good to go.
 ### `dawn` [WIP]
 
 The above two dapps, combined with some elbow-grease, ... and adding some
-blood, sweat, and tears, will produce `dawn` when reviews all pivot pools'
+blood, sweat, and tears, will produce `dawn` which reviews all pivot pools'
 assets and determines which pools on which to open pivots, and in which
 directions to open those pivots.
 
