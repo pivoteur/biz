@@ -20,3 +20,48 @@ On the @UndeadBlocks-side, $UNDEAD's price took a leap! ... basically doubling i
 
 The USDC-on-BTC close doesn't make the cut. Oh, well. $BTC did take a dip after this morning. 
 
+## Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/04a-ratio.png) 
+![Positive δ](imgs/04b-delta.png) 
+
+The positive δ calls to open an BTC-on-USDC pivot, which I do. 
+
+![Open BTC pivot](imgs/04c-open-btc-pivot.png) 
+
+I also open an USDC-on-BTC hedge. 
+
+![Open USDC hedge](imgs/04d-open-usdc-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/05a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/05b-apport.png) 
+
