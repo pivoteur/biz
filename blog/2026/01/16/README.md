@@ -18,3 +18,8 @@ Answer: against $BTC AND $ETH, $UNDEAD has risen in value.
 
 I continue to work on open-pivot automation.
 
+# Protocol Status
+
+![Pivot Pool assets](imgs/03a-pool-assets.png)
+![Virtual pivots](imgs/03b-virtual-pivots.png)
+
