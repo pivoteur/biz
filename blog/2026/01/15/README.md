@@ -65,3 +65,48 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 ![The BTC+USDC pivot pool composition](imgs/05a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+## Open AVAX+UNDEAD pivots 
+
+![AVAX+UNDEAD Ratio](imgs/07a-ratio.png) 
+![Negative δ](imgs/07b-delta.png) 
+
+The negative δ calls to open an UNDEAD-on-AVAX pivot, which I do. 
+
+![Open UNDEAD pivot](imgs/07c-open-undead-pivot.png) 
+
+I also open an AVAX-on-UNDEAD hedge. 
+
+![Open AVAX hedge](imgs/07d-open-avax-hedge.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The AVAX+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The AVAX+UNDEAD pivot pool composition](imgs/08a-comp.png) 
+![The AVAX+UNDEAD pivot pool γ-apportionment](imgs/08b-apport.png) 
+
