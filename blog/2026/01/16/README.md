@@ -10,3 +10,11 @@ $UNDEAD is maintaining its increase, and, not only has the price risen (relative
 
 Answer: against $BTC AND $ETH, $UNDEAD has risen in value.
 
+# PIVOTS
+
+![`dusk` report](imgs/02-dusk.png)
+
+`dusk` reports no close pivots today.
+
+I continue to work on open-pivot automation.
+
