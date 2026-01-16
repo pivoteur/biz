@@ -65,6 +65,19 @@ The BTC+USDC pivot pool composition and γ-apportionment are as charted.
 ![The BTC+USDC pivot pool composition](imgs/05a-comp.png) 
 ![The BTC+USDC pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+# AVAX+UNDEAD
+
+`dusk` calls to close 2 AVAX-on-UNDEAD pivots (which I manually confirm) for gains of:
+
+* actual ROI: 17.70% / 59.26% APR projected
+* or: 67.270 $AVAX -> $UNDEAD -> 79.170 $AVAX
+* or: $163.32 gain on 2 pivots totalling $1,502.50
+
+![Close AVAX-on-UNDEAD pivots](imgs/06a-close-avax-on-undead-pivot.png)
+![Distribute and reinvest gaines](imgs/06b-dist-gains.png)
+
+I reinvest and distribute the gains.
+
 ## Open AVAX+UNDEAD pivots 
 
 ![AVAX+UNDEAD Ratio](imgs/07a-ratio.png) 
