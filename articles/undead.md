@@ -6,7 +6,11 @@ first, but nowadays simply means: "eff off," meaning less "figure it out for
 yourself" and meaning more "I can't be bothered to help you help you."
 
 Let me help you help you with my own #DYOR that I have conducted as to why
-NOT to buy $UNDEAD ... and ... (spoiler) ... why I'm stockpiling $UNDEAD.
+NOT to buy $UNDEAD ... and ... (spoiler)
+
+![Protocol $UNDEAD in treasury](imgs/dedun/00-treasury.png)
+
+ ... why I'm stockpiling $UNDEAD, myself.
 
 #YMMV #DYOR
 
