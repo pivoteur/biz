@@ -87,6 +87,8 @@ has built-in scarcity.
 
 4. "I'm a BTC-maxi."
 
+![BTC chart](imgs/dedun/05-btc.png)
+
 * There is certainly something to be said for the strategy of HODL'n BTC.
 [I've had some things to say about that, 
 myself](https://github.com/pivoteur/biz/blob/main/articles/pivot-arbitrage.md).
