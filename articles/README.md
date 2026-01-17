@@ -12,6 +12,7 @@
 * 2025-11-29: [Gradually transitioning](transition.md) very disparate assets 
 across blockchains
 * 2025-11-05: [Is "I'm not selling!" a good strategy?](pivot-arbitrage.md)
+* 2025-05-27: [UNDEAD: price vs. volume study](undead-price-v-volume-study.md)
 
 ## 2024
 
