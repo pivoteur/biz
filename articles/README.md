@@ -2,6 +2,7 @@
 
 ## 2026
 
+* 2025-01-17: [10 Reasons Why NOT to invest into $UNDEAD now](undead.md)
 * 2026-01-15: [Automation status](auto.md)
 
 ## 2025
