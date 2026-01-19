@@ -28,7 +28,7 @@ proceed with open-pivot automation with alacrity.
 # 10 Reasons why NOT to buy $UNDEAD now
 
 New article posted on @LinkedIn: "[10 Reasons why NOT to buy $UNDEAD 
-now](https://www.linkedin.com/feed/update/urn:li:activity:7419075175595446272/)
+now](https://www.linkedin.com/feed/update/urn:li:activity:7419075175595446272/)"
 with the best reason being: "Good, more for me to stack." #YMMV #DYOR 
 
 But getting real, here: this article walks through steps I take in evaluating 
