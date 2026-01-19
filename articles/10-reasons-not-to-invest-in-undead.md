@@ -1,4 +1,4 @@
-# Reasons why NOT to buy $UNDEAD now
+# 10 Reasons why NOT to buy $UNDEAD now
 
 Oftentimes, when people talk about investing in cryptocurrency, they disclaim
 with "#DYOR" / "Do your own research" ... which was a good admonishment, at 
@@ -27,6 +27,9 @@ or
 * [LFJ](https://lfj.gg/avalanche/swap?inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E&outputCurrency=0x5a3534720A4f29FA0dc53cE474Db88973A95f65C)
 on Avalanche.
 
+or, for non USA-residents, you can buy $UNDEAD from the centralized exchange
+[gate.io](https://www.gate.com/).
+
 9. "So much of crypto is a scam. How do I know I'm really buying $UNDEAD?"
 
 ![UNDEAD coingecko information](imgs/dedun/02-coingecko.png)
@@ -54,10 +57,11 @@ and the token's value.
 * [Wagyu games](https://wagyu.io/) has the game [Undead 
 Blocks](https://www.undeadblocks.com/) which is live, in-production, and on
 the blockchain. Wagyu recently hosted two consecutive tournaments attracting
-thousands of players to each tournament with place-winners earning 
-crypto-rewards and NFTs. The game is up and running: how many games on the
-blockchain can you say that? Also the company received a valuation of $49 
-million.
+hundreds of players to each tournament with place-winners earning 
+thousands in crypto-rewards and NFTs. The game is up and running: how many 
+games on the
+blockchain can you say that? Also the company received a valuation of $45 
+million from a top blockchain equity investor..
 
 6. "Crypto is 'funny-money'. How is $UNDEAD useful?"
 
@@ -72,8 +76,9 @@ have to find utility for it. No utility: no value.
 goes up, you make money. $UNDEAD goes down, you buy more and wait for it to
 'goes up' again.
 
-(2) it is an in-game currency with which you can
-use to upgrade your character's load-out, increasing your survivability. 
+(2) In-game currency earnings can be exchanged for $Undead and used to upgrade 
+NFT loadouts, add weapons and perks, and soon battle passes, increasing your 
+survivability to earn more rewards.
 
 (3) it can be staked to earn NFTs, ... also gaming assets
 
@@ -81,13 +86,19 @@ use to upgrade your character's load-out, increasing your survivability.
 $ETH, $USDC, $AVAX, $HBAR, and $UNDEAD yields, based upon into which pivot pools
 you stake.
 
+(5) it will be used in the Undead Marketplace to buy game assets at a discount.
+
+(6) t will be used as a reward in future tournaments, challenges, and the NFT 
+Loadout Rental platform.
+
 5. "I don't want my investment to be diluted out of existence!"
 
 * Unlike some other crypto, $UNDEAD has a cap, not 'cap' as in 'market 
 capitalization' (it does have a market cap, but that's not what I'm talking
-about here), but 'cap' as in 'only 500 million tokens exist.' Even the 
-mighty $ETH is inflationary: they can always print more $ETH, $UNDEAD, however,
-has built-in scarcity.
+about here), but 'cap' as in 'only 500 miliion tokens exist and the cleanest 
+cap table with zero investors holding any tokens to dump at a later date.' 
+Even the mighty $ETH is inflationary: they can always print more $ETH, $UNDEAD,
+however, has built-in scarcity.
 
 4. "I'm a BTC-maxi."
 
