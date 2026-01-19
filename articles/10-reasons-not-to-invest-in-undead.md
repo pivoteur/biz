@@ -70,7 +70,7 @@ worse than that, because at least the USD is inked on paper, where crypto
 doesn't even have that much going for it. To look at the value of crypto, you
 have to find utility for it. No utility: no value.
 
-* $UNDEAD's value is four-fold: 
+* $UNDEAD's value is six-fold: 
 
 (1) Like other crypto, it is a holder of value and a speculative asset: $UNDEAD
 goes up, you make money. $UNDEAD goes down, you buy more and wait for it to
