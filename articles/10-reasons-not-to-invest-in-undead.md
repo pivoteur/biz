@@ -123,14 +123,16 @@ bank."
 ![Declining purchasing power of the USD](imgs/dedun/05-usd.jpg)
 
 * Really? Although there is an argument for this point. The USD is a 'down-only'
-token, so the question arises, "Will holding USD increate your worth?" The 
+token, so the question arises, "Will holding USD increase your worth?" The 
 answer to that is not only 'no,' but also the opposite: your worth decreases
 over time, holding USD. "Will holding $UNDEAD increase your worth?" Holding?
 Historically no, you also lose value over time, as $UNDEAD loses value. But
-what if $UNDEAD goes up as its utility use-case gains traction? (1) and (2)
-Staking $UNDEAD your value depends on the value of the token, itself, of course,
-but you also get the benefit of harvesting yields of $BTC, $ETH, $USDC, $AVAX,
-$HBAR, and $UNDEAD.
+
+(1) what if $UNDEAD goes up as its utility use-case gains traction? and 
+
+(2) Staking $UNDEAD your value depends on the value of the token, itself, of 
+course, but you also get the benefit of harvesting yields of $BTC, $ETH, $USDC, 
+$AVAX, $HBAR, and $UNDEAD.
 
 ![Pivot arbitrage distributed gains](imgs/dedun/06-yields.png)
 
