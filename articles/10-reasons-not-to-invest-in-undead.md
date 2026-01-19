@@ -54,7 +54,7 @@ and the token's value.
 
 ![Wagyu Games](imgs/dedun/04-wagyu.png)
 
-* [Wagyu games](https://https://wagyugames.com) has the game [Undead 
+* [Wagyu games](https://wagyugames.com) has the game [Undead 
 Blocks](https://www.undeadblocks.com/) which is live, in-production, and on
 the blockchain. Wagyu recently hosted two consecutive tournaments attracting
 hundreds of players to each tournament with place-winners earning 
@@ -76,7 +76,7 @@ have to find utility for it. No utility: no value.
 goes up, you make money. $UNDEAD goes down, you buy more and wait for it to
 'goes up' again.
 
-(2) In-game currency earnings can be exchanged for $Undead and used to upgrade 
+(2) In-game currency earnings can be exchanged for $UNDEAD and used to upgrade 
 NFT loadouts, add weapons and perks, and soon battle passes, increasing your 
 survivability to earn more rewards.
 
