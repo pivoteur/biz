@@ -2,7 +2,7 @@
 
 Oftentimes, when people talk about investing in cryptocurrency, they disclaim
 with "#DYOR" / "Do your own research" ... which was a good admonishment, at 
-first, but nowadays simply means: "eff off," meaning less "figure it out for
+first, but nowadays simply means: "Buzz off!" meaning less "figure it out for
 yourself" and meaning more "I can't be bothered to help you help you."
 
 Let me help you help you with my own #DYOR that I have conducted as to why
