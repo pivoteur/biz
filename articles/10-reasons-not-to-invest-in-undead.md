@@ -54,7 +54,7 @@ and the token's value.
 
 ![Wagyu Games](imgs/dedun/04-wagyu.png)
 
-* [Wagyu games](https://wagyu.io/) has the game [Undead 
+* [Wagyu games](https://https://wagyugames.com) has the game [Undead 
 Blocks](https://www.undeadblocks.com/) which is live, in-production, and on
 the blockchain. Wagyu recently hosted two consecutive tournaments attracting
 hundreds of players to each tournament with place-winners earning 
@@ -88,7 +88,7 @@ you stake.
 
 (5) it will be used in the Undead Marketplace to buy game assets at a discount.
 
-(6) t will be used as a reward in future tournaments, challenges, and the NFT 
+(6) it will be used as a reward in future tournaments, challenges, and the NFT 
 Loadout Rental platform.
 
 5. "I don't want my investment to be diluted out of existence!"
