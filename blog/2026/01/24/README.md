@@ -25,3 +25,14 @@ better.
 
 Let's do it!
 
+## The work
+
+The first thing to do is capture the state of the close-pivot recommendations. I
+mean, after `dusk` has exited, so that entails two developments:
+
+1. add an index to the close pivot calls
+
+(so I can call the closer with "I want to close pivot x")
+
+2. Parse `dusk` output as input
+
