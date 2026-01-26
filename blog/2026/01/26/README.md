@@ -17,7 +17,7 @@ Meanwhile, on the development-side for automation, the Rust unit tests are ...
 I'd like to say 'coming along,' but that's far from true, so I'll say: 
 "starting to come along."
 
-![Protocol unit tests[(imgs/02a-protocol-unit-tests.png)
+![Protocol unit tests](imgs/02a-protocol-unit-tests.png)
 ![Book unit tests](imgs/02b-book-unit-tests.png)
 
 I'm thinking through developing a separate functional/integration test suite. 
