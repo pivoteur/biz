@@ -42,3 +42,12 @@ unit tests provide toward system consistency and stability.
 
 I'll be adding tests to the automation toolset as I add functionality.
 
+## parsing
+
+I am now reading the `dusk` output into a (generic) table.
+
+![Program run to read `dusk` output](imgs/04a-runoff.png)
+![Table result](imgs/04b-table.png)
+
+Next step, parse the table-rows to close-pivot calls. 
+
