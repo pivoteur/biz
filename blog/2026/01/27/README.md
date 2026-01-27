@@ -31,3 +31,20 @@ minutes later, the slippage is down to 6%.
 
 That's still too high to close the pivot, so I'll wait one day and see what 
 the slippage settles to tomorrow.
+
+# Development and testing
+
+![Protocol unit tests](imgs/04a-protocol-unit-tests.png)
+![Book unit tests](imgs/04b-book-unit-tests.png)
+
+Work proceeds apace: unit- and functional-testing, a necessary part of the 
+development process, is as follows:
+
+| module | kind | yesterday | today |
+|---|---|---|---|
+| quizzes | functional | 0 | 4 |
+| quizzes | unit | 4 | 11 |
+| book | unit | 13 | 19 |
+| libs | unit | 0 | 0 |
+
+So: testing-progress, and I still have a long way to go!
