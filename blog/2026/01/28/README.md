@@ -43,3 +43,7 @@ Rounding out testing, I've added new features and reports.
 
 * I'm now charting test-suite progress 
 
+> I've combined the above tweets about Pivot protocol testing and posted them as
+[an article on 
+@LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7422352224770764800/).
+
