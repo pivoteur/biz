@@ -9,7 +9,7 @@
 ![Integration test-suite: itr](imgs/01-itr.png)
 
 Separate integration test-suite for Rust dapps that executes `cargo build` in 
-all subdirectories of <dir>.
+all subdirectories of `<dir>`.
 
 Rust unit testing integrates integration testing and doesn't have functional 
 tests.
