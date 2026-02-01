@@ -30,3 +30,13 @@ but only after the future is activated (that is the asynchronous call is called 
 
 ...because that's super-obvious. 🙄
 
+## AI
+
+That only took two days fighting with the compiler and with AI to figure out.
+
+AI is neat. It gives you exactly the answers you ask. If you're stupid and ask 
+stupid questions, it gives you stupid answers.
+
+I think I'm getting smarter, or at least getting better at asking better 
+questions, with AI.
+
