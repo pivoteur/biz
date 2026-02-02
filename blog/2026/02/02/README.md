@@ -20,3 +20,10 @@ and fixing my test-framework.
 
 Good news: tests are working again, test code-base and coverage is up! 
 
+# PIVOTS
+
+![`dusk` report](imgs/02-dusk.png)
+
+And, fortunately, the market-conditions have remained the same as yesterday, 
+and so are the close-pivot recommendations. 
+
