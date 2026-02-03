@@ -51,3 +51,18 @@ I also have to run the daily quotes.
 so I can run automation to compute today's pivots with these updated data. OOF!
 
 *sigh* Life goes on, innit? 😅
+
+## Updating yesterday's close-pivot data
+
+"Updating the close pivots" looks like:
+
+![Updating data-effort](imgs/03-updates.png)
+
+* I update the open-pivots, marking the ones closed.
+* I enter a line in the close-pivot table (this takes about an hour for each 
+entry)
+* I update the pool status in the pool table
+* I update the distributions table
+
+12 tables updated.
+
