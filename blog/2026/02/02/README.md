@@ -27,3 +27,27 @@ Good news: tests are working again, test code-base and coverage is up!
 And, fortunately, the market-conditions have remained the same as yesterday, 
 and so are the close-pivot recommendations. 
 
+# Blockchain woes
+
+## Approval for $USDC-spending denied
+
+Dear @SaucerSwapLabs,
+
+I tried to swap 107.26 $USDC for ~1177 $HBAR. I received an error message that 
+you are refusing to approve my $USDC-spending.
+
+![Swap request to close HBAR-on-USDC pivot](imgs/03a-swap-request.png)
+![USDC spending request DENIED!](imgs/03b-approval-nix.png)
+
+Please fix this.
+
+## 12% Slippage on $4.3k $BTC -> $ETH swap
+
+Also, when I tried to swap $BTC for $ETH, a trade of ~ $4.3k, slippage was more 
+than 12%, making the trade a loss for me.
+
+![12% slippage on $BTC to $ETH swap](imgs/04-slippage.png)
+
+$BTC and $ETH trades are important to me. Can you improve the trade quality of 
+these trades? 
+
