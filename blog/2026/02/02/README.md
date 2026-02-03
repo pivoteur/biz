@@ -18,7 +18,7 @@ and fixing my test-framework.
 ![Tests](imgs/01a-tests.png)
 ![Coverage](imgs/01b-coverage.png)
 
-Good news: tests are working again, test code-base and coverage is up! 
+Good news: tests are working again; test code-base and coverage is up! 
 
 # PIVOTS
 
