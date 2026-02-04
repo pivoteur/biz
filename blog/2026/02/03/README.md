@@ -66,6 +66,13 @@ entry)
 
 12 tables updated.
 
+### Automation tasks
+
+I've (loosely) defined automation tasks and laid out a 
+[workflow/gantt chart](https://github.com/pivoteur/protocol/tree/main)
+
+![Gantt chart for automation tasks](imgs/06-automation.png)
+
 # PIVOTS
 
 With those tables updated, I run `dusk`
