@@ -75,3 +75,15 @@ on their blockchains.
 
 Also, @Indigo_protocol: wen synthetic Gold and Silver? I have buyers.
 
+# Pivot Swap
+
+I just had an epiphany to make Pivots work on @hedera, regardless of slippage 
+on their DEXen, AND pay stakeholders for trades, TOO!
+
+If the DEXen have too much slippage, I'll just make my own:
+
+![Pivot Swap on Hedera](imgs/07-pivot-swap.png)
+
+Introducing Pivot Swap, backed, instead of Liquidity Pools, by Pivot Asset 
+Pools.
+
