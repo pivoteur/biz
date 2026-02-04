@@ -45,5 +45,33 @@ slippage is 18%, making any attempt to close the pivot an outright loss.
 
 Still.
 
+### DEX on Hedera
+
 Must I set up my own DEX on @hedera? I think I must, in order to make pivoting 
 there viable.
+
+### Money Market on Hedera
+
+I was also about to write: "I also need to establish my own money market 
+on @hedera."
+
+BUT @bonzo_finance finally has $WETH as an asset.
+
+![Bonzo finance now has $WETH](imgs/05-bonzo-fi.png)
+
+@bonzo_finance: wen (hedera) $BTC?
+
+### Indigo on Hedera and Avalanche
+
+Finally, it'd be nice if @Indigo_protocol were on @hedera: I could make 
+synthetic $BTC, $ETH.
+
+![Indigo Protocol](imgs/06-indigo-fi.png)
+
+Also on @avax
+
+@Indigo_protocol: wen @avax? wen @hedera? Both are giving grants to establish 
+on their blockchains.
+
+Also, @Indigo_protocol: wen synthetic Gold and Silver? I have buyers.
+
