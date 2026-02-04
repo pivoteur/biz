@@ -28,4 +28,11 @@ Pivot 'til the Sun goes down.
 Pivot 'til the cows come home.
 Pivot 'til both, neither, and either. 
 
+## `dusk` report
+
+![`dusk` report](imgs/03-dusk.png)
+
+`dusk` calls for 5 close-pivots.
+
+Let's Яock И Яoll! 
 
