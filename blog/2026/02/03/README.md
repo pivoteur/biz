@@ -66,3 +66,19 @@ entry)
 
 12 tables updated.
 
+# PIVOTS
+
+With those tables updated, I run `dusk`
+
+![`dusk` report](imgs/04a-dusk.png)
+
+It recommends 5 close-pivots, however: none were viable today.
+
+![ETH-on-BTC close pivot not profitable](imgs/04b-btc-eth.png)
+![BTC-on-UNDEAD close pivot not profitable](imgs/04c-btc-undead.png)
+![AVAX-on-UNDEAD close pivot not profitable](imgs/04d-avax-undead.png)
+
+* Hedera Saucer swap-problems, mentioned since yesterday, persist.
+* Price-movements for BTC+ETH, BTC+UNDEAD, and BTC+AVAX from this morning make 
+the swaps now not profitable.
+
