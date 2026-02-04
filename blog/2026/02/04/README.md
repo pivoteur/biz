@@ -36,3 +36,14 @@ Pivot 'til both, neither, and either.
 
 Let's Яock И Яoll! 
 
+## Hedera woes
+
+![Close pivot on Hedera at 18% slippage](imgs/04-slippage.png)
+
+I try to close the ETH-on-BTC pivot on @hedera @SaucerSwapLabs, however, 
+slippage is 18%, making any attempt to close the pivot an outright loss.
+
+Still.
+
+Must I set up my own DEX on @hedera? I think I must, in order to make pivoting 
+there viable.
