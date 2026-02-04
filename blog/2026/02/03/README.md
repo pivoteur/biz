@@ -82,3 +82,14 @@ It recommends 5 close-pivots, however: none were viable today.
 * Price-movements for BTC+ETH, BTC+UNDEAD, and BTC+AVAX from this morning make 
 the swaps now not profitable.
 
+## Retrospective
+
+This is the beauty of pivot-arbitrage on the EMA-20: if you don't close a 
+pivot today, it'll come back around tomorrow, next week, next month, or even 
+next year, and still make profit.
+
+![Open BTC+ETH pivots from 2025-08-06](imgs/05-open-btc-eth-pivots.png)
+
+We saw that with the 8 close pivots on BTC+ETH yesterday, with pivots closed 
+from 2025-08-06.
+
