@@ -87,3 +87,10 @@ If the DEXen have too much slippage, I'll just make my own:
 Introducing Pivot Swap, backed, instead of Liquidity Pools, by Pivot Asset 
 Pools.
 
+# Tests
+
+![Integration tests](imgs/08a-itr.png)
+![Unit and functional tests](imgs/08b-tests.png)
+![Code coverage](imgs/08c-coverage.png)
+
+All tests pass. All applications working. 
