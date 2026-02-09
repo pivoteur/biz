@@ -15,3 +15,10 @@ working.
 
 Working on it!
 
+## Javascript woes
+
+PLEASE NOTE that your stakes are safe and pivot arbitrage continues, ... it's 
+just the presentation-layer that's not working at present.
+
+*grumble* Javascript *grumble*
+
