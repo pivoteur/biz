@@ -22,3 +22,16 @@ just the presentation-layer that's not working at present.
 
 *grumble* Javascript *grumble*
 
+# Protocol back to full-operations
+
+![Pivot Protocol DIY Charts++](imgs/02a-diy-fixed.png)
+
+DIY charts++ are fixed, and now improved, charting only assets the protocol 
+uses for pivot arbitrage. 
+
+![Assets filtered to the ones the protocol uses for pivot 
+arbitrage](imgs/02b-filtered-assets.png)
+
+The [Pivot Protocol](https://pivoteur.github.io/#) is now back to 
+full-operations.
+
