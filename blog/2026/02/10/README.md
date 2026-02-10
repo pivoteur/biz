@@ -12,3 +12,21 @@ This is necessary for DIY Charts++ asset-data.
 
 ![DIY Chart++ asset data filtering](imgs/01b-diy.png)
 
+## Pivot Protocol health
+
+![Testing](imgs/02a-tests.png)
+
+* All tests pass
+
+![Code-coverage](imgs/02b-coverage.png)
+
+* Code-coverage increasing (slightly)
+
+![Automation-coverage](imgs/02c-automation.png)
+
+* Automation-coverage just over 50% of workflow
+
+![Automation timeline](imgs/02d-plan.png)
+
+* Automation plan-of-attack in progress 
+
