@@ -30,3 +30,13 @@ This is necessary for DIY Charts++ asset-data.
 
 * Automation plan-of-attack in progress 
 
+# Employment administration
+
+Created Pivot Technologies, LLC 
+[NDA](https://docs.google.com/document/d/1PFjWqVg7ulLX8lwjt4KI6d2mQuEcxxBGf_RsRaQb-1c/edit?usp=sharing) and [Employment 
+Agreement](https://docs.google.com/document/d/1nWXuRY8eyoZ4sdO0d_ESRxMhbRCQP-4motJihXWifes/edit?usp=sharing_).
+
+That took longer than expected.
+
+Now I can hire people.
+
