@@ -1,6 +1,16 @@
 # JOBS
 
-## Rust Developer
+# Board of Directors
+
+# Programming and Development Roles
+
+## CTO
+## Director, Software Development
+## Program Manager
+## Project Manager
+## Business Analyst
+## Senion Rust Developer
+## Junior Rust Developer
 
 ### Role Description
 
@@ -19,3 +29,13 @@ This is a full-time on-site role for a Rust Developer located in Springfield, VA
 * Bachelor's degree in Computer Science, Software Engineering, or a related field; equivalent practical experience will also be considered
 * Previous experience with asynchronous programming or experience in implementing APIs is a plus
 
+# Trading
+
+## CFO
+## Fund Manager/Director
+## Senior Trader
+## Junior Trader
+
+# Human Resources
+
+# Accounting/Payroll
