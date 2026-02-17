@@ -26,5 +26,5 @@ Each phase is subdivided into states. State colors mean:
 * green: automated
 * yellow: wip
 * violet: manual
-* black: TBD
+* black: not yet implemented
 
