@@ -16,8 +16,6 @@
 
 This is a full-time on-site role for a Rust Developer located in Springfield, VA. The Rust Developer will be responsible for writing efficient, high-performance code in Rust, collaborating with cross-functional teams to design and implement scalable systems, and identifying and fixing programming issues. The role also involves participating in code reviews, optimizing existing code, and ensuring software quality through testing and debugging.
 
-
-
 ### Qualifications
 
 * Strong knowledge of software development with Rust, including concurrency and memory safety
