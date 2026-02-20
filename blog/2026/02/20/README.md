@@ -41,3 +41,16 @@ Make my own synthetics, maybe?
 
 Sythetic gold? ... silver?
 
+# LFJ blocc
+
+In other news:
+
+![LFJ blocc](imgs/04-lfj-blocc.png)
+
+@LFJ_gg on @avax blocked me for pivoting.
+
+* Not 100 pivots per day.
+* Not 10 pivots per day.
+* Not even 5 pivots per day, spread out over 20 hours each day.
+
+@LFJ_gg, please unblock me, as you are blocking my investors' gains now.
