@@ -14,3 +14,15 @@ into Indigo Protocol, earning both yields and arbitrage-gains from the protocol.
 ![Stake $iBTC](imgs/01c-dep-indigo.png)
 ![Indigo Treasury](imgs/01d-treasury.png)
 
+# Automated integration of synthetics
+
+> DDD: 'data-driven development'
+
+![Pivot Pools](imgs/02a-pools.png)
+![Treasury](imgs/02b-treasury.png)
+![BTC+ADA pivot ratio](imgs/02c-ratio.png)
+![BTC+ADA pivot ratio delta](imgs/02d-delta.png)
+
+As I update the data-sets, the new synthetic-type and new pivot pool are 
+(already) automatically integrated into the Pivot Protocol. 
+
