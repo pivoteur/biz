@@ -14,7 +14,7 @@ into Indigo Protocol, earning both yields and arbitrage-gains from the protocol.
 ![Stake $iBTC](imgs/01c-dep-indigo.png)
 ![Indigo Treasury](imgs/01d-treasury.png)
 
-# Automated integration of synthetics
+## Automated integration of synthetics
 
 > DDD: 'data-driven development'
 
@@ -25,4 +25,19 @@ into Indigo Protocol, earning both yields and arbitrage-gains from the protocol.
 
 As I update the data-sets, the new synthetic-type and new pivot pool are 
 (already) automatically integrated into the Pivot Protocol. 
+
+## Synthetic research
+
+Please note: pivoting on synthetics is highly experimental. $iBTC is not $BTC, 
+and, in fact: $iBTC is actually nothing, as it's a synthetic.
+
+So, these pools currently are research-only.
+
+But what can I learn from them?
+
+Make my own synthetics, maybe?
+
+![Thinking...](imgs/03-think.png)
+
+Sythetic gold? ... silver?
 
