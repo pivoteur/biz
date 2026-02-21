@@ -54,3 +54,19 @@ In other news:
 * Not even 5 pivots per day, spread out over 20 hours each day.
 
 @LFJ_gg, please unblock me, as you are blocking my investors' gains now.
+
+# PIVOTS
+
+I establish a new synthetic pool: $iUSD
+
+![ADA+iUSD ratio](imgs/05a-ratio.png)
+![ADA+iUSD delta](imgs/05b-delta.png)
+
+The δ is meh, so I open a pivot both ways.
+
+![Open ADA-on-iUSD pivot](imgs/05c-ada-on-iusd.png)
+![iUSD above peg](imgs/05d-iusd-above-peg.png)
+
+It appears I'm receiving less $iUSD than what's being traded, but in 
+actuality, $iUSD is over peg by 5%, so the swap is comparable. 
+
