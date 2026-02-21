@@ -57,6 +57,8 @@ In other news:
 
 # PIVOTS
 
+## iUSD synthetic
+
 I establish a new synthetic pool: $iUSD
 
 ![ADA+iUSD ratio](imgs/05a-ratio.png)
@@ -69,4 +71,14 @@ The δ is meh, so I open a pivot both ways.
 
 It appears I'm receiving less $iUSD than what's being traded, but in 
 actuality, $iUSD is over peg by 5%, so the swap is comparable. 
+
+## iETH synthetic
+
+![ETH+ADA ratio](imgs/07a-ratio.png)
+![ETH+ADA ratio delta](imgs/07b-delta.png)
+![Open ADA-on-ETH pivot](imgs/07c-ada-on-eth.png)
+![Stake iETH](imgs/07d-stake-ieth.png)
+
+The (experimental) $iETH synthetic pool is now live on the Pivot Protocol. I 
+also stake the $iETH on @Indigo_protocol.
 
