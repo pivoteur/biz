@@ -19,3 +19,15 @@ WHAT IN THE EVER-LUV'n...? $UNDEAD
 The first close-pivot: ETH-on-ADA is not viable due to slippage, so we give 
 this first close pivot call a miss. 
 
+## BTC+ETH on Hedera
+
+BTC+ETH on @hedera 
+
+![`dusk` call for BTC+ETH](imgs/03a-dusk.png)
+
+Slippage is over 4%, making a close-pivot not viable.
+
+![Slippage too high to close pivot on Hedera](imgs/03a-slippage.png)
+
+Giving this close-pivot call a miss. 
+
