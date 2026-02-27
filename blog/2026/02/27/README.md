@@ -53,7 +53,7 @@ Automation calls to close 1 BTC-on-ETH pivot (which I manually confirm) for gain
 * or: 0.0066 $BTC -> $ETH -> 0.0078 $BTC 
 * or: $81.90 gain on a pivot totalling $737.88 
 
-![Swap gains to stable](imgs/05b-swap-gains-to-stable.png) 
+![Swap gains to stable](imgs/05c-swap-gains-to-stable.png) 
 ![Distribute gains to stakers](imgs/05d-dist-gains.png) 
 
 I reinvest and distribute the gains. 
