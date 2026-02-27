@@ -27,7 +27,7 @@ BTC+ETH on @hedera
 
 Slippage is over 4%, making a close-pivot not viable.
 
-![Slippage too high to close pivot on Hedera](imgs/03a-slippage.png)
+![Slippage too high to close pivot on Hedera](imgs/03b-slippage.png)
 
 Giving this close-pivot call a miss. 
 
