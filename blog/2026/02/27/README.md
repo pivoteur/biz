@@ -31,3 +31,13 @@ Slippage is over 4%, making a close-pivot not viable.
 
 Giving this close-pivot call a miss. 
 
+# Avalanche
+
+## LFJ blocked my trades
+
+I'm back to being blocked by @LFJ_gg on @avax.
+
+![LFJ blocc](imgs/04-lfj-blocc.png)
+
+LFJ can you please unblock me? You are missing out on trades on Avalanche. 
+
