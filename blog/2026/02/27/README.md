@@ -41,3 +41,20 @@ I'm back to being blocked by @LFJ_gg on @avax.
 
 LFJ can you please unblock me? You are missing out on trades on Avalanche. 
 
+## BTC+ETH 
+
+![Automation calls](imgs/05a-dusk.png) 
+![Close BTC-on-ETH pivot](imgs/05b-close-btc-on-eth-pivot.png) 
+
+Automation calls to close 1 BTC-on-ETH pivot (which I manually confirm) for gains of: 
+
+
+* actual ROI: 18.88% / 49.22% APR projected 
+* or: 0.0066 $BTC -> $ETH -> 0.0078 $BTC 
+* or: $81.90 gain on a pivot totalling $737.88 
+
+![Swap gains to stable](imgs/05b-swap-gains-to-stable.png) 
+![Distribute gains to stakers](imgs/05d-dist-gains.png) 
+
+I reinvest and distribute the gains. 
+
