@@ -19,3 +19,12 @@ and a new pool:
 I've moved the BTC+ETH assets from Hedera to Avalanche (so I've removed 
 WBTC+WETH) for no slippage.
 
+## Sine qua non
+
+The above is in service to making the Pivot Protocol more efficient in its 
+pivots and to open up new pivot-opportunities for $HBAR, $UNDEAD, and the 
+synthetics $iETH and $iUSD.
+
+Furthermore, this creates research opportunities for the protocol to create 
+its own synthetics (metals).
+
