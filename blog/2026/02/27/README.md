@@ -93,3 +93,22 @@ The BTC+ETH pivot pool composition and γ-apportionment are as charted.
 ![The BTC+ETH pivot pool composition](imgs/07a-comp.png) 
 ![The BTC+ETH pivot pool γ-apportionment](imgs/07b-apport.png) 
 
+## HBAR+UNDEAD
+
+I create a new pivot pool on @hedera: 
+
+The HBAR+UNDEAD pivot pool
+
+![HBAR+UNDEAD ratio](imgs/08a-ratio.png)
+![HBAR+UNDEAD delta](imgs/08b-delta.png)
+![Open UNDEAD-on-HBAR pivot](imgs/08c-open-undead-on-hbar-pivot.png)
+![Open HBAR-on-UNDEAD hedge](imgs/08d-open-hbar-on-undead-hedge.png)
+
+I open an UNDEAD-on-HBAR pivot and an HBAR-on-UNDEAD hedge to get things 
+rolling! 
+
+The HBAR+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The HBAR+UNDEAD pivot pool composition](imgs/09a-comp.png) 
+![The HBAR+UNDEAD pivot pool γ-apportionment](imgs/09b-apport.png) 
+
