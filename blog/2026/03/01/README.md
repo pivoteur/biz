@@ -29,3 +29,48 @@ Automation calls to close 1 BTC-on-ETH pivot (which I manually confirm) for gain
 
 I reinvest and distribute the gains. 
 
+## Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/03a-ratio.png) 
+![Negative δ](imgs/03b-delta.png) 
+
+The negative δ calls to open an ETH-on-BTC pivot, which I do. 
+
+![Open ETH pivot](imgs/03c-open-eth-pivot.png) 
+
+I also open an BTC-on-ETH hedge. 
+
+![Open BTC hedge](imgs/03d-open-btc-hedge.png) 
+
+
+
+
+
+
+
+
+All ETH+BTC assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/04a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/04b-apport.png) 
+
