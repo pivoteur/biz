@@ -16,3 +16,21 @@ However, @Indigo_protocol liquidated some $iETH, distributing $ADA gains.
 
 Let's look at that.
 
+## Indigo
+
+For Indigo, I collect
+
+![Claim ADA](imgs/02a-claim.png)
+![Convert to ETH](imgs/02b-convert.png)
+![Deposit ETH](imgs/02c-deposit.png)
+
+* 370.79 $ADA which turns into 
+* 0.045 $iETH but I lost
+* 0.047 $iETH in liquidation-conversion.
+
+The culprit is the ADA/ETH swap, which has $10 in slippage on a $100-trade.
+
+That's 10% slippage.
+
+@Indigo_protocol: do you see why you've lost so much TVL?
+
