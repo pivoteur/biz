@@ -17,3 +17,20 @@ Automation calls to close 1 ETH-on-BTC pivot (which I manually confirm) for gain
 
 I reinvest and distribute the gains. 
 
+## Open BTC+ETH pivots 
+
+![BTC+ETH Ratio](imgs/02a-ratio.png) 
+![Positive δ](imgs/02b-delta.png) 
+
+The positive δ calls to open an BTC-on-ETH pivot, which I do. 
+
+![Open BTC pivot](imgs/02c-open-btc-pivot.png) 
+
+All BTC+ETH assets are now committed to pivots. 
+
+
+The BTC+ETH pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+ETH pivot pool composition](imgs/03a-comp.png) 
+![The BTC+ETH pivot pool γ-apportionment](imgs/03b-apport.png) 
+
