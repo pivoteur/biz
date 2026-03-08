@@ -39,3 +39,11 @@ All unit tests, functional tests, and integration tests pass.
 New unit tests cover more code (as more code is added, so code-coverage has 
 been steady to date). 
 
+## Research vs operations
+
+`virtsz` showing all assets in virtual pivots is a research-tool.
+
+Research is an important aspect of the Pivot protocol, AND we need to automate 
+the workflow, therefore I'm working on evolving `virtsz` to adjust all open 
+pivot pools that have virtual pivots with today's quotes.
+
