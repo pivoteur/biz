@@ -47,3 +47,7 @@ Research is an important aspect of the Pivot protocol, AND we need to automate
 the workflow, therefore I'm working on evolving `virtsz` to adjust all open 
 pivot pools that have virtual pivots with today's quotes.
 
+I've [scoped work to modify 
+`virtsz`](https://github.com/pivoteur/protocol/issues/9), transitioning it 
+from a research-tool to bringing it inline for production use. 
+
