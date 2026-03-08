@@ -26,3 +26,16 @@ choking on those synthetics.
 
 `virtsz` is working again now.
 
+# Tests
+
+![Protocol test-suite](imgs/02a-tests.png)
+
+All unit tests, functional tests, and integration tests pass. 
+
+## Code Coverage
+
+![Code Coverage](imgs/02b-coverage.png)
+
+New unit tests cover more code (as more code is added, so code-coverage has 
+been steady to date). 
+
