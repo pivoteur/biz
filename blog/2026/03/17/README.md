@@ -37,3 +37,12 @@ only done 3 pivot pools revirtualizations in 3 years.
 `virtsz` recomputed all 13 pivot pools in 10 minutes, so that's – what? 
 167,000x – faster than me.
 
+# `dusk`
+
+`dusk` – the dapp that selects which pivots to close and is now reintegrated 
+into the protocol – calls to close ~$10k-worth of pivots.
+
+![`dusk` report](imgs/04-dusk.png)
+
+Let's get to it. 
+
