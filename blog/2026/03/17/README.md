@@ -46,3 +46,28 @@ into the protocol – calls to close ~$10k-worth of pivots.
 
 Let's get to it. 
 
+# PIVOTS 
+
+## BTC+UNDEAD 
+
+![Automation calls](imgs/05a-dusk.png) 
+
+Automation calls to close 3 BTC-on-UNDEAD pivots (which I manually confirm) for gains of: 
+
+
+* actual ROI: 22.05% / 70.39% APR projected 
+* or: 0.0238 $BTC -> $UNDEAD -> 0.0290 $BTC 
+* or: $386.79 gain on 3 pivots totalling $2,483.61 
+
+### Slippage
+
+As the amount of $UNDEAD is too great for Kyber to swap with less than 10% 
+slippage, I break the pivot into two separate swaps, bringing slippage 
+down to 7%.
+
+![High slippage](imgs/06a-slippage.png)
+![Swap of half close pivot](imgs/06b-half.png)
+![Swap of half close pivot](imgs/06c-half.png)
+
+Even with 7% slippage, the ROI is above 22% on $BTC. 
+
