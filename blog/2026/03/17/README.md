@@ -24,3 +24,16 @@ nearly *doubling* protocol assurance.
 ![code coverage](imgs/02b-coverage.png)
 
 Wow! 
+
+# `virtsz`
+
+I've just (re)verified integration of `virtsz`.
+
+![`virtsz` recomputations](imgs/03-virtsz.png)
+
+`virtsz` recomputes all virtual pivots for all pivot pools. Up to now, I've 
+only done 3 pivot pools revirtualizations in 3 years.
+
+`virtsz` recomputed all 13 pivot pools in 10 minutes, so that's – what? 
+167,000x – faster than me.
+
