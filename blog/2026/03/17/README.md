@@ -71,3 +71,7 @@ down to 7%.
 
 Even with 7% slippage, the ROI is above 22% on $BTC. 
 
+![Swap gains to stable](imgs/07a-swap-to-stable.png) 
+![Distribute gains to stakers](imgs/07b-dist-gains.png) 
+
+I reinvest and distribute the gains. 
