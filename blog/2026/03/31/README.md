@@ -39,3 +39,13 @@ WOW!
 
 I'll do the distributions on the gains later today.
 
+# HOWTO automate closing pivots
+
+Steps to automate closing a pivot:
+
+1. trade the pivot amount
+2. Get back what was actually swapped-to (not computed)
+3. Close the open pivot with the close pivot id
+4. Report gains as ROI and APR
+5. Distribute gains
+
