@@ -24,3 +24,18 @@ Before I do that, let's check `dusk` for close-pivot opportunities.
 There are some. There are some, indeed! 
 
 Let's explore.
+
+## AVAX+UNDEAD
+
+`dusk` says to close an UNDEAD-on-AVAX pivot for gains of:
+
+![Close UNDEAD-on-AVAX pivot](imgs/03a-close-undead-on-avax-pivot.png)
+
+* actual ROI: 29.83% / 145.17% APR projected
+
+Or ~157k $UNDEAD / $250.00 gained in this pivot, folks!
+
+WOW!
+
+I'll do the distributions on the gains later today.
+
