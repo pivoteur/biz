@@ -47,3 +47,18 @@ So it goes.
 
 For now.
 
+### MORE slippage
+
+... best laid plans, eh?
+
+![First hedge-swap](imgs/04a-swap.png)
+![Slippage too high for a second swap](imgs/04b-slippage.png)
+
+If the slippage remained constant, I could've executed 5 swaps at 5% slippage 
+to open a $1000 UNDEAD-on-HBAR hedge, however, after I executed the first 
+trade at 5% slippage, the second trade queued at 15% slippage.
+
+So I stop at a $200 hedge.
+
+Yay. 😶
+
