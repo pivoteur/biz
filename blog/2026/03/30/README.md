@@ -16,3 +16,13 @@ swap!
 
 Should I go for a (very) small swap?
 
+## Fund Liquidity Pool
+
+Doing 10 swaps of $100 each is fine if I'd direct a computer to automate those 
+swaps, but all I've got right now is my two hands, and that doesn't scale well.
+
+![Provide HBAR/UNDEAD liquidity](imgs/02-provide.png)
+
+So, before I drive myself crazy doing microtransactions, I provide liquidity 
+to the HBAR/UNDEAD LP on @SaucerSwapLabs. 
+
