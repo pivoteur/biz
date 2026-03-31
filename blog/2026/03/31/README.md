@@ -13,3 +13,14 @@ virtually.
 
 I also do a small UNDEAD-on-BTC hedge, as well. 
 
+# `dusk`
+
+I'm going to open more $UNDEAD pivots later.
+
+Before I do that, let's check `dusk` for close-pivot opportunities. 
+
+![`dusk` report](imgs/02-dusk.png)
+
+There are some. There are some, indeed! 
+
+Let's explore.
