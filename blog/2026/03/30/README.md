@@ -26,3 +26,24 @@ swaps, but all I've got right now is my two hands, and that doesn't scale well.
 So, before I drive myself crazy doing microtransactions, I provide liquidity 
 to the HBAR/UNDEAD LP on @SaucerSwapLabs. 
 
+## Slippage
+
+So, after supplying liquidity, I ran several scenarios.
+
+![Full exchange](imgs/03a-full.png)
+![Full swap](imgs/03b-swap.png)
+
+* the full swap is 33% slippage
+
+![Half exchange](imgs/03c-half.png)
+![Half swap](imgs/03d-swap.png)
+
+* half-swap is 18% slippage
+
+Where it gets below 5% slippage is 127k $UNDEAD / ~ $210, which will require 5 
+swaps to open an $1k UNDEAD-on-HBAR hedge with 5% slippage.
+
+So it goes.
+
+For now.
+
