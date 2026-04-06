@@ -19,3 +19,15 @@ First off:
 with available assets in a pool. The next version needs to commit all 
 available assets to virtual pivots, automatically. 
 
+## `assets`
+
+Secondly:
+
+![`assets` and wallet totals](imgs/03-assets.png)
+
+* `assets` automatically updates the TVLs of the protocols, but `assets` is 
+based upon wallet-totals, which, themselves, are not automated.
+
+Wallet totals simply sum the pivot pools and treasuries, so, in theory, should 
+be easy enough to automate.
+
