@@ -45,3 +45,12 @@ Closing pivots entail a lot of infrastructure, including distributions and
 data-marshalling around the pools and profiles: I have a close pivot in process 
 from March 31st.
 
+Automation to help expedite close pivots:
+
+* `distr` that distributes pivot-gains to investors
+* `closr` marshals data around the closed pivot in three areas:
+
+1. Create the close-pivot row (gains, ROI, APR)
+2. Close the open-pivot(s) with the close-pivot ID
+3. Update profiles
+
