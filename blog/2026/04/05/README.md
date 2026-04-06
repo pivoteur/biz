@@ -31,3 +31,17 @@ based upon wallet-totals, which, themselves, are not automated.
 Wallet totals simply sum the pivot pools and treasuries, so, in theory, should 
 be easy enough to automate.
 
+## `dusk`
+
+Thirdly:
+
+![`dusk`-report](imgs/04a-dusk.png)
+![Close pivot still in process](imgs/04b-close.png)
+
+* `dusk` makes identifying closing pivots much easier now, shaving hours off 
+the process, but ...
+
+Closing pivots entail a lot of infrastructure, including distributions and 
+data-marshalling around the pools and profiles: I have a close pivot in process 
+from March 31st.
+
