@@ -9,3 +9,13 @@ also pointed out the need for even more automation.
 
 Let's enumerate the immediate needs (🧵)
 
+## `virtsz`
+
+First off:
+
+![Available assets](imgs/02-available.png)
+
+* `virtsz` automatically adjusts virtual pivots, but it doesn't do anything 
+with available assets in a pool. The next version needs to commit all 
+available assets to virtual pivots, automatically. 
+
