@@ -21,3 +21,15 @@ I distribute or reinvest gains to stakers.
 
 Today is starting well!
 
+### Open pivots
+
+![Open BTC-on-UNDEAD pivot](imgs/02a-open-btc-on-undead-pivot.png)
+![Open UNDEAD-on-BTC hedge](imgs/02b-open-undead-on-btc-hedge.png)
+
+I open a BTC-on-UNDEAD pivot and an UNDEAD-on-BTC hedge. 
+
+![BTC+UNDEAD composition](imgs/02c-comp.png)
+![BTC+UNDEAD apportionment](imgs/02d-apport.png)
+
+The BTC+UNDEAD pivot pool composition and apportionment are as charted. 
+
