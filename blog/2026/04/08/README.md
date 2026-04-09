@@ -19,3 +19,10 @@ the distributions from the pivot-gains.
 
 Step-by-step we approach a stable first production release!
 
+# Testing
+
+![Testing](imgs/02a-tests.png)
+![Code coverage](imgs/02b-coverage.png)
+
+Code coverage and testing continues apace: I've added more testing to tables 
+and stream utilities. 
