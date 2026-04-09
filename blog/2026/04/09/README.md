@@ -30,3 +30,11 @@ I open a BTC-on-UNDEAD pivot and an UNDEAD-on-BTC hedge.
 
 The BTC+UNDEAD pivot pool composition and apportionment are as charted. 
 
+# UNDEAD
+
+In other news:
+
+![UNDEAD price-chart](imgs/03-undead.png)
+
+It looks like somebody got interested in $UNDEAD. 
+
