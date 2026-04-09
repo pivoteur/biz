@@ -38,3 +38,12 @@ In other news:
 
 It looks like somebody got interested in $UNDEAD. 
 
+# `dusk`
+
+The `dusk`-reports, which recommend which pivots to close, is now in the 
+pipeline for automation and the daily reports are now being reposed on github.
+
+![`dusk`-report](imgs/04-dusk.png)
+
+Because of the 50% price-increase for $UNDEAD most of the recommendations for 
+today we had to pass on.
