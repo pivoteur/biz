@@ -16,3 +16,18 @@ you can do your own analytics.
 You can [use the reposed 
 quotes](https://raw.githubusercontent.com/logicalgraphs/crypto-n-rust/refs/heads/main/data-files/csv/quotes.csv).
 
+## Protocol O&M
+
+The next three automations are related to protocol operations and maintenance. 
+
+![Protocol O&M automations](imgs/02a-prot.png)
+![Close pivot calls](imgs/02b-calls.png)
+
+They are:
+
+* `assets` that compute procotol asset TVLs
+* `virtsz` that recomputes all virtual pivots; and,
+* `dusk` that makes close pivot calls
+
+Each component is building toward an automated protocol
+
