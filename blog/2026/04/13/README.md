@@ -34,3 +34,11 @@ As more and more pivots come online (when we are fully automated), the Pivot
 protocol will continue to impact $UNDEAD's price: that's what pivot arbitrage 
 is. 
 
+### Distribute gains
+
+![Move some $UNDEAD to the vault](imgs/04a-vault.png)
+![Distribute gains](imgs/04b-dist-gains.png)
+
+I move some of the $UNDEAD-gains to the $UNDEAD vault, and I distribute or 
+reinvest the pivot-gains. 
+
