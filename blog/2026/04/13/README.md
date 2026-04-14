@@ -72,3 +72,11 @@ ways, evenly, committing all assets to both actual and virtual pivots.
 
 The AVAX+UNDEAD composition and apportionment are as charted. 
 
+I could do the same thing for the BTC+UNDEAD and ETH+UNDEAD pivot pools, 
+because, [as you recall](https://x.com/pivocateur/status/2043880511760711961), 
+there are close-pivot calls both ways.
+
+However, it's nearly 2:30 am, and I'm only human, so we'll tackle this tomorrow.
+
+G'nite, fam!
+
