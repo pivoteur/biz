@@ -57,3 +57,13 @@ Interestingly, the close-pivot the other way (AVAX-on-UNDEAD) works, as well.
 I swap some of the gains to $USDC for protocol-maintenance and distribution 
 and reinvest the rest of the gains. 
 
+### Open pivots
+
+![AVAX+UNDEAD ratio](imgs/06a-ratio.png)
+![AVAX+UNDEAD deltas](imgs/06b-delta.png)
+![Open AVAX-on-UNDEAD pivot](imgs/06c-open-avax-pivot.png)
+![Open UNDEAD-on-AVAX pivot](imgs/06d-open-undead-pivot.png)
+
+For opening pivots on AVAX+UNDEAD, the call is meh: neither way, so I go both 
+ways, evenly, committing all assets to both actual and virtual pivots. 
+
