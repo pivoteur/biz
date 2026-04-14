@@ -67,3 +67,8 @@ and reinvest the rest of the gains.
 For opening pivots on AVAX+UNDEAD, the call is meh: neither way, so I go both 
 ways, evenly, committing all assets to both actual and virtual pivots. 
 
+![AVAX+UNDEAD composition](imgs/07a-comp.png)
+![AVAX+UNDEAD apportionment](imgs/07b-apport.png)
+
+The AVAX+UNDEAD composition and apportionment are as charted. 
+
