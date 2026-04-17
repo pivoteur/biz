@@ -33,3 +33,22 @@ Overall, a net $34 gain for $7,500 staked.
 
 So ... 'meh?' is my evaluation so far.
 
+## Synthetic Pivots
+
+![iBTC-swap on MinSwap](imgs/04a-m-btc.png)
+![iETH-swap on MinSwap](imgs/04b-m-eth.png)
+
+Now, for the ADA-pivots, both the 
+
+* ADA-on-BTC and
+* ADA-on-ETH
+
+pivots return less than 10% gain (or even A LOSS!?!) because the slippage 
+on @MinswapDEX, and it's WORSE on @Indigo_protocol!
+
+![iBTC-swap on Indigo](imgs/04c-i-btc.png)
+![iETH-swap on Indigo](imgs/04d-i-eth.png)
+
+If you can't swap $2.5k of $BTC, you have to ask if synthetics are viable on 
+Cardano.
+
