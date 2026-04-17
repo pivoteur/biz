@@ -52,3 +52,14 @@ on @MinswapDEX, and it's WORSE on @Indigo_protocol!
 If you can't swap $2.5k of $BTC, you have to ask if synthetics are viable on 
 Cardano.
 
+### Analysis
+
+That doesn't mean that synthetics are bad. Other protocols have done them, and 
+done them well, but it does mean that maybe Cardano isn't a blockchain to 
+trade, due to slippage.
+
+![Indigo TVL](imgs/05-indigo-tvl.png)
+
+Why is lack of liquidity a problem on Cardano? There's $8.7M liquidity 
+on @Indigo_protocol! Baffling!
+
