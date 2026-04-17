@@ -65,3 +65,63 @@ and elbow grease applied by yours, truly.
 Let's see how far I get today when I lean into today's pivoting-work. 
 #SvängbartWerk
 
+# PIVOTS
+
+## BTC+USDC
+
+![Close USDC-on-BTC pivots](imgs/04-close-usdc-on-btc-pivot.png)
+
+I close 6 USDC-on-BTC pivots for gains of:
+
+* actual ROI: 12.43% / 57.96% APR projected
+* 30.9k $USDC -> $BTC -> 34.7k $USDC 💥💥💥
+
+All investors in this pool are reinvesting dividends: I update their 
+staked-positions in the BTC+USDC pivot pool.
+
+## Open BTC+USDC pivots 
+
+![BTC+USDC Ratio](imgs/05a-ratio.png) 
+![Positive δ](imgs/05b-delta.png) 
+
+The positive δ calls to open an BTC-on-USDC pivot, which I do. 
+
+![Open BTC pivot](imgs/05c-open-btc-pivot.png) 
+
+I also open an USDC-on-BTC hedge. 
+
+![Open USDC hedge](imgs/05d-open-usdc-hedge.png) 
+
+
+
+
+
+
+
+
+All BTC+USDC assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The BTC+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+USDC pivot pool composition](imgs/06a-comp.png) 
+![The BTC+USDC pivot pool γ-apportionment](imgs/06b-apport.png) 
+
+G'nite, fam!
