@@ -74,3 +74,37 @@ At any rate, here's my report-card on the ADA-pivots:
 @Cardano @Indigo_protocol @MinswapDEX: please address this slippage issue for 
 synthetic trades.
 
+### Post-transaction amount changes on MinSwap
+
+This is how bad, and how stupid, trading is on Cardano:
+
+I submitted a trade-request to @MinswapDEX 
+
+![Requested trade accepted on MinSwap](imgs/07a-submit.png)
+
+* 903 $ADA -> 0.032 $iBTC
+
+Instead, MinSwap executed
+
+![Trade changed after transaction accepted](imgs/07b-traded.png)
+
+* 841.6 $ADA -> 0.029 $iBTC
+
+MinSwap, really? If you accept my trade-request (transaction confirmed), you 
+can't change it after.
+
+### MinSwap refused trade
+
+![MinSwap refused $iUSD trade](imgs/08a-no-trade-minswap.png)
+
+Then @minswap flat-refused to trade $ADA for $iUSD, ... even though they 
+provided the interface to set up the trade. Very puzzling!
+
+![Trade submitted on Indigo](imgs/08b-submit.png)
+![Trade executed on Indigo](imgs/08c-traded.png)
+
+At least for @Indigo_protocol, they traded the amount $ADA I submitted for the 
+amount of $iUSD I requested.
+
+You see how that works, MinSwap?
+
