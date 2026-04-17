@@ -63,3 +63,14 @@ trade, due to slippage.
 Why is lack of liquidity a problem on Cardano? There's $8.7M liquidity 
 on @Indigo_protocol! Baffling!
 
+### No Pivots on Cardano due to slippage
+
+At any rate, here's my report-card on the ADA-pivots:
+
+![No fulfilled pivots on Cardano](imgs/06-f-ada.png)
+
+* $5k is taken off the table because of slippage
+
+@Cardano @Indigo_protocol @MinswapDEX: please address this slippage issue for 
+synthetic trades.
+
