@@ -56,3 +56,12 @@ Full automation:
 * commits free assets into new pivots
 * measures and reports everything
 
+## Manual
+
+None of the above processes outlined above are fully automated, ...yet. Some 
+are partially automated with Rust programs, spreadsheets, and good ol' spit 
+and elbow grease applied by yours, truly.
+
+Let's see how far I get today when I lean into today's pivoting-work. 
+#SvängbartWerk
+
