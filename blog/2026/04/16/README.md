@@ -29,3 +29,30 @@ These distributions include:
 * $5k $UNDEAD
 
 Dude.
+
+# `dusk`
+
+Do you want to see something amazing, and for me, terrifyingly frustrating?
+
+![`dusk`-report](imgs/03-dusk.png)
+`
+There are $102k in close pivot calls today. At 10% profit that's $10k profit. 
+Today.
+
+* $10k to pay investors.
+* $10k to pay employees.
+* $10k to maintain the protocol.
+* $10k that needs full automation to get.
+
+# Automation
+
+The thing is: I don't have full automation to make the $10k a day, and set up 
+$100k in pivots to lather, rinse, and repeat the process tomorrow.
+
+Full automation:
+
+* closes the pivots
+* distributes gains
+* commits free assets into new pivots
+* measures and reports everything
+
