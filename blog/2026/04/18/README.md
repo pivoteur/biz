@@ -3,7 +3,7 @@
 G'day, pivoteurs!
 
 ![Close iUSD position](imgs/01a-close-iusd.png)
-![Swap out iUSD](imgs/01b-swap-isd.png)
+![Swap out iUSD](imgs/01b-swap-iusd.png)
 
 I'm closing the Cardano synthetic positions.
 
