@@ -55,3 +55,13 @@ Somebody grabs one our laptop, they can contribute to the code if they'd like?
 Have fun? I guess?
 
 By separating code and coders from crypto, we secure the system.
+
+# Summary
+
+Security.
+
+You see how the Pivot Protocol is taking security-measures and we do so.
+
+Security is an on-going and ever-evolving concern. The Pivot Protocol has 
+prioritized and is committed to securing your investments, continuously.
+
