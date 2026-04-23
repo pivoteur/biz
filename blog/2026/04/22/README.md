@@ -42,3 +42,106 @@ you to give it to them.
 
 "Send us x $ETH and we'll send you back DOUBLE!"
 
+## Smart contracts
+
+(Okay, OG Bitcoiners, just chill for a moment)
+
+Many (most) blockchains use smart contracts to facilitate building (meta-)transactions and protocols.
+
+Useful? YES!
+
+...maybe.
+
+Bridge-hacks, the USDC-destabilization, the GMX USDC-sieve: all smart contract hacks.
+
+How much have smart contract hacks cost cryptocurrency investors?
+
+* Terra crash, price-manipulating, the LUNA/UST smart-contract: $50B
+* Harmony BTC bridge hack, $100M
+* GMX hack: $42M
+
+Those are three hacks off the top of my head.
+
+Billions simply taken from people who had that liquidity because of smart 
+contract exploitation.
+
+Sweet.
+
+Bitcoiners, now's your turn to act smug.
+
+* Except for that one guy who gave an ØF girl 2 $BTC, because: 'she asked 
+nicely.'
+
+* ...and, then, let's not forget the guy who threw away 1,000s of $BTC into a 
+landfill.
+
+"Not your keys, not your crypto" has never taken a more literal turn.
+
+## Thots Bots
+
+So there are plenty of ways to lose crypto, and plenty of people happy to take 
+your crypto from you. 
+
+bots/people/bots/people/whatevs: they all start to look the same shade of gray 
+to me. Is there even one creative bone shared amongst the lot? Even just one?
+
+That's (lack) of crypto-security for ya, with the two major hacks of:
+
+1. they get your keys
+2. they hack smart contracts
+
+# Pivot Protocol Security
+
+What's the Pivot Protocol doing with security?
+
+Taking it seriously.
+
+There are clear partitions between:
+
+1. code and crypto
+2. coders and keys
+
+Let's look.
+
+## Code and Crypto
+
+## No Smart Contracts
+
+1. code and crypto
+
+For the Pivot Protocol production release, the Protocol dapp and UX will 
+manage user data, staking, destaking, yields, and profiles, but it will not 
+touch crypto at all.
+
+Put differently: the Pivot Protocol has no smart contracts.
+
+This decision is deliberate.
+
+Instead of smart contracts, the Pivot protocol runs its own set of dapps that 
+facilitate workflow from opening to closing pivots and all the infrastructure 
+surrounding that workflow.
+
+Why?
+
+Why reinvent the wheel?
+
+The motivation TO USE smart contracts is that it facilitates building protocols 
+to a ludicrous degree: build more, faster.
+
+The motivation NOT to use smart contracts is, well, you lose all your money: 
+time, and time again.
+
+So, what's the benefit of self-build-better?
+
+I've been studying computer science for decades, specifically proofs-as-types.
+
+Sounds familiar? No, because it's been neglected for:
+
+```Python
+for x = 1 to 10:
+	print("Hello, world!")
+	if x == 3 then c() else d()
+```
+
+for decades in academe.
+
