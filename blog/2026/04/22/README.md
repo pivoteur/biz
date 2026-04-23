@@ -133,6 +133,10 @@ time, and time again.
 
 So, what's the benefit of self-build-better?
 
+## Software Development
+
+### The traditional approach
+
 I've been studying computer science for decades, specifically proofs-as-types.
 
 Sounds familiar? No, because it's been neglected for:
@@ -144,4 +148,64 @@ for x = 1 to 10:
 ```
 
 for decades in academe.
+
+### Proofs as Types
+
+Okay, so we all know Algol, or one of its (much) weaker implementations 
+(Pascal, C/++/#, Java, Python, whatever), look like.
+
+What am I doing with the Pivot Protocol?
+
+What if, instead of functions 'doing stuff', they instead carry something 
+called 'TruthValues'?
+
+### TruthValues
+
+What do TruthValues buy me?
+
+Instead of coding branches, I simply declare the dapp as a workflow from A → Z.
+
+Should a failure occur along the way, the dapp stops and declares the reason 
+why.
+
+If the dapp succeeds, voilà! you have a pivot!
+
+Drink champaign. Celebrate good times!
+
+### Trustless
+
+Another advantage of the Pivot Protocol coding is that it is `trustless`.
+
+The Smart Contract-approach depends upon the proof-of-stake consensus-model. 
+This is not `trustless` it is, indeed, `trusting that almost everybody else is 
+on the level.`
+
+Ick.
+
+Our code is self-contained.
+
+Instead of trusting that most everybody else is on the up-and-up, our codebase 
+trusts no one and no AI. The code is built from First Principles: tested, 
+verified, and audited with decades of research and FinTech business experience.
+
+### AI
+
+Sorry, AI.
+
+Nothing personal. We just know you suck, is all.
+
+This isn't bias that's talking. This is experience talking.
+
+### Testing
+
+Back on topic.
+
+Another advantage of Proofs-as-Types or carrying TruthValues is that the code 
+becomes trivially amendable to testing.
+
+![Pivot protocol testing framework](imgs/02a-tests.png)
+![Code coverage](imgs/02b-coverage.png)
+
+The tests DON'T write themselves, ...but they almost do. Tests and 
+code-coverage strengthen code quality assurance, facilitating external audits.
 
