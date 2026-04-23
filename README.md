@@ -804,7 +804,7 @@ And, then, let's not forget the guy who threw away 1,000s of $BTC into a landfil
 
 So there are plenty of ways to lose crypto, and plenty of people happy to take your crypto from you. 
 
-bots/people/bots/people/whatevs: they all start to look the same shade of gray to me. Is there even one creative bone shared amongst the lot? Even just one?) 
+bots/people/bots/people/whatevs: they all start to look the same shade of gray to me. Is there even one creative bone shared amongst the lot? Even just one? 
 
 That's (lack) of crypto-security for ya, with the two major hacks of:
 
