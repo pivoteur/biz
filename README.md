@@ -299,34 +299,7 @@ With each pivot, the pivot pool grows the protocol. All of it.
 Each pivot pool is incubated with 50% of its total market capitalization from
 investments of liquidity from both Wagyu Games and the Pivot Protocol.
 
-### 2. The Echo Pools
-
-![The BTC+ETH echo pool](imgs/components/01b-echo-pool.png)
-
-While pivot arbitrage is occuring in the pivot pools (1., above), at the same
-time, there is pivot arbitrage occuring focused on protocol-growth in the
-echo pools (here we have the BTC+ETH echo pool, which also includes the protocol
-token, $UNDEAD).
-
-In the echo pool, pivot arbitrage occures between the pivot and principal assets
-(as 1., above), but pivots are also occuring between the protocol asset and the
-pivot and principal assets.
-
-Why?
-
-This not only increases the principal and pivot assets in the pool, but also
-increases the protocol asset.
-
-As the protocol asset is the only way to invest into protocol, even for 
-investments from the protocol, itself, the echo pool serves to grow the 
-protocol's depth and strength by growing the protocol asset via pivot arbitrage.
-
-The echo pools pay out to the investor (the you) and to the treasury.
-
-Each echo pool is funded with 50% of its market capitalization from liquidity
-provided by Wagyu Games and the Pivot Protocol.
-
-### 3. The Treasury ([_Norge_](https://en.wikipedia.org/wiki/Norway))
+### 2. The Treasury ([_Norge_](https://en.wikipedia.org/wiki/Norway))
 
 ![The Treasury](imgs/components/01c1-treasury-norge.png)
 
@@ -369,7 +342,7 @@ promising new developments that push advancements in cryptocurrency and its use.
 The treasury is initially funded by liquidity from both Wagyu Games and the
 Pivot Protocol.
 
-### 4. Asset apportionment / Measuring performance of pivot arbitrage
+### 3. Asset apportionment / Measuring performance of pivot arbitrage
 
 #### The problem, or: why 'just doing math' is problematic.
 
@@ -516,7 +489,7 @@ apples-to-apples comparison for all tokens in the pivot pool.
 
 ![PAXG pivot pool after a trade](blog/2024/10/09/imgs/06-paxg-pivot-pool-after-trades.png)
 
-### 5. The investor (the you)
+### 4. The investor (the you)
 
 ![The Investor (the you)](imgs/components/01d-investor.png)
 
@@ -530,8 +503,7 @@ How does this work?
 You, the investor, can invest your liquidity into the protocol in three ways:
 
 1. Investing into the pivot pools
-2. Investing into the echo pools
-3. Investing into the treasury
+2. Investing into the treasury
 
 Let's discuss each investment-approach in turn.
 
@@ -568,29 +540,6 @@ Let that sink in.
 ![Let that sink in](imgs/03-let-that-sink-in.jpg)
 
 Cool.
-
-### Investing into the echo pool
-
-![Investing into the echo pool](imgs/investing/02-invest-echo-pool.png)
-
-Investing into an echo pool is the same as investing into a pivot pool, as an
-echo pool is a pivot pool.
-
-However, the aim of the echo pool is quite different. The aim for the pivot
-pool is to grow the principal and pivot assets. The aim, however, for the
-echo pool is to grow the protocol asset, so this kind of pool must be deemed
-as _high risk_ as the returns and value depend heavily upon the protocol
-token's value.
-
-That said: this is a good investment for you, the investor, if your aim is to
-grow your protocol token bag.
-
-As before, you, the investor, invest $UNDEAD liquidity into the echo pool. The
-protocol takes an equal number of $UNDEAD tokens, placing (e.g.): $ETH, $BTC, 
-and $UNDEAD tokens (using the BTC+ETH echo pool for this example). The Pivot
-Protocol then executes pivot arbitrage with these tokens, and for yields you get
-in return (less) principal assets, (less) pivot assets, and (more) protocol
-assets.
 
 ### Investing into the Treasury
 
@@ -648,7 +597,7 @@ You, as the investor, may invest in
 
 Your investment approach depends on your investment goals and tolerance to risk.
 
-### 6. Investing liquidity
+### 5. Investing liquidity
 
 Let's look at how we translate invested liquidity into pivot assets. Recall our pivot pool and echo pool components. 
 
@@ -734,23 +683,6 @@ and strengthening its pivots.
 
 Q.E.D.
 
-### Echo pools
-
-![Echo pool liquidity flow](imgs/flows/02-echo-pools.png)
-
-Again, please refer to this above diagram for the discussion of echo pool
-liquidity flow.
-
-1. 20% of echo pool pivot arbitrage gains goes to the investor (remember,
-the echo pool is populated from its pivot pool at 10% of gains, so the echo
-pool is much smaller: you're not making more tokens by investing in the echo
-pool, generally-speaking).
-
-2. 40% of the echo pool pivot arbitrage gains goes to the treasury.
-
-3. 40% of the echo pool pivot arbitrage gains remain in the echo pool, 
-strengthening its pivot arbitrage trades.
-
 ### Treasury
 
 ![The Treasury liquidity flow](imgs/flows/03-treasury.png)
@@ -801,7 +733,211 @@ put a strain on the day-to-day operations of the Pivot Protocol, itself, so:
 no investment nor research will be allowed to take more than 10% of the 
 Treasury's assets.
 
-## Wat do???
+# Security
+
+Let's talk security:
+
+* security in cryptocurrency in general and
+* security for the Pivot protocol and 
+* the security-measures we're taking to safeguard investments
+
+Cryptocurrency Security in general
+
+There are many ways cryptocurrency can be phished, hacked, spoofed, rugged, stolen, or curfuffled. Of those ways, the vast majority of issues comes two snafus:
+
+1. You give somebody your keys
+2. Smart contracts
+
+Let's look.
+
+1. You give somebody your keys
+
+"Now," you think, "who would do that? Not me!"
+
+But this is how most people are fooled.
+
+* They leave their laptop open at a cafe
+* They give the telegram or discord 'Official Admin' their password to 'check their balance'
+* They go to 'that' site.
+
+You'd never give away your keys!
+
+... intentionally.
+
+But this is where most scammers concentrate their efforts, because: why hack something? That takes work! Simply steal the liquidity, or, better yet, ask you to give it to them.
+
+![Double your $ETH Scam](imgs/04a-double-eth-scam.png)
+
+"Send us x $ETH and we'll send you back DOUBLE!"
+
+2. Smart contracts
+
+(Okay, OG Bitcoiners, just chill for a moment)
+
+Many (most) blockchains use smart contracts to facilitate building (meta-)transactions and protocols.
+
+Useful? YES!
+
+...maybe.
+
+Bridge-hacks, the USDC-destabilization, the GMX USDC-sieve: all smart contract hacks.
+
+How much have smart contract hacks cost cryptocurrency investors?
+
+* Terra crash, price-manipulating, the LUNA/UST smart-contract: $50B
+* Harmony BTC bridge hack, $100M
+* USDC GMX hack: $42M
+
+Those are three hacks off the top of my head.
+
+Billions simply taken from people who had that liquidity because of smart contract exploitation.
+
+Sweet.
+
+Bitcoiners, now's your turn to act smug.
+
+Except for that one guy who gave an ØF girl 2 $BTC, because she asked nicely.
+
+And, then, let's not forget the guy who threw away 1,000s of $BTC into a landfill.
+
+"Not your keys, not your crypto" has never taken a more literal turn.
+
+So there are plenty of ways to lose crypto, and plenty of people happy to take your crypto from you. 
+
+bots/people/bots/people/whatevs: they all start to look the same shade of gray to me. Is there even one creative bone shared amongst the lot? Even just one?) 
+
+That's (lack) of crypto-security for ya, with the two major hacks of:
+
+1. they get your keys
+2. they hack smart contracts
+
+What's the Pivot Protocol doing with security?
+
+Taking it seriously.
+
+There are clear partitions between:
+
+1. code and crypto
+2. coders and keys
+
+Let's look.
+
+1. code and crypto
+
+For the Pivot Protocol production release, the Protocol dapp and UX will manage user data, staking, destaking, yields, and profiles, but it will not touch crypto at all.
+
+Put differently: the Pivot Protocol has no smart contracts.
+
+This decision is deliberate.
+
+Instead of smart contracts, the Pivot protocol runs its own set of dapps that facilitate workflow from opening to closing pivots and all the infrastructure surrounding that workflow.
+
+Why?
+
+Why reinvent the wheel?
+
+The motivation TO USE smart contracts is that it facilitates building protocols to a ludicrous degree: build more, faster.
+
+The motivation NOT to use smart contracts is, well, you lose all your money: time, and time again.
+
+So, what's the benefit of self-build-better?
+
+I've been studying computer science for decades, specifically proofs-as-types.
+
+Sounds familiar? No, because it's been neglected for:
+
+```Python
+for x = 1 to 10:
+	print("Hello, world!")
+	if x == 3 then c() else d()
+```
+
+for decades in academe.
+
+Okay, so we all know Algol, or one of its (much) weaker implementations (Pascal, C/++/#, Java, Python, whatever), look like.
+
+What am I doing with the Pivot Protocol?
+
+What if, instead of functions 'doing stuff', they instead carry something called 'TruthValues'?
+
+What do TruthValues buy me?
+
+Instead of coding branches, I simply declare the dapp as a workflow from A → Z.
+
+Should a failure occur along the way, the dapp stops and declares the reason why.
+
+If the dapp succeeds, voilà! you have a pivot!
+
+![🎶Celebration🎵](imgs/04b-celebrate.png)
+
+Drink champaign. Celebrate good times!
+
+Another advantage of the Pivot Protocol coding is that it is `trustless`.
+
+The Smart Contract-approach depends upon the proof-of-stake consensus-model. This is not `trustless` it is, indeed, `trusting that almost everybody else is on the level.`
+
+Ick.
+
+Our code is self-contained.
+
+Instead of trusting that most everybody else is on the up-and-up, our codebase trusts no one and no AI. The code is built from First Principles: tested, verified, and audited with decades of research and FinTech business experience.
+
+Sorry, AI.
+
+Nothing personal. We just know you suck, is all.
+
+This isn't bias that's talking. This is experience talking.
+
+Back on topic.
+
+Another advantage of Proofs-as-Types or carrying TruthValues is that the code becomes trivially amendable to testing.
+
+![Pivot protocol testing](imgs/04c-tests.png)
+![Code Coverage](imgs/04d-coverage.png)
+
+The tests DON'T write themselves, ...but they almost do. Tests and code-coverage strengthen code quality assurance, facilitating external audits.
+
+
+So, the 'code rant.'
+
+Pivot protocol code is trustless, proof-carrying code.
+
+So what?
+
+It means what we code is what we mean.
+
+But the code is also 100% process: it touches no assets.
+
+That is to say: no bot is going to drive your investment to $0 in one second on our protocol.
+
+2. coders and keys
+
+Okay, we've talked about the security of the code in the Pivot protocol, addressing the Smart Contract-vulnerabilities.
+
+Now let's talk about the wetware-vulnerabilities.
+
+What happens when somebody steals out of our Dev's laptops?
+
+Nothing.
+
+"Nothing? That's bold. Can you back that up?"
+
+Yes:
+
+* No dev has keys to assets.
+* No code has access to assets.
+
+Somebody grabs one our laptop, they can contribute to the code if they'd like? Have fun? I guess?
+
+By separating code and coders from crypto, we secure the system.
+
+Security.
+
+You see how the Pivot Protocol is taking security-measures and we do so.
+
+Security is an on-going and ever-evolving concern. The Pivot Protocol has prioritized and is committed to securing your investments, continuously.
+
+# Wat do???
 
 So, how do you invest into the Pivot Protocol? 
 
