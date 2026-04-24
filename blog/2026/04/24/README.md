@@ -20,3 +20,48 @@ Every single pivot I've done, I've made at least 10% gain, from day one.
 
 I convert 10% of gain to $USDC for operating expenses and distribute and 
 reinvest the remaining gains to stakers. 
+## Open BTC+AVAX pivots 
+
+![BTC+AVAX Ratio](imgs/03a-ratio.png) 
+![Positive δ](imgs/03b-delta.png) 
+
+The positive δ calls to open an BTC-on-AVAX pivot, which I do. 
+
+![Open BTC pivot](imgs/03c-open-btc-pivot.png) 
+
+I also open an AVAX-on-BTC hedge. 
+
+![Open AVAX hedge](imgs/03d-open-avax-hedge.png) 
+
+
+
+
+
+
+
+
+All BTC+AVAX assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The BTC+AVAX pivot pool composition and γ-apportionment are as charted. 
+
+![The BTC+AVAX pivot pool composition](imgs/04a-comp.png) 
+![The BTC+AVAX pivot pool γ-apportionment](imgs/04b-apport.png) 
+
