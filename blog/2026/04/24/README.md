@@ -65,3 +65,10 @@ The BTC+AVAX pivot pool composition and γ-apportionment are as charted.
 ![The BTC+AVAX pivot pool composition](imgs/04a-comp.png) 
 ![The BTC+AVAX pivot pool γ-apportionment](imgs/04b-apport.png) 
 
+# Milestone
+
+![Distributions surpass $30k](img/05-dists.png)
+
+With the distributions and reinvestments from the above close-pivot, the Pivot 
+Protocol has just surpassed $30,000 in distributions to its stakers. 
+
