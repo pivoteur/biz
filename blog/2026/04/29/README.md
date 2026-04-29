@@ -70,3 +70,19 @@ The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted.
 ![The ETH+UNDEAD pivot pool composition](imgs/04a-comp.png) 
 ![The ETH+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png) 
 
+# Taxes
+
+Pivoteurs!
+
+Do you know
+
+* it takes $100ks to set up and run a business?
+* crypto is not a security? It's not money!
+
+The IRS demands a tax return by April 30.
+
+The IRS is about to be shocked at how much they owe me.
+
+Me? I'm filing taxes in [my 
+safe-space](https://www.youtube.com/watch?v=0wobXPBDA7k).
+
