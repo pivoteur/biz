@@ -41,3 +41,13 @@ Still on $UNDEAD. There's a close-pivot available the other way. It doesn't
 work for a full trade, but a partial trade (aiming for 1.1M $UNDEAD in the 
 close) is viable. Let's do that. 
 
+![Close automation](imgs/03a-closer.png)
+![Close pivots](imgs/03b-closes.png)
+
+I close this pivot, using the automation @ParisBrand32180 implemented, for 
+gains of:
+
+* 1M $UNDEAD -> $ETH -> 1157555 $UNDEAD 
+* actual ROI: 15.76% / 212.99% APR projected
+* 157.5K $UNDEAD / $228.55 gain. 
+
