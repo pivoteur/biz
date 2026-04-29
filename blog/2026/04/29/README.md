@@ -25,3 +25,48 @@ stakers, including:
 
 Wow. Just one guy (moiself) with backing and help did this over the past year. 
 Come join the fun!
+## Open ETH+UNDEAD pivots 
+
+![ETH+UNDEAD Ratio](imgs/03a-ratio.png) 
+![Middling δ](imgs/03b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-ETH pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/03c-open-undead-pivot.png) 
+
+I also open an ETH-on-UNDEAD pivot. 
+
+![Open ETH pivot](imgs/03d-open-eth-pivot.png) 
+
+
+
+
+
+
+
+
+All UNDEAD+ETH assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The ETH+UNDEAD pivot pool composition and γ-apportionment are as charted. 
+
+![The ETH+UNDEAD pivot pool composition](imgs/04a-comp.png) 
+![The ETH+UNDEAD pivot pool γ-apportionment](imgs/04b-apport.png) 
+
