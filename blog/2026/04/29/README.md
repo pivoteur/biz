@@ -86,3 +86,15 @@ The IRS is about to be shocked at how much they owe me.
 Me? I'm filing taxes in [my 
 safe-space](https://www.youtube.com/watch?v=0wobXPBDA7k).
 
+# `pools`
+
+## 💥💥💥ANNOUNCING💥💥💥
+
+A new release of `pools` that calculates active pivot pools of the protocol.
+
+![Trustless version of `pools`](imgs/05-trustless-pools.png)
+
+The previous release was 'trusted' using a token to access data. [This 
+version](https://github.com/pivoteur/protocol/tree/main/dapps/pools)
+is 'trustless', being allowed read-only access to protocol data. 
+
