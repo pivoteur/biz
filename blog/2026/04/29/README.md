@@ -98,3 +98,13 @@ The previous release was 'trusted' using a token to access data. [This
 version](https://github.com/pivoteur/protocol/tree/main/dapps/pools)
 is 'trustless', being allowed read-only access to protocol data. 
 
+The aim for this revised dapp is to inline it into the automation suite.
+
+The aim, eventually, is to have an entirely automated protocol, pivoting 
+assets and distributing gains on a daily cadence.
+
+![Protocol testing](imgs/06a-tests.png)
+![Code coverage](imgs/06b-coverage.png)
+
+Testing and code-coverage continues to improve as work progresses. 
+
