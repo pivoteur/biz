@@ -28,3 +28,16 @@ Always know what you're buying and what you're selling.
 
 The contract for $UNDEAD on @avax is 0x5a3534720A4f29FA0dc53cE474Db88973A95f65C. 
 
+# PIVOTS 
+
+## ETH+UNDEAD 
+
+![Automation calls](imgs/03a-dusk.png) 
+![Close ETH-on-UNDEAD pivots](imgs/03`-close-eth-on-undead-pivot.png) 
+
+Automation calls to close 3 ETH-on-UNDEAD pivots (which I manually confirm) for gains of: 
+
+
+* actual ROI: 11.42% / 94.77% APR projected 
+* or: 0.3889 $ETH -> $UNDEAD -> 0.4333 $ETH 
+* or: $877.88 gain on 3 pivots totalling $1,007.58 
