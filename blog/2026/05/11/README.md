@@ -41,3 +41,14 @@ Automation calls to close 3 ETH-on-UNDEAD pivots (which I manually confirm) for 
 * actual ROI: 11.42% / 94.77% APR projected 
 * or: 0.3889 $ETH -> $UNDEAD -> 0.4333 $ETH 
 * or: $877.88 gain on 3 pivots totalling $1,007.58 
+
+# `wyrd`
+
+![`wyrd`](imgs/04-wyrd.png)
+
+I use `wyrd` – a tool developed and deployed by @ParisBrand32180 – to close the 
+pivot from `dusk` and a transaction. This saves me an hour of work per close pivot.
+
+Distributing the gains takes another ~ 4 hours, so that's an area of 
+development in our automation pipeline.
+
