@@ -3,7 +3,7 @@
 ## UNDEAD+USDC 
 
 ![Automation calls](imgs/01a-dusk.png) 
-![Close USDC-on-UNDEAD pivots](imgs/01`-close-usdc-on-undead-pivot.png) 
+![Close USDC-on-UNDEAD pivots](imgs/01b-close-usdc-on-undead-pivot.png) 
 
 Automation calls to close 3 USDC-on-UNDEAD pivots (which I manually confirm) for gains of: 
 
