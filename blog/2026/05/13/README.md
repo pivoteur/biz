@@ -64,3 +64,10 @@ The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted.
 ![The UNDEAD+USDC pivot pool composition](imgs/05a-comp.png) 
 ![The UNDEAD+USDC pivot pool γ-apportionment](imgs/05b-apport.png) 
 
+# Distributions
+
+![Distributions and reinvestments](imgs/06-dists.png)
+
+The Pivot Protocol continues to pay out distributions, nearing $33,000 in 
+distributions and reinvestments of gains since its inception.  
+
