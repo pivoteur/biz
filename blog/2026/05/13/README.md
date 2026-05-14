@@ -19,3 +19,9 @@ for gains of:
 We generate the close-pivot line, `wyrd` – developed and deployed by
 @ParisBrand32180 – to update the close-pivot table. 
 
+## Distribute Gains
+
+![Distribute gains](imgs/03-dist-gains.png)
+
+I distribute and reinvest the pivot gains for the investors. 
+
