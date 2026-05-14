@@ -25,3 +25,16 @@ We generate the close-pivot line, `wyrd` – developed and deployed by
 
 I distribute and reinvest the pivot gains for the investors. 
 
+## Open UNDEAD+USDC pivots 
+
+![UNDEAD+USDC Ratio](imgs/04a-ratio.png) 
+![Middling δ](imgs/04b-delta.png) 
+
+The meh δ makes no call, but I open an USDC-on-UNDEAD pivot, anyway. 
+
+![Open USDC pivot](imgs/04c-open-usdc-pivot.png) 
+
+I also open an UNDEAD-on-USDC pivot. 
+
+![Open UNDEAD pivot](imgs/04d-open-undead-pivot.png) 
+
