@@ -24,3 +24,20 @@ onto the next pivot.
 
 Maybe slippage or maybe price-movement invalidated this pivot. I don't know. 
 
+## UNDEAD+USDC
+
+![`dusk` ix 3 call](imgs/04a-dusk.png)
+![Close UNDEAD-on-USDC pivot](imgs/04b-close-undead-on-usdc-pivot.png)
+
+The next pivot (ix 3) the swap does surpass the 10% gain requirement, so I 
+close this pivot.
+
+![`wyrd`](imgs/04c-wyrd.png)
+
+I enter the data into `wyrd` to close the pivot, but it does not process 
+numbers with commas.
+
+![`wyrd` errors out](imgs/04d-err-out.png)
+
+This is a work in progress. 
+
