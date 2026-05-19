@@ -8,3 +8,10 @@ Hwæt, pivoteurs!
 Automation work proceeding apace. We're increasing our testing and 
 code-coverage as we develop automation. 
 
+# PIVOTS
+
+![`dusk` report](imgs/02-dusk.png)
+
+`dusk` calls for 4 close pivots. Let's examine some of them (the ones we can 
+get to), starting with the largest volume pivots first. 
+
