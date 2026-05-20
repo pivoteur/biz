@@ -61,3 +61,28 @@ The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway.
 
 ![Open UNDEAD pivot](imgs/07c-open-undead-pivot.png) 
 
+All UNDEAD+USDC assets are now committed to pivots. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The UNDEAD+USDC pivot pool composition and γ-apportionment are as charted. 
+
+![The UNDEAD+USDC pivot pool composition](imgs/08a-comp.png) 
+![The UNDEAD+USDC pivot pool γ-apportionment](imgs/08b-apport.png) 
+
