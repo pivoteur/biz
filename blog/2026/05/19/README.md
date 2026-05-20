@@ -41,3 +41,14 @@ numbers with commas.
 
 This is a work in progress. 
 
+### `wyrd` hot-fix
+
+A hot-fix in just before 8 pm ET (that is: UTC midnight), allows `wyrd` to 
+process the transaction correctly.
+
+![`wyrd` hot-fix](imgs/05-hot-fix.png)
+
+I enter this row into the UNDEAD+USDC close pivot table. 
+
+*whew!*
+
