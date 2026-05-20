@@ -52,3 +52,12 @@ I enter this row into the UNDEAD+USDC close pivot table.
 
 *whew!*
 
+## Open UNDEAD+USDC pivots 
+
+![UNDEAD+USDC Ratio](imgs/07a-ratio.png) 
+![Middling δ](imgs/07b-delta.png) 
+
+The meh δ makes no call, but I open an UNDEAD-on-USDC pivot, anyway. 
+
+![Open UNDEAD pivot](imgs/07c-open-undead-pivot.png) 
+
