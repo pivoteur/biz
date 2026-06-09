@@ -29,7 +29,7 @@ Before we go changing anything, I need to clarify two points:
 1. what does it mean that the current market cannot bear the recommended trade?
 2. Given 1. ... what does the new proposed trade actually look like?
 
-## Current Market
+### Current Market
 
 1. is easy: if I were to trade 21M $UNDEAD now, as called for, that would be 
 67% slippage, returning only 1,200 $AVAX of the 3,200 $AVAX that opened the 
@@ -39,3 +39,26 @@ pivot, or a loss, again of 67%.
 
 This is what we call 'no bueno' or: 'the current market cannot bear the 
 recommended trade.' 😅
+
+### `offrian`
+
+2. is easy ... NICHT! eheh.
+
+So, if the full trade has too much slippage and isn't viable, is there a trade 
+that is?
+
+We need a system to propose a trade, run it against the data, and determine if 
+the counteroffer (ġegncwide) is viable. For that, I propose `offrian` 
+('propose'). 
+
+### Scenario
+
+`dusk` recommends trading $26k or 21M $UNDEAD (not viable), so, counteroffer 
+(gegncwide): how about $1k or 900k $UNDEAD for 146.38 $AVAX?
+
+![Counteroffer](imgs/04-offrian.png)
+
+Is that a good trade for call #2 from `dusk`?
+
+Let's invent `offrian` as we find out ourselves.
+
