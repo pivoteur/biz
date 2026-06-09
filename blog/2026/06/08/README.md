@@ -62,3 +62,16 @@ Is that a good trade for call #2 from `dusk`?
 
 Let's invent `offrian` as we find out ourselves.
 
+# Health Check Automation
+
+But first a health check/documentation break:
+
+Thanks to the UX and automation work put in by @ParisBrand32180, our test 
+suite is now fully automated.
+
+![Testing Pre-automation](imgs/05a-auto-nicht.png)
+![Testing automation](imgs/05b-testing-automated.png)
+
+I've updated [the 
+documentation](https://github.com/pivoteur/protocol/tree/main/dapps) to 
+reflect the fully-automated testing for the Pivot Protocol.
