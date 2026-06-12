@@ -33,3 +33,12 @@ if we trade half that amount?
 
 ![Half-pivot (with lower slippage)](imgs/02c-half-piv.png)
 
+The half-trade looks good, but is it?
+
+Let's build a program that gives us a definitive answer.
+
+Step one: read the calls (the `dusk`-report), so we know the details of the 
+pivot in question.
+
+* Goes to coding-cave to do that.
+
