@@ -59,3 +59,14 @@ go/no-go metric.
 The program and automation that does this is 
 [`convcls`](https://github.com/pivoteur/protocol/tree/main/dapps/convcls).
 
+### `distr`
+
+Next I add an entry to the distribution-table. 
+
+![Add a new line to the pivot's distribution table](imgs/04-dist.png)
+
+Currently I do this manually. 
+I have an [issue on 
+github](https://github.com/pivoteur/protocol/issues/200) to automate this 
+process.
+
