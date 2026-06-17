@@ -70,3 +70,13 @@ I have an [issue on
 github](https://github.com/pivoteur/protocol/issues/200) to automate this 
 process.
 
+### `distillr`
+
+![Distributions per investor](imgs/05-dists.png)
+
+From the entry on the pivot's distribution table, and from the amount staked 
+by the investors, I compute the distributions and reinvestments of gains. I do 
+this manually now. I have an [issue open on 
+github](https://github.com/pivoteur/protocol/issues/62) to automate this 
+process.
+
