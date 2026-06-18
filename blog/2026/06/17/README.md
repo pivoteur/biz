@@ -80,3 +80,13 @@ this manually now. I have an [issue open on
 github](https://github.com/pivoteur/protocol/issues/62) to automate this 
 process.
 
+### `reinvested`
+
+I send a distribution or reinvestment message to each of my investors. 
+
+![`reinvested`-bot](imgs/06-reinvest.png)
+
+Thanks to the help from @ParisBrand32180, who developed the reinvested-dapp, 
+this process is now semi-automated for the protocol. It's a github action as a 
+[Rust dapp] (https://github.com/pivoteur/protocol/tree/main/dapps/reinvested).
+
