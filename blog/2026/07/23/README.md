@@ -15,3 +15,11 @@ gains, now the deltas call for an AVAX-on-UNDEAD pivot.
 
 This I do, and also open an UNDEAD-on-AVAX hedge. 
 
+# Uniswap LP
+
+![Uniswap LP](imgs/02a-uniswap-lp.png)
+![Provide liquidity](imgs/02b-provide.png)
+
+The @Uniswap $UNDEAD LP has accumulated funds, so I claim the fees and 
+reinvest them into the LP. 
+
