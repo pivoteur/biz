@@ -16,3 +16,13 @@ Continuing the [UNDEAD-on-ETH close pivot from yesterday](../28), ...
 
 * open a new UNDEAD-on-BTC pivot
 
+### part 5/6
+
+![Open UNDEAD-on-USDC pivot](imgs/02a-open-undead-on-usdc-pivot.png)
+
+* open UNDEAD-on-USDC pivot
+
+![Close UNDEAD-on-ETH pivot](imgs/02b-close-undead-on-eth-pivot.png)
+
+* close UNDEAD-on-ETH pivot
+
