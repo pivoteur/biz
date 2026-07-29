@@ -27,7 +27,7 @@ open UNDEAD-on-USDC pivot
 ### part 3/6
 
 ![Close UNDEAD-on-ETH pivot, 3/6](imgs/03a-close-undead-on-eth-pivot.png)
-![Open UNDEAD-on-AVAX pivot](imgs/02b-open-undead-on-avax-pivot.png)
+![Open UNDEAD-on-AVAX pivot](imgs/03b-open-undead-on-avax-pivot.png)
 
 Close 3rd UNDEAD-on-ETH pivot-part;
 open UNDEAD-on-AVAX pivot 
