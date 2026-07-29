@@ -2,7 +2,7 @@
 
 ## ETH+UNDEAD
 
-### part 4
+### part 4/6
 
 HWÆT, pivoteurs,
 
@@ -25,4 +25,22 @@ Continuing the [UNDEAD-on-ETH close pivot from yesterday](../28), ...
 ![Close UNDEAD-on-ETH pivot](imgs/02b-close-undead-on-eth-pivot.png)
 
 * close UNDEAD-on-ETH pivot
+
+### part 6/6
+
+Completing the UNDEAD-on-ETH close pivot, I do the final swap and also open an 
+UNDEAD-on-AVAX pivot.
+
+![Open UNDEAD-on-AVAX pivot](imgs/03a-open-undead-on-avax-pivot.png)
+![Close UNDEAD-on-ETH pivot, 6/6](imgs/03b-close-undead-on-eth-pivot.png)
+
+close pivot gains:
+
+* actual ROI: 14.97% / 321.39% APR projected
+
+Which is stellar! 💥
+
+Of note: I close pivots ranging from last week to MORE THAN A YEAR AGO!
+
+Pivots work.
 
