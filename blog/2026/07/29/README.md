@@ -44,3 +44,16 @@ Of note: I close pivots ranging from last week to MORE THAN A YEAR AGO!
 
 Pivots work.
 
+### Open new pivots
+
+I distribute and reinvest the gains to all investors.
+
+![ETH/UNDEAD ratio](imgs/04a-ratio.png)
+![ETH/UNDEAD deltas](imgs/04b-deltas.png)
+![Open UNDEAD-on-ETH hedge](imgs/04c-open-undead-on-eth-hedge.png)
+![Open ETH-on-UNDEAD pivot](imgs/04d-open-eth-on-undead-pivot.png)
+
+The ETH/UNDEAD δ calls to open an ETH-on-UNDEAD pivot, which I do virtually, 
+and I also open an UNDEAD-on-ETH hedge, protecting the pool from any market 
+change-in-direction.
+
