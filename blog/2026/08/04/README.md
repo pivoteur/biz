@@ -20,3 +20,14 @@ on pivot arbitrage trades.
 The protocol's aim is to have $1M of AVAX/UNDEAD liquidity in the LP.
 
 We have a ways to go.
+
+## BTC+UNDEAD
+
+![BTC/UNDEAD ratio](imgs/03a-ratio.png)
+![BTC/UNDEAD deltas](imgs/03b-deltas.png)
+![Open BTC-on-UNDEAD pivot](imgs/03c-open-btc-on-undead-pivot.png)
+![Open UNDEAD-on-BTC hedge](imgs/03d-open-undead-on-btc-hedge.png)
+
+The protocol says to open a BTC-on-UNDEAD pivot, which I do. I also open 
+an UNDEAD-on-BTC pivot. 
+
