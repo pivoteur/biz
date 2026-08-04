@@ -2,7 +2,7 @@
 
 HWÆT, Pivoteurs,
 
-![Open BTC-on-AVAX hedge]](imgs/01-open-btc-on-avax-hedge.png)
+![Open BTC-on-AVAX hedge](imgs/01-open-btc-on-avax-hedge.png)
 
 Let's start the day by opening a BTC-on-AVAX hedge. Why? Because I opened an 
 AVAX-on-BTC pivot a tad earlier today.
