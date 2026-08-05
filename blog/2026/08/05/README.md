@@ -13,3 +13,9 @@ We start our day by opening an USDC-on-UNDEAD pivot and, contrapositively,
 an UNDEAD-on-USDC hedge, as per the 
 [DIY+-page](https://pivoteur.github.io/diy.html?t1=UNDEAD&t2=USDC)
 recommendation. 
+
+# Liquidity pool
+
+![Provide liquidity to the Uniswap UNDEAD LP](imgs/02-provide.png)
+
+I fund the @Uniswap $UNDEAD liquidity pool. 
