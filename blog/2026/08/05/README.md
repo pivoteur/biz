@@ -19,3 +19,13 @@ recommendation.
 ![Provide liquidity to the Uniswap UNDEAD LP](imgs/02-provide.png)
 
 I fund the @Uniswap $UNDEAD liquidity pool. 
+
+# Open Pivots
+
+![Open UNDEAD-on-USDC pivot](imgs/03a-open-usdc.png)
+![Open UNDEAD-on-AVAX pivot](imgs/03b-avax.png)
+![Open UNDEAD-on-ETH pivot](imgs/03c-eth.png)
+![Open UNDEAD-on-BTC pivot](imgs/03d-btc.png)
+
+I open a round of UNDEAD pivots, pivoting on $USDC, $AVAX, $ETH, and $BTC, and 
+call it a night. 
