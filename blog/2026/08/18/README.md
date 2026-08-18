@@ -3,7 +3,7 @@
 HWÆT, pivoteurs!
 
 ![BTC/AVAX ratio](imgs/01a-ratio.png)
-![BTC/AVAX deltas](imgs/01a-deltas.png)
+![BTC/AVAX deltas](imgs/01b-deltas.png)
 ![Open BTC-on-AVAX pivot](imgs/01c-open-btc-on-avax-pivot.png)
 ![Open AVAX-on-BTC hedge](imgs/01d-open-avax-on-btc-hedge.png)
 
