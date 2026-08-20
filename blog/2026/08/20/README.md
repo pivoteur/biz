@@ -48,3 +48,14 @@ We explored Hedera HashGraph, but we came to that graph just as major protocols 
 
 A graph is a great idea, but low volume on the chain?
 
+# Pivot Protocol
+
+1, ... 2, ... 3, ...failed experiments?
+
+Yes, or: I see this more is things we tried along the way that didn't work out 
+for us. Sure I would've loved to bat 1000 right out of the box, but along the 
+way we have continued to advance toward a successful launch of the Pivot 
+Protocol.
+
+![Pivot Protocol](imgs/05-protocol.png)
+
