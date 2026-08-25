@@ -63,3 +63,14 @@ I open both an UNDEAD-on-USDC and a USDC-on-UNDEAD pivots.
 
 I open AVAX+UNDEAD pivots, both ways. 
 
+# 💥💥💥EXPERIMENT💥💥💥
+
+While doing "normal" pivot arbitrage (above), our team is also working on 
+automated pivot arbitrage. We are starting with a seed BTC+UNDEAD pivot pool.
+
+![Swap BTC <-> UNDEAD](imgs/07a-bot-swap.png)
+![Send gains to vault](imgs/07b-bot-send.png)
+![Balance BTC and UNDEAD balances in vault](imgs/07c-bot-balance.png)
+
+1. guided by indicators, we swap BTC <-> UNDEAD
+2. we move a portion of the pivot-gains to the vault.
