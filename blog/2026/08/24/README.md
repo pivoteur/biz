@@ -36,3 +36,11 @@ hedge upon reviewing the BTC/USDC ratio and δs.
 
 I also open an ETH-on-UNDEAD pivot and an UNDEAD-on-ETH pivot as the 
 indicators make no call either way. 
+
+## BTC+UNDEAD
+
+![BTC/UNDEAD ratio](imgs/04a-ratio.png)
+![BTC/UNDEAD delta](imgs/04b-delta.png)
+![Open UNDEAD-on-BTC pivot](imgs/04c-open-undead-on-btc-pivot.png)
+
+I open an UNDEAD-on-BTC pivot. 
