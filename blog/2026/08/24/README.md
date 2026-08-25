@@ -44,3 +44,13 @@ indicators make no call either way.
 ![Open UNDEAD-on-BTC pivot](imgs/04c-open-undead-on-btc-pivot.png)
 
 I open an UNDEAD-on-BTC pivot. 
+
+## UNDEAD+USDC
+
+![UNDEAD/USDC ratios](imgs/05a-ratio.png)
+![UNDEAD/USDC delta](imgs/05b-delta.png)
+![Open UNDEAD-on-USDC pivot](imgs/05c-open-undead-on-usdc-pivot.png)
+![Open USDC-on-UNDEAD pivot](imgs/05d-open-usdc-on-undead-pivot.png)
+
+I open both an UNDEAD-on-USDC and a USDC-on-UNDEAD pivots. 
+
