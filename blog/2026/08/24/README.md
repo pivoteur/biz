@@ -15,3 +15,14 @@ HWÆT, pivoteurs!
 * BTC+USDC pivot pool is making 15% on https://pivoteur.github.io/pools.html 
 with PG. 
 
+# Pivots
+
+## BTC+USDC
+
+![BTC/USDC ratios](imgs/02a-ratio.png)
+![BTC/USDC delta](imgs/02b-delta.png)
+![Open BTC-on-USDC pivot](imgs/02c-open-btc-on-usdc-pivot.png)
+![Open USDC-on-BTC hedge](imgs/02d-open-usdc-on-btc-hedge.png)
+
+The protocol opens a BTC-on-USDC pivot and, at the same time, a USDC-on-BTC 
+hedge upon reviewing the BTC/USDC ratio and δs. 
