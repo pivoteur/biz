@@ -59,7 +59,7 @@ I open both an UNDEAD-on-USDC and a USDC-on-UNDEAD pivots.
 ![AVAX/UNDEAD ratios](imgs/06a-ratio.png)
 ![AVAX/UNDEAD delta](imgs/06b-delta.png)
 ![Open UNDEAD-on-AVAX pivot](imgs/06c-open-undead-on-avax-pivot.png)
-![Open USDC-on-UNDEAD pivot](imgs/06d-open-avax-on-undead-pivot.png)
+![Open AVAX-on-UNDEAD pivot](imgs/06d-open-avax-on-undead-pivot.png)
 
 I open AVAX+UNDEAD pivots, both ways. 
 
