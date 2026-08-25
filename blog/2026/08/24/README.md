@@ -26,3 +26,13 @@ with PG.
 
 The protocol opens a BTC-on-USDC pivot and, at the same time, a USDC-on-BTC 
 hedge upon reviewing the BTC/USDC ratio and δs. 
+
+## ETH+UNDEAD
+
+![ETH/UNDEAD ratios](imgs/03a-ratio.png)
+![ETH/UNDEAD delta](imgs/03b-delta.png)
+![Open ETH-on-UNDEAD pivot](imgs/03c-open-eth-on-undead-pivot.png)
+![Open UNDEAD-on-ETH pivot](imgs/03d-open-undead-on-eth-pivot.png)
+
+I also open an ETH-on-UNDEAD pivot and an UNDEAD-on-ETH pivot as the 
+indicators make no call either way. 
