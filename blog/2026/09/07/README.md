@@ -24,3 +24,20 @@ I'm learning something: every day!
 
 Progress tracked with [issue
 263](https://github.com/pivoteur/protocol/issues/263).
+
+## fix
+
+![ `convcls` fixed](imgs/03a-convcls-fixed.png)
+
+* `convcls` is now fixed.
+
+# `offrian` dapp
+
+![ `offrian` allows too large counter-offers](imgs/03b-offrian-overplay.png)
+
+* But now I notice that `offrian` allows counteroffers of more than the 
+proposed close, which is not a good thing.
+
+Created an issue and [tracking it
+here](https://github.com/pivoteur/protocol/issues/266).
+
