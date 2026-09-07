@@ -12,3 +12,15 @@ some cases they were comma-separated.
 ![`convcls` failure](imgs/01b-choke.png)
 
 `convcls` chokes on this.
+
+## debugging
+
+Actually, debugging shows that the `new_to_actual` column can be a CommaFloat, 
+and the parser is choking on the comma.
+
+![ `new_to_actual` column](imgs/02-new_to_actual.png)
+
+I'm learning something: every day! 
+
+Progress tracked with [issue
+263](https://github.com/pivoteur/protocol/issues/263).
