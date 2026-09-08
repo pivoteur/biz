@@ -34,3 +34,10 @@ I have failing tests.
 
 [Issue 85 on trading-repository](https://github.com/pivoteur/trading/issues/85)
 
+## Benqi work-around
+
+![Benqi swap](imgs/03-benqi-swap.png)
+
+For now, I use the work-around of Benqi's swap, which does recognize the 
+sAVAX-balance on my wallet and can complete the trade. 
+
