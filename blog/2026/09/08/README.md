@@ -41,3 +41,15 @@ I have failing tests.
 For now, I use the work-around of Benqi's swap, which does recognize the 
 sAVAX-balance on my wallet and can complete the trade. 
 
+# PIVOTS
+
+## BTC+AVAX
+
+![BTC/AVAX ratio](imgs/04a-ratio.png)
+![BTC/AVAX deltas](imgs/04b-deltas.png)
+![Open AVAX-on-BTC pivot](imgs/04c-open-avax-on-btc-pivot.png)
+![Open BTC-on-AVAX hedge](imgs/04d-open-btc-on-avax-hedge.png)
+
+Indicators call for an AVAX-on-BTC pivot, which I open. I also open a 
+BTC-on-AVAX hedge. 
+
