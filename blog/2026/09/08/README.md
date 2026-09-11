@@ -20,6 +20,9 @@ This makes opening new pivots... difficult.
 
 Kyber is looking into this issue. 
 
+> Update: Kyber has resolved the issue and I can now see the sAVAX in their 
+swap-DEX.
+
 # Failing tests
 
 Besides a certain 'masqueð' wallet, I have my own program that queries an 
@@ -52,4 +55,5 @@ sAVAX-balance on my wallet and can complete the trade.
 
 Indicators call for an AVAX-on-BTC pivot, which I open. I also open a 
 BTC-on-AVAX hedge. 
+
 
