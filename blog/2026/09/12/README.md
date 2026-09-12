@@ -39,3 +39,13 @@ successful run before overwriting the open pivot tables.
 
 Two improvements I didn't know I needed, but now the protocol is better for it. 
 
+## `hwaet` and `dusk` working
+
+With the BTC+ETH open pivots updated, `virtsz` corrected, both `hwaet` and 
+`dusk` ran without a hitch. 
+
+![ `hwaet` run](imgs/05a-hwaet.png)
+![ `dusk` run](imgs/05b-dusk.png)
+
+YAY! 
+
