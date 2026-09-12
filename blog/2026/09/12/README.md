@@ -29,3 +29,13 @@ protocol-argument is redundant and confuses the dapp.
 I'm [eliminating the 
 protocol-argument](https://github.com/pivoteur/protocol/issues/269) from 
 `virtsz`. 
+
+### fixed
+
+Now `virtsz` is not only protocol-independent, but it also checks a 
+successful run before overwriting the open pivot tables.
+
+![ `virtsz` run](imgs/04-virtsz-run.png)
+
+Two improvements I didn't know I needed, but now the protocol is better for it. 
+
