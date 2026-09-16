@@ -59,3 +59,23 @@ Maybe I fat-fingered a wallet address incorrectly?
 
 Anyway, `sendan` works fine!
 
+# `ceap`
+## retrial
+
+I say to myself, SELF! (because that's what I call myself when I'm talking to 
+myself)
+
+SELF! I say, let's try
+
+* [ `ceap` ](https://github.com/pivoteur/trading/tree/main/dapps/ceap)
+
+to open pivots one more time.
+
+![BTC/ETH ratio](imgs/05a-ratio.png)
+![BTC/ETH deltas](imgs/05b-deltas.png)
+![ETH-on-BTC pivot](imgs/05c-eth-on-btc.png)
+![BTC-on-ETH pivot opened with `ceap` ](imgs/05d-ceap-btc-on-eth.png)
+
+This time it worked just fine, soooo ... fat-fingering error before? I'll go 
+with that.
+
