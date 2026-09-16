@@ -30,3 +30,15 @@ First automation tool:
 * [gelic](https://github.com/pivoteur/trading/tree/main/dapps/gelic)
 
 which reads wallet balances.
+
+# `ceap`
+
+![ `ceap` ](imgs/03a-ceap.png)
+![Dry run](imgs/03b-dry-run.png)
+![Trade failed; gas estimate error](imgs/03c-failed.png)
+
+I go to trade ETH for BTC for a pivot, but the dapp that does that, `ceap` 
+(pronounced: 'cart'), throws an error, saying that it can't estimate gas.
+
+I've [opened an issue](https://github.com/pivoteur/trading/issues/86)
+addressing this.
