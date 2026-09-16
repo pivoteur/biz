@@ -42,3 +42,20 @@ I go to trade ETH for BTC for a pivot, but the dapp that does that, `ceap`
 
 I've [opened an issue](https://github.com/pivoteur/trading/issues/86)
 addressing this.
+
+# `sendan`
+
+After doing a manual swap for the pivot, I attempt to send the tokens to 
+storage, using the dapp 
+
+![ `sendan` ](imgs/04a-sendan.png)
+![Tokens sent](imgs/04b-sent.png)
+
+* [ `sendan` ](https://github.com/pivoteur/trading/tree/main/dapps/sendan)
+
+The first time I used the dapp it failed, but here it worked.
+
+Maybe I fat-fingered a wallet address incorrectly?
+
+Anyway, `sendan` works fine!
+
