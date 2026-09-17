@@ -27,3 +27,15 @@ adjustment-process, which is cool!
 Let's pivot that liquidity with automations to do that ([issue to create 
 automations](https://github.com/pivoteur/trading/issues/88)).
 
+# Pivots and (building) automation
+
+## `frignan`
+
+The first automation is
+
+![ `frignan` ](imgs/03a-frignan.png)
+![BTC quote](imgs/03b-btc.png)
+
+* [ `frignan` ](https://github.com/pivoteur/trading/actions/workflows/frignan.yml)
+
+which queries the blockchain for the current price of an asset.
