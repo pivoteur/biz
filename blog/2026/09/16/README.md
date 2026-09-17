@@ -39,3 +39,18 @@ The first automation is
 * [ `frignan` ](https://github.com/pivoteur/trading/actions/workflows/frignan.yml)
 
 which queries the blockchain for the current price of an asset.
+
+## `gelic`
+
+Next, let's create automation for
+
+![ `gelic` run](imgs/04a-gelic.png)
+![wallet balance on Avalanche](imgs/04b-balance.png)
+
+* [ `gelic` ](https://github.com/pivoteur/trading/actions/workflows/gelic.yml)
+
+which reads a wallet's balances on a blockchain.
+
+You see this wallet is empty, so we'll need to provide liquidity (with the 
+next dapp).
+
