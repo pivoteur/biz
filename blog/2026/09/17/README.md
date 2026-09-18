@@ -43,3 +43,9 @@ That being said, I open BTC-on-ETH and ETH-on-BTC pivots, using `ceap`.
 
 I need a program that opens the pivot and also writes the open-pivot line 
 ([issue](https://github.com/pivoteur/trading/issues/108)).
+
+## `sendan`
+
+![ `sendan` ETH back to the treasury](imgs/04-sendan.png)
+
+I send the traded-ETH back to the treasury using `sendan`. 
