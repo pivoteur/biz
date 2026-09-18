@@ -29,3 +29,17 @@ surpasses the floor.
 
 I've [created an issue](https://github.com/pivoteur/trading/issues/107), 
 and proceeded with no floor set.
+
+# Pivots
+
+## BTC+ETH
+
+That being said, I open BTC-on-ETH and ETH-on-BTC pivots, using `ceap`.
+
+![BTC/ETH ratio](imgs/03a-ratio.png)
+![BTC/ETH deltas](imgs/03b-ratio.png)
+![Open ETH-on-BTC pivot](imgs/03c-eth-on-btc.png)
+![Open BTC-on-ETH pivot](imgs/03d-ceap-btc-on-eth.png)
+
+I need a program that opens the pivot and also writes the open-pivot line 
+([issue](https://github.com/pivoteur/trading/issues/108)).
