@@ -24,3 +24,14 @@ infrastructure.
 
 UX is a different story entirely, which may (or may not) be covered in a 
 different thread entirely, ... someday.
+
+## Open pivots
+
+We have the basic building blocks, now we need to lay out the infrastructure.
+
+The first thing I want to do is to open pivots.
+
+quiz02 takes a stepwise-approach to building a dapp that opens new pivots.
+
+First step: [see what assets are already 
+committed](https://github.com/pivoteur/trading/tree/main/quizzes/src/quiz02/a_opens).
