@@ -83,4 +83,18 @@ Use AI to teach you to ask better questions, THEN you'll get better answers.
 This thread is rolled up as a @LinkedIn post 
 [here](https://www.linkedin.com/feed/update/urn:li:activity:7508201105890168832/).
 
+-----
+
+# BTC
+
+HWÆT, pivoteurs, and well-met!
+
+![BTC price-chart](imgs/01a-btc.png)
+![Protocol Health](imgs/01b-health.png)
+![Pivot calls](imgs/01c-calls.png)
+
+While I've been sitting around, writing code, writing screeds about AI, BTC 
+has been doing this, opening up multiple pivot-opportunities.
+
+TO WORK, HO! 
 
