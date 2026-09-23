@@ -98,3 +98,16 @@ has been doing this, opening up multiple pivot-opportunities.
 
 TO WORK, HO! 
 
+# Open Pivots dapp
+
+The open-pivots dapp proceeds a-hiccoughing-pace.
+
+I'm reading wallet-balances and assets committed to pivots, but when I got to 
+calculate assets availability, I get errors.
+
+![Calculating available assets causes errors](imgs/02-avail-errors.png)
+
+Unfortunately, blockchain-typing varies in the libraries.
+
+I opened [an issue](https://github.com/pivoteur/protocol/issues/276) on this 
+disparate blockchain typing.
