@@ -17,6 +17,7 @@ HWÆT, pivoteurs, and well-met!
 UNDEAD price-chart, last 7 days. 
 
 # dapp
+
 ## Compute Available assets
 
 Yesterday, there was [an issue of disparate representations of 
@@ -27,3 +28,9 @@ available for pivoting in a pivot pool on a wallet.
 ![Assets available to pivot](imgs/03-avails.png)
 
 [c_avails](https://github.com/pivoteur/trading/tree/main/quizzes/src/quiz02/c_avails)
+
+## open new pivots and record
+
+Now that we've computed available assets, let's write a dapp to [open
+pivots](https://github.com/pivoteur/trading/tree/main/quizzes/src/quiz02/d_open_pivots_and_record)
+for us! 
