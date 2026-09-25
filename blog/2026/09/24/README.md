@@ -13,3 +13,14 @@ trading-protocol.
 Calls will soon be automated!
 
 You also see everything is fully-tested.
+
+## Open pivot automation
+
+We have the next step in open-pivot automation:
+
+![Current token-prices and target pivot amounts](imgs/02-target-trade-amounts.png)
+
+* current token-prices from the blockchain; and,
+* target pivot amounts per token in the model
+
+[source code](https://github.com/pivoteur/trading/tree/main/quizzes/src/quiz02/d_target_trade_amounts)
