@@ -12,3 +12,15 @@ AVAX is doing interesting things.
 ![Open BTC-on-AVAX hedge](imgs/01d-btc-on-avax.png)
 
 Let's start today with a BTC-on-AVAX hedge and an AVAX-on-BTC pivot. 
+
+## AVAX+UNDEAD
+
+STILL on the AVAX-kick.
+
+![Close 3 UNDEAD-on-AVAX pivots](imgs/02-close-undead-on-avax.png)
+
+I close 3 UNDEAD-on-AVAX pivots for gains of: 
+
+* actual ROI: 35.07% / 328.22% APR projected 💥💥💥
+
+WOW! 
