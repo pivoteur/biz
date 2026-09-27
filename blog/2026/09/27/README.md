@@ -16,4 +16,22 @@ This is how I build, and how I am building, my company, spreadsheet after
 spreadsheet after spreadsheet after spreadsheet after Rust dapps after Github 
 automation.
 
+# PIVOTS
 
+## BTC+AVAX
+
+![BTC/AVAX ratio](imgs/02a-ratio.png)
+![BTC/AVAX deltas](imgs/02b-deltas.png)
+![Open AVAX-on-BTC pivot](imgs/02c-avax-on-btc.png)
+![Open BTC-on-AVAX hedge](imgs/02d-btc-on-avax.png)
+
+Let's open new BTC+AVAX pivots.
+
+* I open an AVAX-on-BTC pivot
+* I also open a BTC-on-AVAX hedge.
+
+BTC/AVAX ratios and delta-indicators [shown and 
+available](https://pivoteur.github.io/diy.html?t1=BTC&t2=AVAX).
+
+You can run your own charts and do your own analyses with these tools, if 
+you'd like.
