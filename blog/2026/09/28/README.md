@@ -52,3 +52,15 @@ That's what the Pivot Protocol does. It pivots assets from and to those
 assets, including BTC.
 
 To date, we've distributed $56k in gains, including $16k in BTC
+
+# Automation progress
+
+`ceap` (pronounced 'cart'), a dapp that trades 'X' or 'Y' on the blockchain, 
+works.
+
+![ `ceap` run](imgs/03-ceap.png)
+
+There was a period where `ceap` wasn't working. It could've been weird contract 
+interactions with sAVAX on a DEX. I don't know.
+
+I do know that `ceap` running makes me happy.
