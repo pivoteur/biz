@@ -64,3 +64,22 @@ There was a period where `ceap` wasn't working. It could've been weird contract
 interactions with sAVAX on a DEX. I don't know.
 
 I do know that `ceap` running makes me happy.
+
+## trading issue resolved
+
+`ceap` working, besides making me happy, which is nice, also resolves 
+[issue #107](https://github.com/pivoteur/trading/issues/107) on the trading 
+repository, ... which is also nice.  
+
+## BUIDL'n dapp
+
+Besides the 'niceness' of it all, `ceap` working means that I can proceed with 
+BUIDL'n an open pivot dapp.
+
+We completed [computing a target trade amount to open a 
+pivot](https://github.com/pivoteur/trading/issues/126), let's move onto the 
+next step.
+
+Which is what?
+
+Let's see if we can open a pivot.
