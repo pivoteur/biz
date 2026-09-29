@@ -57,3 +57,16 @@ Let's open BTC+AVAX pivots. I open:
 as per [EMA-20 ratio and delta 
 indicators](https://pivoteur.github.io/diy.html?t1=BTC&t2=AVAX) provided by 
 the Pivot protocol.
+
+## AVAX+UNDEAD
+
+Let's close 2 UNDEAD-on-AVAX pivots for gains of:
+
+![Close UNDEAD-on-AVAX pivots](imgs/03-close-undead-on-avax-pivots.png)
+
+* actual ROI: 14.98% / 1367.05% APR projected 💥
+
+or ~$386.
+
+I distribute and reinvest gains for the investors (this I will do after lunch, 
+kthxbai!)
