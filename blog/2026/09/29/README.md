@@ -25,3 +25,17 @@ I've found programming is the art of finding out the code you just wrote to
 solve the problem is in somebody else's library already.
 
 The trick is to find the library! 😎
+
+# Fundamentals
+
+A fundamental aspect of 'library improvements' or of closing any issue, 
+generally, is:
+
+* Does the system work after rolling out the changes?
+
+![Protocol health](imgs/01a-health.png)
+![Pivot close calls](imgs/01b-calls.png)
+
+Fundamentals. Testing. "Definition of 'done.'" Coverage.
+
+We can't neglect these in this modern AI era. 
