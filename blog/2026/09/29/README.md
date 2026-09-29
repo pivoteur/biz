@@ -39,3 +39,21 @@ generally, is:
 Fundamentals. Testing. "Definition of 'done.'" Coverage.
 
 We can't neglect these in this modern AI era. 
+
+# PIVOTS
+
+## BTC+AVAX
+
+Let's open BTC+AVAX pivots. I open:
+
+![BTC/AVAX ratio](imgs/02a-ratio.png)
+![BTC/AVAX deltas](imgs/02b-deltas.png)
+![Open AVAX-on-BTC pivot](imgs/02c-avax-on-btc.png)
+![Open BTC-on-AVAX hedge](imgs/02d-btc-on-avax.png)
+
+* an AVAX-on-BTC pivot and
+* a BTC-on-AVAX hedge
+
+as per [EMA-20 ratio and delta 
+indicators](https://pivoteur.github.io/diy.html?t1=BTC&t2=AVAX) provided by 
+the Pivot protocol.
