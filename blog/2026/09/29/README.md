@@ -70,3 +70,16 @@ or ~$386.
 
 I distribute and reinvest gains for the investors (this I will do after lunch, 
 kthxbai!)
+
+### Let's open new AVAX+UNDEAD pivots
+
+![AVAX/UNDEAD ratio](imgs/04a-ratio.png)
+![AVAX/UNDEAD deltas](imgs/04b-deltas.png)
+![Open AVAX-on-UNDEAD pivot](imgs/04c-avax-on-undead.png)
+![Open UNDEAD-on-AVAX hedge](imgs/04d-undead-on-avax.png)
+
+* I open an AVAX-on-UNDEAD pivot and
+* an UNDEAD-on-AVAX hedge
+
+as per [Pivot protocol 
+indicators](https://pivoteur.github.io/diy.html?t1=AVAX&t2=UNDEAD)
