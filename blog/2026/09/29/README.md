@@ -96,3 +96,16 @@ indicators](https://pivoteur.github.io/diy.html?t1=AVAX&t2=UNDEAD)
 
 as per [Pivot protocol 
 indicators](https://pivoteur.github.io/diy.html?t1=BTC&t2=UNDEAD)
+
+## Let's also open ETH+UNDEAD pivots:
+
+![ETH/UNDEAD ratio](imgs/06a-ratio.png)
+![ETH/UNDEAD deltas](imgs/06b-deltas.png)
+![Open ETH-on-UNDEAD pivot](imgs/06c-eth-on-undead.png)
+![Open UNDEAD-on-ETH hedge](imgs/06d-undead-on-eth.png)
+
+* I open an ETH-on-UNDEAD pivot and
+* an UNDEAD-on-ETH hedge
+
+with the assistance of the [Pivot protocol
+indicators](https://pivoteur.github.io/diy.html?t1=ETH&t2=UNDEAD).
