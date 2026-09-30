@@ -83,3 +83,16 @@ kthxbai!)
 
 as per [Pivot protocol 
 indicators](https://pivoteur.github.io/diy.html?t1=AVAX&t2=UNDEAD)
+
+## Also, let's open BTC+UNDEAD pivots
+
+![BTC/UNDEAD ratio](imgs/05a-ratio.png)
+![BTC/UNDEAD deltas](imgs/05b-deltas.png)
+![Open BTC-on-UNDEAD pivot](imgs/05c-btc-on-undead.png)
+![Open UNDEAD-on-BTC hedge](imgs/05d-undead-on-btc.png)
+
+* I open a BTC-on-UNDEAD pivot and
+* an UNDEAD-on-BTC hedge
+
+as per [Pivot protocol 
+indicators](https://pivoteur.github.io/diy.html?t1=BTC&t2=UNDEAD)
