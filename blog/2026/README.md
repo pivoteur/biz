@@ -2,6 +2,7 @@
 
 ## 2026 entries
 
+* [October, 2026](10)
 * [September, 2026](09)
 * [August, 2026](08)
 * [July, 2026](07)
