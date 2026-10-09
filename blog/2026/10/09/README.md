@@ -4,7 +4,7 @@ HWÆT, pivoteurs, and well-met!
 
 ![BTC crash](imgs/01a-btc.png)
 
-Last night, did somebody panic-sell there 10,000 BTC at leverage?
+Last night, did somebody panic-sell their 10,000 BTC at leverage?
 
 No matter: we pivoteurs make money whether the markets go up or go down.
 
