@@ -29,3 +29,19 @@ Pivot Arbitrage is the simplest trading technique in the world once discovered
 the markets do anymore?
 
 I wonder.
+
+# Logic programming with [crepe](https://crates.io/crates/crepe)
+
+[Datalog on Rust](https://github.com/ekzhang/crepe) with procedural macros.
+
+All because I wanted implication à la:
+
+```Rust
+token_entry.native ->
+   Err("Native token send not supported")
+```
+
+As a `sendan` guard (for now).
+
+Huh.
+
