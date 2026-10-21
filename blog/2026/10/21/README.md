@@ -25,3 +25,15 @@ USDC](https://snowtrace.io/tx/0x1d830b179a37ed61c3816aa5cf57d5bd58888071aa14ff3b
 
 This is a EVM-blockchain particularity. I'm coding a solution to this 
 [issue](https://github.com/pivoteur/trading/issues/157)
+
+### Binance
+
+The same problem exists on the Binance blockchain: I can trade non-protocol 
+tokens, but I can't trade BNB.
+
+![Binance: same trading issue](imgs/03-binance.png)
+
+I believe the same code-fix will fix this issue on both blockchains, as that 
+worked for `sendan` across blockchains. 
+
+Testing: so vital for catching issue before a production-launch!
