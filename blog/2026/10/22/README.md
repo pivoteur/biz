@@ -22,3 +22,13 @@ Binance blockchains.
 Let's open a BTC-on-AVAX pivot and a AVAX-on-BTC hedge, as per [indicators on 
 the Pivot Protocol](https://pivoteur.github.io/diy.html?t1=BTC&t2=AVAX).
 
+## BTC+ETH
+
+![BTC/ETH ratio](imgs/03a-ratio.png)
+![BTC/ETH deltas](imgs/03b-deltas.png)
+![BTC-on-ETH pivot](imgs/03c-btc-on-eth.png)
+![ETH-on-BTC hedge](imgs/03d-eth-on-btc.png)
+
+I open a BTC-on-ETH pivot and an ETH-on-BTC hedge as per 
+[indicators](https://pivoteur.github.io/diy.html?t1=BTC&t2=ETH).
+
