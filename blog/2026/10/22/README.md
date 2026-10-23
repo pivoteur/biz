@@ -10,3 +10,15 @@ HWÆT, pivoteurs, and well-met
 that trades assets – now works with native assets on both Avalanche and 
 Binance blockchains.
 
+# PIVOTS
+
+## BTC+AVAX
+
+![BTC/AVAX ratio](imgs/02a-ratio.png)
+![BTC/AVAX deltas](imgs/02b-deltas.png)
+![BTC-on-AVAX pivot](imgs/02c-btc-on-avax.png)
+![AVAX-on-BTC hedge](imgs/02d-avax-on-btc.png)
+
+Let's open a BTC-on-AVAX pivot and a AVAX-on-BTC hedge, as per [indicators on 
+the Pivot Protocol](https://pivoteur.github.io/diy.html?t1=BTC&t2=AVAX).
+
